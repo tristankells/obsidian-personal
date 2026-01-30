@@ -1,0 +1,5 @@
+- NZ$117,700 salary converts to approximately **£50,400**
+- After UK tax and National Insurance deductions, you'd take home roughly **£3,300 per month** (£39,520 annually).
+- **Her expected salary**: £55,000 (£3,500/month take-home)
+- **Together**; Total: £6,800/month take-home
+- 

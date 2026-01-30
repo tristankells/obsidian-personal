@@ -1,0 +1,26 @@
+# Todo
+- Headers not properly aligned with values.
+- We must be saving the calories, macros etc... we cannot do this, because if we change a recipes, I want to update the tables to reflect this straight away.
+- Include percentages
+- Goin over on the protein is not as bad as going over on other things... how to represent this, our how to represent what tiers of protein we need?
+	- Do we bake our protein table into this page?
+	- Do we represent bare minimum values for other things? Need so much fat per day.
+- Add "Add to grocery list option on daily food planner"
+- Have a hard think about the best way to oganiuse the tables / tabs.
+	- Should we automatically have tables for users?
+		- Option to add user from here as well as macros?
+	- Do we want daily plans for different goals? Weight loss / weigh gain plans?
+		- How to indicate what aligns with our current macro goals?
+- Why blackberries not showing any calories?
+	- Need warning if the serving we have put in cannot be parsed.
+	- Need to show how many grams our serving got converted to.
+- Create a "Summary" page, that you can host online and provide to marliese, that shows here what the food of the week is, calories, macros for meals etc....
+# Initial Specs
+- I need a new page, called daily food planning.
+- I want the page to have tabs, like a spreadsheet. It should start with one tab.
+- In the table, I have the option of adding rows.
+- Each row has a dropdown of containing all of the recipes AND all of the food in my application. It also has a serving name column, a quantity column, a calories column, protien column, carb column.
+- I would also like the option of adding header coliumns with custom names, Like breakfast, lunch, dinner, snacks.
+- At the bottom of the tab / tabel, should be a summary of the calories, fat, protien, carbs.
+  - I would like the option of associating the user details calories recomendations from the macro targets. Each tab could be for a use. Multiple tabes could be for the same user, These will be underneath the total summaries and would say how much more of anything we need to hit target. They should be coloured green if we are within 10% of target, organe if withing 20% and red if anything else.
+  - 

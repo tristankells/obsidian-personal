@@ -1,0 +1,23 @@
+# Personal
+- ~~Book movie tickets.
+- ~~Update Anki cards.
+- ~~Pay mum back **1428.23**~~
+- ~~Refine your daily morning, nighttime and weekly routines. Print out physical cards for it.
+- Sell Tanares Ultimate Adventures Miniatures Version.
+	- Do inventory to make sure you have all the pieces.
+	- $469.96 USD Brand New Including Shipping
+	- $200 NZD feasible.
+- Call Claire.
+- [I Gave 2 Hours Daily to DSA & System Design, Best Decision Ever | by Himanshu Singour | Medium](https://medium.com/@himanshusingour7/i-gave-2-hours-daily-to-dsa-system-design-best-decision-ever-af6c0ae6a938)
+- Review a typing speed improvement [How I quadrupled my typing speed. Using deliberate practice to improve… | by Louis Kruger | Medium](https://louiskruger.medium.com/how-i-quadrupled-my-typing-speed-2c707d78f551).
+- [[Implement your own personal Multi Scale planning rituals]]
+- Finish your habits worksheet for food tracking...
+- (Envelopes) Fix the too many transactions issue / re-order them?
+- Learn some songs on guitar.
+- Develop a movie obsession habit.
+- [[Take up Kegels (pelvic floor exercise) for better urine control and other things]]
+- Take a course on anger management / resiliency to change.
+- Read book on binge eating.
+- Read Easy Peasy.
+- No phone in the morning habits / track phone usage / no phone in the bedroom
+- Improve your handwriting!

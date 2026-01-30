@@ -1,0 +1,7 @@
+- Keep
+	- How much should we expect in rental income?
+	- How much of that goes towards some one managing it?
+	- How much will that cost in repairs?
+- Sell
+	- How much have we spent so far?
+	- How much of that is against the principle?

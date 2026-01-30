@@ -1,0 +1,3 @@
+- Finding a tenant in New Zealand typically takes 3–5 weeks from listing to move-in, though this can extend to **8+ weeks** in a slower market, with 1-2 weeks for marketing and 2-3 weeks for tenant screening and moving
+- **Safe buffer:** 12 weeks
+	- Based on Marliese leaving no sooner than October, should do repairs / painting in May. Each out to rental company at end of may.
