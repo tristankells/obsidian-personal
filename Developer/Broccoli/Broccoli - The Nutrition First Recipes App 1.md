@@ -15,6 +15,7 @@
 	- On save, create a seasonality score for each month, then display that in the recipes page.
 - Recipe editing is a bit broken.
 - Filter by ingredient.
+- Show grams conversion in read only view.
 # Azure Resources
 - 
 # MVP
