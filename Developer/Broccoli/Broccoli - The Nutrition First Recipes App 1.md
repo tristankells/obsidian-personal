@@ -3,6 +3,7 @@
 - Feature
 	- The type of tuning we want to do for calories normally excludes seasoning / vegetables, most fat sources, empty carbohydrates and protein sources.
 	- So, we might be able to make an automatic balancer of some kind...
+	- Easy way would be to identify the main sources of any of the macros.
 # Azure Resources
 - 
 # MVP
