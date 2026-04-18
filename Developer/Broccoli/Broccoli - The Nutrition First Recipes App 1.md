@@ -14,6 +14,7 @@
 - Seasonality needs to be overalled...
 	- On save, create a seasonality score for each month, then display that in the recipes page.
 - Recipe editing is a bit broken.
+- Filter by ingredient.
 # Azure Resources
 - 
 # MVP
