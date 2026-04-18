@@ -10,6 +10,10 @@
 	- Should we save calories / macro per serving on the recipes pages?
 - Fix issue where calories and macro don't match because of fiber?
 	- Add fiber to recipes?
+	- Confirm fiber is the issue.
+- Seasonality needs to be overalled...
+	- On save, create a seasonality score for each month, then display that in the recipes page.
+- Recipe editing is a bit broken.
 # Azure Resources
 - 
 # MVP
