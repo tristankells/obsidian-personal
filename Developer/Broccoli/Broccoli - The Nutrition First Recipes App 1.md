@@ -1,5 +1,5 @@
 # Todo
-- Group nagivation items in sub headers; Recipes and Planning/Health.
+- Group navigation items in sub headers; Recipes and Planning/Health.
 - Feature
 	- The type of tuning we want to do for calories normally excludes seasoning / vegetables, most fat sources, empty carbohydrates and protein sources.
 	- So, we might be able to make an automatic balancer of some kind...
@@ -8,6 +8,8 @@
 - Highlight the largest sources of each macro in the nutrition breakdown.
 - Show calories serving calories on the recipes page itself...
 	- Should we save calories / macro per serving on the recipes pages?
+- Fix issue where calories and macro don't match because of fiber?
+	- Add fiber to recipes?
 # Azure Resources
 - 
 # MVP
