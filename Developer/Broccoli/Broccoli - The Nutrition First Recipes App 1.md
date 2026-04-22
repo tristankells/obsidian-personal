@@ -16,6 +16,7 @@
 - Recipe editing is a bit broken.
 - Filter by ingredient.
 - Show grams conversion in read only view.
+- Put favorites recipes at the top of meal planning dropdowns.
 # Azure Resources
 - 
 # MVP
