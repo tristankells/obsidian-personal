@@ -1,8 +1,19 @@
 # Spending Breakdown
-- A pie chart of spending of breakdown, where each slice is a catergory.
-- In the middle of the chart is "Total Spending" and the sum of what is spent.
+- The page should include 4 sections
+- Largest section
+	- A pie chart of spending of breakdown, where each slice is a catergory.
+	- Aboce each part of the chart should be the name of the category, the value spent in that category and 
+	- In the middle of the chart is "Total Spending" and the sum of what is spent.
+- 
 - The period being covered should be configurable.
 	- Options include:
 		- This Month
 		- Last 3 months
-		- last 
+		- last 6 months
+		- last 12 years
+		- year to date
+		- last year
+		- all dates
+- Should be a filter for categories
+	- Should default to include all categories.
+	- Then have an option to include
