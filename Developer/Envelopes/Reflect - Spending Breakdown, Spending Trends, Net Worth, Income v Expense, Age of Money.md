@@ -1,6 +1,6 @@
 # Spending Breakdown
 - The page should include 4 sections
-- Largest section; Pie Chart
+- Largest section Left Align; Pie Chart
 	- A pie chart of spending of breakdown, where each slice is a category.
 	- Above each part of the chart should be the name of the category, the value spent in that category and percentage represented.
 	- In the middle of the chart is "Total Spending" and the sum of what is spent.
@@ -24,4 +24,9 @@
 	- 2 by 2 table
 	- Average Monthly Spending
 	- Average Daily Spending
-	- Most Frequent Catergory
+	- Most Frequent Category
+		- Include name of category, number of transactions, total cost
+	- Largest Outflow
+		- Transactions Details for largest transaction for period
+- Large section, right aligned; Line comparison
+	- Each row is two columns,  is a catergory name, a a line indicating the percentage (line legnth should align with percentage), the percentage number and the total spending.
