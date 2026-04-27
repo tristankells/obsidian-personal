@@ -1,19 +1,27 @@
 # Spending Breakdown
 - The page should include 4 sections
-- Largest section
-	- A pie chart of spending of breakdown, where each slice is a catergory.
-	- Aboce each part of the chart should be the name of the category, the value spent in that category and 
+- Largest section; Pie Chart
+	- A pie chart of spending of breakdown, where each slice is a category.
+	- Above each part of the chart should be the name of the category, the value spent in that category and percentage represented.
 	- In the middle of the chart is "Total Spending" and the sum of what is spent.
-- 
-- The period being covered should be configurable.
-	- Options include:
-		- This Month
-		- Last 3 months
-		- last 6 months
-		- last 12 years
-		- year to date
-		- last year
-		- all dates
-- Should be a filter for categories
-	- Should default to include all categories.
-	- Then have an option to include
+- Small section above the first section; Chart Options
+	- The period options, the period covered on the page should be configurable.
+		- Options include:
+			- This Month
+			- Last 3 months
+			- last 6 months
+			- last 12 years
+			- year to date
+			- last year
+			- all dates
+	- Should be a filter for categories
+		- Should default to include all categories.
+		- Then have an option to include exclude / include specific categories
+	- Should be a filter for accounts
+		- Should default to include all accounts.
+		- Then have an option to include exclude / include specific accounts.
+- Small section underneath the chart; Summary
+	- 2 by 2 table
+	- Average Monthly Spending
+	- Average Daily Spending
+	- Most Frequent Catergory
