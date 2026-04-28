@@ -5,11 +5,11 @@
 ---
 ## 📋 Overview & Milestones
 
-|Month|Focus|Target WPM|
-|---|---|---|
-|Month 1|Lock in touch typing fundamentals|55–65 WPM|
-|Month 2|Build speed with deliberate drills|70–80 WPM|
-|Month 3|Push for 90–100+ WPM, consistency|90–100+ WPM|
+| Month   | Focus                              | Target WPM  |
+| ------- | ---------------------------------- | ----------- |
+| Month 1 | Lock in touch typing fundamentals  | 55–65 WPM   |
+| Month 2 | Build speed with deliberate drills | 70–80 WPM   |
+| Month 3 | Push for 90–100+ WPM, consistency  | 90–100+ WPM |
 
 ---
 ## 🛠️ Your Tool Kit
