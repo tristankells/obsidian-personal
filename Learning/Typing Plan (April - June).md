@@ -184,21 +184,21 @@ The final 20–30 WPM is the hardest. Gains slow dramatically. You must exploit 
 
 Take a 5-minute test on MonkeyType at the end of each week and log here.
 
-|Week|Date|WPM|Accuracy|Milestone?|
-|---|---|---|---|---|
-|Baseline||||Starting point|
-|1|||||
-|2|||||
-|3|||||
-|4||||⭐ 60 WPM?|
-|5|||||
-|6|||||
-|7|||||
-|8||||⭐ 75 WPM?|
-|9|||||
-|10|||||
-|11|||||
-|12||||🏆 100 WPM?|
+| Week     | Date | WPM | Accuracy | Milestone?     |
+| -------- | ---- | --- | -------- | -------------- |
+| Baseline |      |     |          | Starting point |
+| 1        |      |     |          |                |
+| 2        |      |     |          |                |
+| 3        |      |     |          |                |
+| 4        |      |     |          | ⭐ 60 WPM?      |
+| 5        |      |     |          |                |
+| 6        |      |     |          |                |
+| 7        |      |     |          |                |
+| 8        |      |     |          | ⭐ 75 WPM?      |
+| 9        |      |     |          |                |
+| 10       |      |     |          |                |
+| 11       |      |     |          |                |
+| 12       |      |     |          | 🏆 100 WPM?    |
 
 ---
 
