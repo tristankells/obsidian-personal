@@ -240,16 +240,16 @@ Mark each day you complete your practice session. Aim for unbroken chains!
 
 Set yourself a reward for hitting each milestone — it keeps momentum going!
 
-|Milestone|Date Achieved|Reward|
-|---|---|---|
-|☐ 60 WPM|||
-|☐ 70 WPM|||
-|☐ 80 WPM|||
-|☐ 90 WPM|||
-|☐ 100 WPM||🎉 **BIG REWARD**|
-|☐ 30 days straight|||
-|☐ 60 days straight|||
-|☐ 84 days (full plan!)|||
+| Milestone              | Date Achieved | Reward            |
+| ---------------------- | ------------- | ----------------- |
+| ☐ 60 WPM               |               |                   |
+| ☐ 70 WPM               |               |                   |
+| ☐ 80 WPM               |               |                   |
+| ☐ 90 WPM               |               |                   |
+| ☐ 100 WPM              |               | 🎉 **BIG REWARD** |
+| ☐ 30 days straight     |               |                   |
+| ☐ 60 days straight     |               |                   |
+| ☐ 84 days (full plan!) |               |                   |
 
 ---
 ## 💡 Key Rules to Remember
