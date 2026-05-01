@@ -20,6 +20,7 @@
 - Allow for custom ordering / showing of columns on the food page.
 - Daily food planning should not save calories, should re-calculate whenever a food item is changed.
 - Allow for custom ordering and hiding of columns here as well.
+- The grocery list items should include both grams and amount of vegetable, for when I'm in the store with the list.
 # Azure Resources
 - 
 # MVP
