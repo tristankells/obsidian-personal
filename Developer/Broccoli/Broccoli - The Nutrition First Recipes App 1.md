@@ -17,6 +17,8 @@
 - Filter by ingredient.
 - Show grams conversion in read only view.
 - Put favorites recipes at the top of meal planning dropdowns.
+- Allow for custom ordering / showing of columns on the food page.
+- Daily food planning should not save calories, should re-calculate whenever a food item is changed.
 # Azure Resources
 - 
 # MVP
