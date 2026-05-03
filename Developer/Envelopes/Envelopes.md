@@ -23,7 +23,9 @@
 	- Loading at the end of import.
 	- Implement duplication detection.
 	- Add notes when you import.
-- 
+- Improve payee matching
+	- Strips number from the comparison, so stuff like `111woolworths` matches to stuff with Woolworths.
+	- 
 ---
 # Features
 [[Update parser to respect new ASB bank format]]
