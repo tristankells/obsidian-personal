@@ -274,10 +274,21 @@ Loss of focus is caused by waning dopamine levels. This can be the aftermath of 
 		- "Just let it go, its no like I can change it now"
 		- "Do I actually care?"
 		- "Whats done, is done"
+- https://www.youtube.com/watch?v=Uou12aSY8RA
+
+- https://www.youtube.com/watch?v=Uou12aSY8RA
+	- 1. Selective reading
+		- Read in 3 passes
+			- Skim headers
+			- Overarching concepts
+			- Harder details
+	- 2. Selective testing
+		- Focus on what you know you will be tested on, not whatever is easiest.
+	- 3. Analyse
+		- Focus on errors. Note them, review them and re-introduce them into your learning plan.
+	- 4. Drill
+		- Based on your 
 # Books
-- "Make It Stick" by Peter C. Brown et al.
-- "How We Learn" by Stanislas Dehaene
-- "How We Learn" by Benedict Carey
 - "How to Take Smart Notes" by SÃ¶nke Ahrens
 - "Why Don't Students Like School?" by Daniel T. Willingham
 - "The First 20 Hours" by Josh Kaufman
