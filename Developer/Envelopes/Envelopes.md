@@ -23,9 +23,11 @@
 	- Loading at the end of import.
 	- Implement duplication detection.
 	- Add notes when you import.
+	- UI feedback when import is ongoing.
 - Improve payee matching
 	- Strips number from the comparison, so stuff like `111woolworths` matches to stuff with Woolworths.
-	- 
+- Make your rows much smaller.
+	- See other budgeting apps, banking...
 ---
 # Features
 [[Update parser to respect new ASB bank format]]

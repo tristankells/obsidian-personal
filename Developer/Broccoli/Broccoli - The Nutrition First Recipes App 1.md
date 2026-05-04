@@ -21,8 +21,8 @@
 - Daily food planning should not save calories, should re-calculate whenever a food item is changed.
 - Allow for custom ordering and hiding of columns here as well.
 - The grocery list items should include both grams and amount of vegetable, for when I'm in the store with the list.
-- Remove Foundation food from the database results, as those dont seem to have calories.
-- 
+- Remove Foundation food from the database results, as those don't seem to have calories.
+- Support searching by ingredients.
 # Azure Resources
 - 
 # MVP

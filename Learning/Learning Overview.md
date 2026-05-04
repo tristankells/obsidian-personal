@@ -287,7 +287,8 @@ Loss of focus is caused by waning dopamine levels. This can be the aftermath of 
 	- 3. Analyse
 		- Focus on errors. Note them, review them and re-introduce them into your learning plan.
 	- 4. Drill
-		- Based on your 
+		- Based on your most likely subject and your errors, drill those areas.
+
 # Books
 - "How to Take Smart Notes" by SÃ¶nke Ahrens
 - "Why Don't Students Like School?" by Daniel T. Willingham
