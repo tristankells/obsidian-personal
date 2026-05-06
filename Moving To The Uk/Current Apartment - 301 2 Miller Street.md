@@ -1,3 +1,4 @@
-49m
+49m (Square)
+160.761 (Square)
 
-2
+161 sq. ft
