@@ -5,7 +5,7 @@ London **SW1V** 1PX
 #### Closet Train Station
 - Victoria Station
 #### Search Criteria
-- No more than 1500 - 2000 pounds per month.
+- No more than 1000-1500 pounds per month.
 - No more than ~60 mins door to door commute.
 - Strong preference for 1 - 2 transfers.
 - Need to allow pets.
