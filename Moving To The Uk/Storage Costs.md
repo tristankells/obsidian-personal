@@ -15,8 +15,11 @@ $129 per month
 Upper Level[
 ](https://nationalstorage.nz/locations/#)Bluetooth Smart Access
 $80 per month
+- 1,920 for 2 years.
 
 ## Storage King Saint Lukes
 ##### Walk In Robe
 (Upper Level) - 3m2
 ## $129.00
+- 3,096 for 2 years.
+- 
