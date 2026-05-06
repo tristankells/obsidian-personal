@@ -17,6 +17,8 @@ Upper Level[
 $80 per month
 - 1,920 for 2 years.
 
+**What is the height?**
+
 ## Storage King Saint Lukes
 ##### Walk In Robe
 (Upper Level) - 3m2
