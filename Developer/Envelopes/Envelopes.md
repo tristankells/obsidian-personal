@@ -28,6 +28,8 @@
 	- Strips number from the comparison, so stuff like `111woolworths` matches to stuff with Woolworths.
 - Make your rows much smaller.
 	- See other budgeting apps, banking...
+- Need to be able to search through when assigning categories in main page and import preview.
+- Need to be able to give imports categories to put the money straight into that envelope.
 ---
 # Features
 [[Update parser to respect new ASB bank format]]
