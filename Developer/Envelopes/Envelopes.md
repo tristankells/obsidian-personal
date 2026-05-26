@@ -29,6 +29,7 @@
 - Make your rows much smaller.
 	- See other budgeting apps, banking...
 - Need to be able to search through when assigning categories in main page and import preview.
+	- Could also order by likely hood / highlight previous one?
 - Need to be able to give imports categories to put the money straight into that envelope.
 ---
 # Features
