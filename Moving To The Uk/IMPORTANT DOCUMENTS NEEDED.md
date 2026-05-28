@@ -20,3 +20,5 @@ After you submit your application, you must provide your documents to our commer
 If you choose to pay for the assisted scanning service, all documents (originals or copies) need to be A4 size or you may be charged to make them suitable for scanning.
 
 If we require passports, you must take the originals to your appointment. If you have self-uploaded copies on our commercial partner's website you must still take your original passports, but will not be charged for scanning.
+
+
