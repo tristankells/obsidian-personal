@@ -15,3 +15,5 @@ Important information for uploading documents online:
 4) Please ensure your document name is in English and does not include special characters.  
 5) You can upload PDFs/JPG/JPEG/PNGs up to 5MB. If your file exceeds this limit, we recommend scanning at 150 - 200 DPI or uploading the file in separate parts to reduce the size.  
 6) If you close your browser, you’ll lose your progress. If you can, upload all of your files in one session.
+
+**UKVI Account Creation Service**
