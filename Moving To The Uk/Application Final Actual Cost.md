@@ -1,0 +1,5 @@
+
+NHS: $3,707.85
+APPLICATION:  812.00 NZD
+
+![[Pasted image 20260528234334.png]]
