@@ -151,7 +151,7 @@ Great question — the Victoria line is your best friend here since it runs dire
 
 The daily commute cost is the same (£8.90 PAYG cap) for all these areas whether they're Zone 2 or Zone 3, since the cap maxes out at the same daily rate for Zones 1–3 as for 1–2 in 2026.
 
-Added your Su Lin recommendations and  look up commutes from Victoria Station and Pimlico Station.
+Added Su Lin recommendations and looked up suburbs on the Victoria line.
 - Battersea
 - Clapham
 - Brixton
@@ -159,7 +159,7 @@ Added your Su Lin recommendations and  look up commutes from Victoria Station an
 - Peckham
 - Streatham
 - Islington
-- Highbury*
+- Highbury
 - De Beauvoir Town
 - Hackney
 - Stoke Newington
