@@ -147,3 +147,188 @@ This will tell you more than postcode-based estimates.
 - If your budget allows, prioritize being within a 10–15 minute walk of a Tube or Overground station.
 
 For the areas you've shortlisted (Walthamstow, Hackney, Islington, Clapham, Brixton, Balham, Peckham, etc.), I can also tell you which neighbourhoods currently offer the best balance of **rent, commute to Victoria, safety, and nightlife**.
+
+---
+Assuming your priorities are:
+
+1. **Commute to Thomas House (Victoria/Pimlico area)**
+2. **Quality of life** (cafés, pubs, parks, things to do)
+3. **Value for money**
+4. **Areas that are pleasant to live in for a professional rather than simply the cheapest**
+
+Here's how I'd rank the list overall.
+
+## Tier 1 — Strongest Overall Choices
+
+These are the areas I'd personally focus my search on first.
+
+- Battersea
+- Clapham Junction
+- Clapham
+- Balham
+- Herne Hill
+- Wandsworth Common
+- Brixton
+
+### Why?
+
+**Battersea**
+
+- Probably the best location on your list for working near Victoria.
+- Easy bus, train, bike, or Tube connections.
+- Huge amount of regeneration around Battersea Power Station.
+- Lots of restaurants and parks.
+
+**Clapham Junction**
+
+- One of London's best-connected stations.
+- Extremely easy commute to Victoria.
+- Plenty of rental stock.
+
+**Balham**
+
+- Often considered a "sweet spot."
+- Good nightlife and restaurants.
+- Direct trains to Victoria.
+- More affordable than nearby Clapham.
+
+**Herne Hill**
+
+- One of London's nicest villages.
+- Adjacent to Brockwell Park.
+- Strong community feel.
+- Excellent balance of commute and lifestyle.
+
+**Wandsworth Common**
+
+- Green, attractive, safe-feeling.
+- Similar commute benefits to Balham.
+
+**Brixton**
+
+- Best nightlife and food scene on the list.
+- Victoria Line commute is excellent.
+- More urban and energetic than Balham or Herne Hill.
+
+---
+
+## Tier 2 — Great Value
+
+These areas may offer a better rent-to-quality ratio than Tier 1.
+
+- Streatham Hill
+- Streatham Common
+- Streatham
+- Stockwell
+- Crystal Palace
+- Denmark Hill
+- Nunhead
+- Walthamstow
+- Seven Sisters
+
+### Standouts
+
+**Streatham Hill**
+
+- Often overlooked.
+- Direct trains to Victoria.
+- Considerably cheaper than Balham.
+- Many people move here after being priced out of Balham or Clapham.
+
+**Crystal Palace**
+
+- One of London's most distinctive neighbourhoods.
+- Independent shops, cafés, pubs.
+- Great views and green space.
+- Commute isn't as good as Balham or Brixton.
+
+**Nunhead**
+
+- Quiet and increasingly desirable.
+- Village feel.
+- Strong value proposition.
+
+**Walthamstow**
+
+- Probably the most interesting area in North-East London right now.
+- Excellent food scene.
+- Great parks.
+- Victoria Line access.
+
+**Stockwell**
+
+- Fantastic commute.
+- Less polished than Clapham.
+- Better value.
+
+---
+
+## Tier 3 — Good if the Right Property Appears
+
+- Tottenham Hale
+- Blackhorse Road
+- Peckham
+- Hackney
+- Stoke Newington
+- Highbury
+- Islington
+- De Beauvoir Town
+
+These are all perfectly good places to live, but something specific holds them back relative to your workplace.
+
+### Examples
+
+**Islington / Highbury / De Beauvoir**
+
+- Fantastic neighbourhoods.
+- Expensive.
+- You're paying a premium for the area rather than getting the best commute.
+
+**Hackney**
+
+- One of London's most vibrant areas.
+- Commute to Victoria is only okay.
+
+**Peckham**
+
+- Amazing food and nightlife.
+- Commute isn't as straightforward as Brixton or Clapham.
+
+**Tottenham Hale**
+
+- Commute is excellent.
+- The area is improving quickly.
+- Still lacks some of the character and amenities of Walthamstow or Balham.
+
+---
+
+## Tier 4 — Budget-Driven Choices
+
+- Norbury
+- Thornton Heath
+- Tulse Hill
+- Loughborough Junction
+
+These can work well, but I'd generally only choose them if:
+
+- They allow you to get substantially more space, or
+- They save significant rent.
+
+---
+
+# If I were moving to London and working at Thomas House
+
+My shortlist would be:
+
+1. **Balham**
+2. **Herne Hill**
+3. **Battersea**
+4. **Clapham Junction**
+5. **Wandsworth Common**
+6. **Brixton**
+7. **Streatham Hill** (best value)
+8. **Walthamstow** (best North London option)
+9. **Crystal Palace** (best character option)
+10. **Seven Sisters** (best budget + commute combination)
+
+For someone new to London who wants a pleasant daily life and an easy commute to Eccleston Square, **Balham** is probably the most balanced choice on the entire list. It gives you a straightforward commute, plenty of amenities, good rental stock, and a neighbourhood feel without paying the full premium of the most central districts.
