@@ -49,7 +49,15 @@ I want a list of suburbs you reccomended I look for rental in london. Here are t
 - Preferable no transfers our at most one.
 - 1 Bedrooom places / studio apartments.
 - Cat friendly.
-Can you give me a list of suburbs, in a markdown 
+Can you give me a list of suburbs, in a markdown table?
+- Columns,
+	  - Name of Suburb
+	  - Commute Option
+	  - Cost Of Commute
+	  - Cost of average rental at the size I'm asking.
+- Order by cost.
+	    
+Ask for any other details you need. Include De Beauvoir, Islington and Highbury in your table.
 
 
 ```
