@@ -61,3 +61,43 @@ Ask for any other details you need. Include De Beauvoir, Islington and Highbury 
 
 
 ```
+
+
+
+
+Good — I now have enough data to build the table. Let me draw on what I've gathered:
+
+**Commute anchor:** 84 Eccleston Square is in Pimlico (SW1V), a short walk to **Pimlico tube station** (Victoria line) or **Victoria station** (~10 min walk). The Victoria line is the key artery here — it runs directly through Pimlico.
+
+**TfL PAYG daily cap (2026):** Zones 1–2: £8.90/day | Zones 1–3: £10.50/day
+
+Here's the table, ordered by approximate average 1-bed/studio rental cost (lowest first). Commute times include walking at each end (~5–10 min).
+
+---
+
+| Suburb                    | Commute Option                                                                      | Est. Commute Time | Daily Cost of Commute (PAYG cap) | Avg. 1-Bed/Studio Rent (PCM) |
+| ------------------------- | ----------------------------------------------------------------------------------- | ----------------- | -------------------------------- | ---------------------------- |
+| **Walthamstow** (E17)     | Victoria line direct from Walthamstow Central → Pimlico (no transfer)               | ~35–40 min        | £8.90 (Zones 1–3)                | ~£1,450–£1,600               |
+| **Peckham** (SE15)        | Overground/National Rail Victoria → Peckham Rye (no transfer)                       | ~25–35 min        | £8.90 (Zones 1–2)                | ~£1,500–£1,700               |
+| **Brixton** (SW2/SW9)     | Victoria line direct → Pimlico (no transfer)                                        | ~15–20 min        | £8.90 (Zones 1–2)                | ~£1,550–£1,750               |
+| **Balham** (SW12)         | Northern line → Stockwell, change to Victoria → Pimlico (1 transfer)                | ~20–25 min        | £8.90 (Zones 1–2)                | ~£1,600–£1,800               |
+| **Stoke Newington** (N16) | Bus or Overground from Rectory Rd → Victoria (1 transfer)                           | ~40–50 min        | £8.90 (Zones 1–2)                | ~£1,600–£1,850               |
+| **Hackney** (E8/E9)       | Overground → Highbury & Islington, Victoria line → Pimlico (1 transfer)             | ~30–35 min        | £8.90 (Zones 1–2)                | ~£1,650–£1,900               |
+| **Clapham** (SW4/SW11)    | Northern line → Stockwell, change to Victoria → Pimlico (1 transfer)                | ~15–20 min        | £8.90 (Zones 1–2)                | ~£1,700–£1,950               |
+| **De Beauvoir Town** (N1) | Overground from Haggerston → Highbury & Islington, Victoria → Pimlico (1 transfer)  | ~30–40 min        | £8.90 (Zones 1–2)                | ~£1,750–£2,000               |
+| **Highbury** (N5)         | Victoria line from Highbury & Islington → Pimlico (no transfer)                     | ~20–25 min        | £8.90 (Zones 1–2)                | ~£1,800–£2,100               |
+| **Islington** (N1)        | Victoria line from Highbury & Islington → Pimlico (no transfer)                     | ~20–25 min        | £8.90 (Zones 1–2)                | ~£1,900–£2,200               |
+| **Battersea** (SW11)      | Short walk/bus to Victoria, then walk to Eccleston Sq (or Nine Elms tube → Pimlico) | ~20–30 min        | £8.90 (Zones 1–2)                | ~£2,000–£2,400               |
+
+---
+
+**A few notes:**
+
+- All suburbs are within the 1-hour door-to-door limit, most comfortably so.
+- **Walthamstow** is the best value, especially with the Victoria line running direct to Pimlico — it's a genuinely fast commute for the price.
+- **Peckham** is great value for Zone 2 and the National Rail to Victoria is very fast, but cat-friendly rentals can be harder to find in older conversions.
+- **Battersea** is the priciest partly because it's so close — but it's also very convenient with the new Nine Elms station (Elizabeth line interchange at Vauxhall).
+- The daily PAYG cap is the same for Zones 1–2, so everything in Zone 2 costs the same to commute from. Walthamstow is Zone 3 so marginally more per day.
+- Rent figures are approximate 2026 averages for 1-bed/studio; the actual market range is wide depending on the specific street and building.
+
+Would you like me to add a column for cat-friendliness notes, or drill into any particular suburb in more detail?
