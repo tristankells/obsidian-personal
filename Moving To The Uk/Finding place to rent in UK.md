@@ -101,3 +101,52 @@ Here's the table, ordered by approximate average 1-bed/studio rental cost (lowes
 - Rent figures are approximate 2026 averages for 1-bed/studio; the actual market range is wide depending on the specific street and building.
 
 Would you like me to add a column for cat-friendliness notes, or drill into any particular suburb in more detail?
+
+
+
+| **Walthamstow** (E17)     |
+| ------------------------- |
+| **Peckham** (SE15)        |
+| **Brixton** (SW2/SW9)     |
+| **Balham** (SW12)         |
+| **Stoke Newington** (N16) |
+| **Hackney** (E8/E9)       |
+| **Clapham** (SW4/SW11)    |
+| **De Beauvoir Town** (N1) |
+| **Highbury** (N5)         |
+| **Islington** (N1)        |
+| **Battersea** (SW11)      |
+
+
+| **Streatham** (SW16)                    |
+| --------------------------------------- |
+| **Tottenham / Seven Sisters** (N15/N17) |
+| **Tottenham Hale** (N17)                |
+| **Walthamstow Central** (E17)           |
+| **Blackhorse Road** (E17)               |
+| **Peckham** (SE15)                      |
+
+Great question — the Victoria line is your best friend here since it runs direct to Pimlico with no transfers. Let me look at stations further out for cheaper rent. Here's an expanded table focusing on the **Victoria line** and a couple of bonus Southern Rail options that get you directly into Victoria station — all with rent realistically under or around £1,500:
+
+---
+
+| Suburb                                  | Commute Option                                                | Est. Commute Time (door-to-door) | Daily Commute Cost | Avg. 1-Bed/Studio Rent (PCM) |
+| --------------------------------------- | ------------------------------------------------------------- | -------------------------------- | ------------------ | ---------------------------- |
+| **Streatham** (SW16)                    | Southern Rail direct → Victoria, walk to Eccleston Sq         | ~35–45 min                       | £8.90 (Zones 1–2)  | ~£1,200–£1,450               |
+| **Tottenham / Seven Sisters** (N15/N17) | Victoria line direct → Pimlico, walk to Eccleston Sq          | ~30–40 min                       | £8.90 (Zones 1–3)  | ~£1,300–£1,500               |
+| **Tottenham Hale** (N17)                | Victoria line direct → Pimlico, walk to Eccleston Sq          | ~35–45 min                       | £8.90 (Zones 1–3)  | ~£1,350–£1,550               |
+| **Walthamstow Central** (E17)           | Victoria line direct → Pimlico, walk to Eccleston Sq          | ~40–50 min                       | £8.90 (Zones 1–3)  | ~£1,400–£1,600               |
+| **Blackhorse Road** (E17)               | Victoria line direct → Pimlico, walk to Eccleston Sq          | ~45–55 min                       | £8.90 (Zones 1–3)  | ~£1,350–£1,550               |
+| **Peckham** (SE15)                      | Southern Rail direct Victoria → Peckham Rye (reverse commute) | ~25–35 min                       | £8.90 (Zones 1–2)  | ~£1,400–£1,600               |
+
+---
+
+**Key takeaways:**
+
+**Streatham** is the standout here. The train to Victoria takes around 20 minutes on average, with some services taking as little as 16 minutes, and it's a direct service with no changes. Studios in Streatham can be found from around £1,000/month, and 1-beds regularly come in under £1,400. It's genuinely one of the best-value commutes into Victoria in all of London.
+
+**Seven Sisters / Tottenham** is the best Victoria line value. The average 1-bed in Tottenham is around £1,479 PCM, and you can find cheaper if you look in the N17 streets away from the new-build developments. The Victoria line gets you to Pimlico in around 25–30 minutes with no transfer.
+
+**Blackhorse Road** is one stop before Walthamstow on the Victoria line and tends to be slightly cheaper than Walthamstow Central — worth searching specifically around E17 closer to that station.
+
+The daily commute cost is the same (£8.90 PAYG cap) for all these areas whether they're Zone 2 or Zone 3, since the cap maxes out at the same daily rate for Zones 1–3 as for 1–2 in 2026.
