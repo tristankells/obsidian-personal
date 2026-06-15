@@ -9,8 +9,11 @@ London **SW1V** 1PX
 - No more than ~60 mins door to door commute.
 - Strong preference for 1 - 2 transfers.
 - Need to allow pets.
-- 1 - 2 bedrooms.
+- 1 bedrooms.
 - Not moldy.
+- Washing and Dryer Space
+- Clean Bathroom
+- Heating
 
 ---
 ## London Rental Comparison — Budget Areas for Couples
