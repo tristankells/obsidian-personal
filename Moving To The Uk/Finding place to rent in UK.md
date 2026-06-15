@@ -42,3 +42,14 @@ London **SW1V** 1PX
 | Brixton               | Victoria line      | ~10 min     | £2,200     | £344          | £2,544     | +£504/mo     |
 | Walthamstow           | Victoria line      | ~24 min     | £2,100     | £494          | £2,594     | +£554/mo     |
 | Stockwell             | Victoria line      | ~8 min      | £2,250     | £344          | £2,594     | +£554/mo     |
+
+```
+I want a list of suburbs you reccomended I look for rental in london. Here are the parameters:
+- No more than a 1 hour commute, door to doo, to 84 Eccleston Square London SW1V 1PX, one way.
+- Preferable no transfers our at most one.
+- 1 Bedrooom places / studio apartments.
+- Cat friendly.
+Can you give me a list of suburbs, in a markdown 
+
+
+```
