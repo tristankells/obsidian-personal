@@ -11,8 +11,13 @@
 - Podman
 - Lens
 - meld / winmerge
+- Toggl
+- Snagit (alternative)
 # Personal
 - Paprika Recipes
 - Stremio
 - Discord
 - Bitwarden
+- Google Drive Sync
+- Zen
+- Firefox
