@@ -12,3 +12,8 @@
 ├── Docs/                ← personal documents
 └── Archive/             ← anything you want but rarely touch
 ```
+
+--- 
+Archives
+Media
+Docs
