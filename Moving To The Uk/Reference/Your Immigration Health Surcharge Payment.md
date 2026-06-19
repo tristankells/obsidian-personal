@@ -45,3 +45,20 @@ If you have further questions about your application or your payment, contact UK
 Regards
 
 UK Visas and Immigration
+
+---
+TRANSACTION CONFIRMATION  
+  
+You should retain the details of this transaction for your records in case of future queries.  
+  
+The online payment for your visa application has been safely and securely processed by WorldPay, on behalf of UK Visas & Immigration (UKVI).  
+  
+The transaction reference for your payment of NZD 812.00 is 3TY0059623910  
+  
+For more details on the UK visa process please visit [https://www.gov.uk/government/organisations/uk-visas-and-immigration](https://www.gov.uk/government/organisations/uk-visas-and-immigration)  
+  
+If you need to cancel your visa application, please visit [https://www.gov.uk/cancel-visa](https://www.gov.uk/cancel-visa)   
+  
+If you have any questions regarding your payment or application please contact UKVI at [https://www.gov.uk/contact-ukvi-inside-outside-uk/y/inside-the-uk](https://www.gov.uk/contact-ukvi-inside-outside-uk/y/inside-the-uk) quoting your transaction reference and application reference.  
+  
+Your payment is securely processed by Worldpay.
