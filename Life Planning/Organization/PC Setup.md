@@ -14,7 +14,9 @@
 - Toggl
 - Snagit (alternative)
 - Beekeeper Studio / DBBeaver
-- Bruno (/ H)
+- Bruno 
+- HttpToolkit / Fiddler / Surfshark
+- FPilot
 # Personal
 - Paprika Recipes
 - Stremio
@@ -23,3 +25,5 @@
 - Google Drive Sync
 - Zen
 - Firefox
+- qbittorrent
+- Scratch / Heynote
