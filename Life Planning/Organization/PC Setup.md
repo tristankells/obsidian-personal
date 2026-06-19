@@ -10,6 +10,7 @@
 - dotTrace
 - Podman
 - Lens
+- meld / winmerge
 # Personal
 - Paprika Recipes
 - Stremio
