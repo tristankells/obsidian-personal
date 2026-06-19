@@ -13,7 +13,8 @@
 - meld / winmerge
 - Toggl
 - Snagit (alternative)
-- Beekeeper Studio
+- Beekeeper Studio / DBBeaver
+- Bruno (/ H)
 # Personal
 - Paprika Recipes
 - Stremio
