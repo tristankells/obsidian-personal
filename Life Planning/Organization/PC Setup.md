@@ -27,3 +27,6 @@
 - Firefox
 - qbittorrent
 - Scratch / Heynote
+- SoulseekQt
+- Anki
+- Google Drive Sync
