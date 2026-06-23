@@ -332,3 +332,19 @@ My shortlist would be:
 10. **Seven Sisters** (best budget + commute combination)
 
 For someone new to London who wants a pleasant daily life and an easy commute to Eccleston Square, **Balham** is probably the most balanced choice on the entire list. It gives you a straightforward commute, plenty of amenities, good rental stock, and a neighbourhood feel without paying the full premium of the most central districts.
+
+|                    |                               |                                                             |
+| ------------------ | ----------------------------- | ----------------------------------------------------------- |
+| Angel / Islington  | ✅ Great                       | ✅ Confirmed                                                 |
+| Highbury           | ✅ Great                       | ✅ Confirmed                                                 |
+| Stoke Newington    | ✅ Good, poor tube             | ✅ Confirmed                                                 |
+| De Beauvoir        | ✅ Good, walk to tube          | ✅ Confirmed                                                 |
+| Clapham            | ✅ Good                        | ✅ Confirmed, but can feel like an expat bubble              |
+| Battersea          | ✅ Pricey, great apartments    | ✅ Confirmed                                                 |
+| Brixton            | ⚠️ Only if you like going out | ⚠️ Actually more well-rounded than described                |
+| Peckham            | ❌ Avoid                       | ⚠️ More nuanced — cool but higher crime and poor tube links |
+| Walthamstow        | ⚠️ Affordable but quiet       | ❌ Undersold — Sunday Times best in London 2025 & 2026       |
+| Balham / Streatham | ❌ Too suburban                | ✅ Broadly fair                                              |
+| Tottenham          | ❌ Avoid                       | ✅ Fair for Tottenham proper; Seven Sisters is more viable   |
+| Hackney            | Barely mentioned              | Worth adding to your list                                   |
+| Bermondsey         | Not mentioned                 | Hidden gem worth considering                                |
