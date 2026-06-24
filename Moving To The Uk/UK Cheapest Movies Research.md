@@ -1,0 +1,1 @@
+Here's a full breakdown. Your closest cinema is actually Curzon Victoria, just a 10-minute walk away. The West End chains (Vue, Odeon, Cineworld) are about 2–2.5km away — easy on the tube or a 25-minute walk.
