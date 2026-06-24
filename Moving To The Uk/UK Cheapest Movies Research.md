@@ -1,3 +1,6 @@
+**TLDR;** Sign up for octopus for 2 for one at Odeon.
+
+
 ### Your Nearest Cinemas
 
 **Curzon Victoria** is right on your doorstep at 58 Victoria St — highly rated (4.5⭐), boutique feel with a bar, very comfortable. The chain options are all clustered around Leicester Square/Haymarket.
