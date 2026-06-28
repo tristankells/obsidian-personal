@@ -26,12 +26,10 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 - **[Rightmove](https://www.rightmove.co.uk?utm_source=chatgpt.com)**
 - [OpenRent](https://www.openrent.co.uk?utm_source=chatgpt.com)
 - [Zoopla](https://www.zoopla.co.uk?utm_source=chatgpt.com)
+- [Rentola](https://rentola.co.uk/property-to-rent?location=london&property_types=house&property_types=apartment&property_types=studio&rent=0-1500&size=0-0)
 - airbnb.com
 - [sublet.com](https://www.sublet.com/london)
 - https://www.facebook.com/groups/thelondonsublets/
 - https://www.spareroom.co.uk/flatshare/index.cgi?search_id=1464725086&search_type=offered&mode=edit&editing=1464725086
 - Facebook Marketplace
 - Kiwis in London Facebook page
-1. 
-2. 
-3. Rentola
