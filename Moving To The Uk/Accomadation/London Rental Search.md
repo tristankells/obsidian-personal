@@ -26,7 +26,7 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 - airbnb.com
 - [sublet.com](https://www.sublet.com/london)
 - https://www.facebook.com/groups/thelondonsublets/
-- **spareroom.co.uk**
+- https://www.spareroom.co.uk/flatshare/index.cgi?search_id=1464725086&search_type=offered&mode=edit&editing=1464725086
 - Facebook Marketplace
 - Kiwis in London Facebook page
 ### Filter by short term
