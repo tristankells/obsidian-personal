@@ -11,16 +11,16 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 - Not moldy.
 - Washing and Dryer Space
 - Clean Bathroom
+- Internet
 # Sites
 - [Citymapper Journey Planner](https://citymapper.com/london?utm_source=chatgpt.com)
 	- 1. Open Citymapper, set destination to Thomas House, 84 Eccleston Square, check the weekday 8:00–9:00 AM commute.
 ## Short Term
 - **[spotahome.com](https://www.spotahome.com/)**
-- [nestpick.com](https://www.nestpick.com/london/)
+- [**nestpick.com**](https://www.nestpick.com/london/)
 	- https://www.nestpick.com/london/?amenities=pets&maxPrice=1600&type=studio__apartment
-- uniplaces.com
+	- Aggregater
 - airbnb.com
-- vrbo.com
 - sublet.com
 - **spareroom.co.uk**
 - Facebook Marketplace
