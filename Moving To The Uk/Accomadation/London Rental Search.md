@@ -24,6 +24,7 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 	- https://www.nestpick.com/london/?amenities=pets&maxPrice=1600&type=studio__apartment
 	- Aggregater
 - **[Rightmove](https://www.rightmove.co.uk?utm_source=chatgpt.com)**
+- [OpenRent](https://www.openrent.co.uk?utm_source=chatgpt.com)
 - [Zoopla](https://www.zoopla.co.uk?utm_source=chatgpt.com)
 - airbnb.com
 - [sublet.com](https://www.sublet.com/london)
@@ -32,5 +33,5 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 - Facebook Marketplace
 - Kiwis in London Facebook page
 1. 
-2. [OpenRent](https://www.openrent.co.uk?utm_source=chatgpt.com)
+2. 
 3. Rentola
