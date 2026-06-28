@@ -3,9 +3,12 @@
 Angel / Islington, Highbury, Stoke Newington, De Beauvoir, Clapham, Battersea, Brixton, Peckham, Walthamstow, Balham / Streatham, Tottenham, Hackney, Bermondsey
 ## Master
 Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapham Junction, Clapham, Denmark Hill / Nunhead, East Croydon / Croydon, Streatham / Streatham Hill, Tulse Hill, Bermondsey, Tooting Broadway / Tooting Bec, Balham, Battersea, Crystal Palace, Highbury, Islington, Streatham Common, West Norwood / Gipsy Hill, Norbury, Colliers Wood, Forest Hill / Sydenham, Catford / Lewisham, Peckham, Thornton Heath, De Beauvoir Town, Hackney, South Wimbledon / Morden, Tottenham / Seven Sisters, Mitcham, Sutton, Tottenham Hale, Stoke Newington, Walthamstow, Leytonstone / Leyton, Woolwich / Plumstead, Blackhorse Road
+### Map
+- https://www.google.com/maps/d/edit?mid=1t3iFkxFiAhhpnde7zrXVo36ZVE389GU&ll=51.491076611856606%2C-0.18533735622001224&z=11
 # Non-Negotiables
 - < 1500 pounds per calendar month.
 -  < 60 mins door to door on public transport to 84 Eccleston Square, London **SW1V** 1PX.
+	- Stations; - Victoria / Pimlico Station
 	- 1 - 2 Transfers
 - Allows pets.
 - Not moldy.
@@ -22,10 +25,11 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 	- Aggregater
 - airbnb.com
 - [sublet.com](https://www.sublet.com/london)
+- https://www.facebook.com/groups/thelondonsublets/
 - **spareroom.co.uk**
 - Facebook Marketplace
 - Kiwis in London Facebook page
-# Long Term
+### Filter by short term
 1. **[Rightmove](https://www.rightmove.co.uk?utm_source=chatgpt.com)**
 2. [Zoopla](https://www.zoopla.co.uk?utm_source=chatgpt.com)
 3. [OpenRent](https://www.openrent.co.uk?utm_source=chatgpt.com)
