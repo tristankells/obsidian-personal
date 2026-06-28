@@ -1,4 +1,4 @@
-# Su Lins Recommendations
+# Suburbs Recommendations
 Angel / Islington, Highbury, Stoke Newington, De Beauvoir, Clapham, Battersea, Brixton, Peckham, Walthamstow, Balham / Streatham, Tottenham, Hackney, Bermondsey
 # Non-Negotiables
 - < 1500 pounds per calendar month.
@@ -8,6 +8,21 @@ Angel / Islington, Highbury, Stoke Newington, De Beauvoir, Clapham, Battersea, B
 - Not moldy.
 - Washing and Dryer Space
 - Clean Bathroom
-# Sites for short term rentals
+# Sites
+- [Citymapper Journey Planner](https://citymapper.com/london?utm_source=chatgpt.com)
+	- 1. Open Citymapper, set destination to Thomas House, 84 Eccleston Square, check the weekday 8:00–9:00 AM commute.
+## Short Term
 - furnishedfinder.com
-- spotahome.com
+- **spotahome.com**
+- homelike.com
+- nestpick.com
+- uniplaces.com
+- airbnb.com
+- vrbo.com
+- sublet.com
+- **spareroom.co.uk**
+- Facebook Marketplace
+# Long Term
+1. [Rightmove](https://www.rightmove.co.uk?utm_source=chatgpt.com)
+2. [Zoopla](https://www.zoopla.co.uk?utm_source=chatgpt.com)
+3. [OpenRent](https://www.openrent.co.uk?utm_source=chatgpt.com)
