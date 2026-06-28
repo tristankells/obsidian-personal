@@ -8,4 +8,6 @@ Angel / Islington, Highbury, Stoke Newington, De Beauvoir, Clapham, Battersea, B
 - Not moldy.
 - Washing and Dryer Space
 - Clean Bathroom
-# Sites
+# Sites for short term rentals
+- furnishedfinder.com
+- spotahome.com
