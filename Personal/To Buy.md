@@ -5,7 +5,8 @@
 5. Coverup tattoo for lips
 # Board Games
 - Sleeping Gods Sequel.
-- Next Rove Board Games, minis, shipping (if game is any good...).
+- Rove Expansion, minis, shipping (if game is any good...).
+- Slay The Spire
 
 
 
