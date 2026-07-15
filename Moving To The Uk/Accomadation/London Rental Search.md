@@ -1,12 +1,3 @@
-# Suburbs 
-## Current Picks
-- Waltham Cross
-## Su Lin Recommendations
-Angel / Islington, Highbury, Stoke Newington, De Beauvoir, Clapham, Battersea, Brixton, Peckham, Walthamstow, Balham / Streatham, Tottenham, Hackney, Bermondsey
-## Master
-Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapham Junction, Clapham, Denmark Hill / Nunhead, East Croydon / Croydon, Streatham / Streatham Hill, Tulse Hill, Bermondsey, Tooting Broadway / Tooting Bec, Balham, Battersea, Crystal Palace, Highbury, Islington, Streatham Common, West Norwood / Gipsy Hill, Norbury, Colliers Wood, Forest Hill / Sydenham, Catford / Lewisham, Peckham, Thornton Heath, De Beauvoir Town, Hackney, South Wimbledon / Morden, Tottenham / Seven Sisters, Mitcham, Sutton, Tottenham Hale, Stoke Newington, Walthamstow, Leytonstone / Leyton, Woolwich / Plumstead, Blackhorse Road
-### Map
-- https://www.google.com/maps/d/edit?mid=1t3iFkxFiAhhpnde7zrXVo36ZVE389GU&ll=51.491076611856606%2C-0.18533735622001224&z=11
 # Non-Negotiables
 - < 1500 pounds per calendar month.
 -  < 60 mins door to door on public transport to **84 Eccleston Square, London SW1V 1PX.**
@@ -18,6 +9,18 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 - Clean Bathroom
 - Internet
 # Sites
+# Suburbs 
+## Current Picks
+- Waltham Cross
+- HERTFORD
+- 
+## Su Lin Recommendations
+Angel / Islington, Highbury, Stoke Newington, De Beauvoir, Clapham, Battersea, Brixton, Peckham, Walthamstow, Balham / Streatham, Tottenham, Hackney, Bermondsey
+## Master
+Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapham Junction, Clapham, Denmark Hill / Nunhead, East Croydon / Croydon, Streatham / Streatham Hill, Tulse Hill, Bermondsey, Tooting Broadway / Tooting Bec, Balham, Battersea, Crystal Palace, Highbury, Islington, Streatham Common, West Norwood / Gipsy Hill, Norbury, Colliers Wood, Forest Hill / Sydenham, Catford / Lewisham, Peckham, Thornton Heath, De Beauvoir Town, Hackney, South Wimbledon / Morden, Tottenham / Seven Sisters, Mitcham, Sutton, Tottenham Hale, Stoke Newington, Walthamstow, Leytonstone / Leyton, Woolwich / Plumstead, Blackhorse Road
+### Map
+- https://www.google.com/maps/d/edit?mid=1t3iFkxFiAhhpnde7zrXVo36ZVE389GU&ll=51.491076611856606%2C-0.18533735622001224&z=11
+
 - [Citymapper Journey Planner](https://citymapper.com/london?utm_source=chatgpt.com)
 	- 1. Open Citymapper, set destination to Thomas House, 84 Eccleston Square, check the weekday 8:00–9:00 AM commute.
 ## Short Term
