@@ -12,12 +12,12 @@
 
 ### Peer-to-Peer / Sublet Focused
 
-|Platform|URL|Best For|Typical Min. Stay|
-|---|---|---|---|
-|**Airbnb**|airbnb.com|Flexible stays, huge London inventory|1 night (look for monthly discount listings)|
-|**VRBO**|vrbo.com|Whole-home rentals|1 week+|
-|**Sublet.com**|sublet.com|Direct sublets from tenants, cheaper|1 month|
-|**SpareRoom**|spareroom.co.uk|Short-term room rentals and sublets|1 week+|
+| Platform       | URL             | Best For                              | Typical Min. Stay                            |
+| -------------- | --------------- | ------------------------------------- | -------------------------------------------- |
+| **Airbnb**     | airbnb.com      | Flexible stays, huge London inventory | 1 night (look for monthly discount listings) |
+| **VRBO**       | vrbo.com        | Whole-home rentals                    | 1 week+                                      |
+| **Sublet.com** | sublet.com      | Direct sublets from tenants, cheaper  | 1 month                                      |
+| **SpareRoom**  | spareroom.co.uk | Short-term room rentals and sublets   | 1 week+                                      |
 
 ---
 
