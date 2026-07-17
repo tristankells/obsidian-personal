@@ -21,7 +21,6 @@ Stockwell, Loughborough Junction, Herne Hill, Wandsworth Common, Brixton, Clapha
 # Sites
 ### Map
 - https://www.google.com/maps/d/edit?mid=1t3iFkxFiAhhpnde7zrXVo36ZVE389GU&ll=51.491076611856606%2C-0.18533735622001224&z=11
-
 - [Citymapper Journey Planner](https://citymapper.com/london?utm_source=chatgpt.com)
 	- 1. Open Citymapper, set destination to Thomas House, 84 Eccleston Square, check the weekday 8:00–9:00 AM commute.
 ## Short Term
