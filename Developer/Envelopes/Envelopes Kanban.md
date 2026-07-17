@@ -8,16 +8,18 @@ kanban-plugin: board
 
 - [ ] Move envelopes API, creating monorepo?
 - [ ] How should we handle the category ID on credit transactions...
+- [ ] Figure out how to archive old categories.
 
 
 ## Ready
 
 - [ ] Get the latest editorconfig and Roslyn analyzers setup in your project. Use Build.Props and Centralized.PackageManagements.
+- [ ] Fix the mobile site!!!!
+- [ ] Links from dashboard to account transactions history,
 - [ ] Should be able to move money from a category to cover a -negative overall balance.
 - [ ] [[Improve payee matching]]
 - [ ] [[UI Improvements]]
 - [ ] [[Improve the import process]]
-- [ ] Fix the mobile site!!!!
 - [ ] Need to be able to search through when assigning categories in main page and import preview.
 - [ ] Investigate porting to Photino for Blazor App support for windows and linux: https://www.reddit.com/r/csharp/comments/1jp5x9h/i_made_a_net_9_blazor_photino_mudblazor_step_by/
 - [ ] Need to be able to give imports categories to put the money straight into that envelope.
