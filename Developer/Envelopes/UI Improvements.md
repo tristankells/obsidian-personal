@@ -1,4 +1,5 @@
 - Make your rows much smaller.
 	- See other budgeting apps, banking...
-	- Editing columns.
-	- UI feedback / animations.
+- Editing columns bug fixes
+- UI feedback / animations.
+- 

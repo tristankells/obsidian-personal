@@ -11,10 +11,6 @@
 - Fix the broken swagger page (https://localhost:7089/swagger/index.html)
 - Resolve the project warnings.
 - Resolve the preview version of dotnet warning.
-### Envelopes App
-- Need to be able to search through when assigning categories in main page and import preview.
-	- Could also order by likely hood / highlight previous one?
-- Need to be able to give imports categories to put the money straight into that envelope.
 ---
 # Features
 [[Update parser to respect new ASB bank format]]
