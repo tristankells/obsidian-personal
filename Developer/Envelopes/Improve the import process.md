@@ -1,0 +1,8 @@
+- See if we can make it faster.
+	- [] Guide for rider performance debugging.
+	- Implement bulk insert endpoint.
+- Implement loading on the beginning of import.
+- Loading at the end of import.
+- Implement duplication detection.
+- Add notes when you import.
+- UI feedback when import is ongoing.

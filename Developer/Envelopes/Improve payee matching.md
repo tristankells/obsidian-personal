@@ -1,0 +1,1 @@
+Strips number from the comparison, so stuff like `111woolworths` matches to stuff with Woolworths.
