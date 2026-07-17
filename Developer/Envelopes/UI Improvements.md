@@ -2,4 +2,3 @@
 	- See other budgeting apps, banking...
 - Editing columns bug fixes
 - UI feedback / animations.
-- 

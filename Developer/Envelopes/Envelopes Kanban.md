@@ -21,6 +21,8 @@ kanban-plugin: board
 - [ ] Investigate porting to Photino for Blazor App support for windows and linux: https://www.reddit.com/r/csharp/comments/1jp5x9h/i_made_a_net_9_blazor_photino_mudblazor_step_by/
 - [ ] Need to be able to give imports categories to put the money straight into that envelope.
 - [ ] Clean up the tabs, by combining pages and removing unused ones.
+- [ ] Add incomes to planning page
+- [ ] [[Planning should allow the same category to both plans.]]
 
 
 ## In Progress
