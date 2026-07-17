@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] [[Improve the import process]]
 - [ ] [[Improve payee matching]]
 - [ ] [[UI Improvements]]
+- [ ] Investigate porting to Photino for Blazor App support for windows and linux: https://www.reddit.com/r/csharp/comments/1jp5x9h/i_made_a_net_9_blazor_photino_mudblazor_step_by/
 
 
 ## In Progress
