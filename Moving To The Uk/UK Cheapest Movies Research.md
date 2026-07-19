@@ -1,7 +1,11 @@
 **TLDR;** Sign up for octopus for 2 for one at Odeon.
 
 ---
-#
+## Closest Cinemas
+- **Curzon** Victoria (58 Victoria St) — ~0.8 km / 15–20 min walk
+- **Vue** Piccadilly (Lower Regent St) — ~2 km.
+- **ODEON** Luxe West End 2.5 km
+- **Cineworld** Leicester Square ~2.4 km
 - Site for up to date money saving tips: https://www.moneysavingexpert.com/deals/cinema-tips-and-tricks/#meerkatmovies
 
 
