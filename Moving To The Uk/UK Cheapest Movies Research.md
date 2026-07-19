@@ -6,6 +6,7 @@
 - **Vue** Piccadilly (Lower Regent St) — ~2 km.
 - **ODEON** Luxe West End 2.5 km
 - **Cineworld** Leicester Square ~2.4 km
+## Notes
 - Site for up to date money saving tips: https://www.moneysavingexpert.com/deals/cinema-tips-and-tricks/#meerkatmovies
 
 
