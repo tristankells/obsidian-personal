@@ -22,10 +22,11 @@ kanban-plugin: board
 
 ## Ready
 
-- [ ] Port to Avalonia for native Linux, Desktop and Web support
+- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
 - [ ] Decouple UI and backend elements for easy porting
 - [ ] "Obsidianfy" the UI
 - [ ] Get it working 100% locally removing backend
+- [ ] Backup to google drive
 - [ ] Markdown backed recipes?
 - [ ] In Season Funcionality Does not work correctly, and is not configurable / tweakable.
 - [ ] Can we combine meal prep and daily food planning pages?
@@ -38,6 +39,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Port to Avalonia for native Linux, Desktop and Web support
 
 
 ## In Testing
