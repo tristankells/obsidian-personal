@@ -1,4 +1,4 @@
-**TLDR;** Sign up for octopus for 2 for one at Odeon.
+**TLDR;** Before Marliese; Ode £19.99. After, sign up for **Octopus** for 2 for one at Odeon.
 
 ---
 ## Closest Cinemas
@@ -8,8 +8,9 @@
 - **Cineworld** Leicester Square ~2.4 km
 ## Notes
 - Site for up to date money saving tips: https://www.moneysavingexpert.com/deals/cinema-tips-and-tricks/#meerkatmovies
-	- "Swap Tesco Clubcard vouchers for double the value on Cineworld & Picturehouse tickets" - Sign up for Tesco Club Card.
-	- 
+	- "Swap **Tesco Clubcard** vouchers for double the value on Cineworld & Picturehouse tickets" - Sign up for Tesco Club Card.
+	- "£3 Cineworld or Picturehouse ticket Friday to Sunday for **Three mobile** customers"
+	- "Buy certain insurance, switch utilities, or successfully apply for a financial product through comparison site Compare The Market*, and you'll get 2for1 cinema tickets on a Tuesday or Wednesday for a year."
 
 
 
