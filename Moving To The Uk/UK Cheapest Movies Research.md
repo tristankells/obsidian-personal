@@ -13,5 +13,6 @@
 	- "Buy certain insurance, switch utilities, or successfully apply for a financial product through comparison site **Compare The Market***, and you'll get 2for1 cinema tickets on a Tuesday or Wednesday for a year."
 	- "Two Odeon tickets for £8 to any 2D movie on any day for some **Vodafone** & Voxi phone customers"
 	- "**O2 mobile** and **Virgin Media** broadband customers can get two Vue tickets for £9, or four for £18 (£4.50 each), to see any 2D movie via [Priority](https://priority.o2.co.uk/)."
+	- "Two Odeon tickets for £10 for **Amazon Prime** members each month"
 - Get free ODEON, Curzon, Vue & Cineworld membership.
 
