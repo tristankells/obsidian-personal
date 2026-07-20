@@ -23,6 +23,8 @@ kanban-plugin: board
 ## Ready
 
 - [ ] Port to Avalonia for native Linux, Desktop and Web support
+- [ ] Decouple UI and backend elements for easy porting
+- [ ] "Obsidianfy" the UI
 - [ ] Get it working 100% locally removing backend
 - [ ] Markdown backed recipes?
 - [ ] In Season Funcionality Does not work correctly, and is not configurable / tweakable.
@@ -30,8 +32,8 @@ kanban-plugin: board
 - [ ] Search recipe by ingredient in recipe
 - [ ] Expand food database
 - [ ] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
-- [ ] "Obsidianfy" the UI
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
+- [ ] Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein / carbohydrates)
 
 
 ## In Progress
