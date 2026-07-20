@@ -8,7 +8,8 @@
 - **Cineworld** Leicester Square ~2.4 km
 ## Notes
 - Site for up to date money saving tips: https://www.moneysavingexpert.com/deals/cinema-tips-and-tricks/#meerkatmovies
-
+	- "Swap Tesco Clubcard vouchers for double the value on Cineworld & Picturehouse tickets" - Sign up for Tesco Club Card.
+	- 
 
 
 
