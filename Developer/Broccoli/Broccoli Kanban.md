@@ -11,21 +11,27 @@ kanban-plugin: board
 
 ## Bugs
 
-- [ ] In Season Funcionality Does not work correctly, and is not configurable / tweakable.
 
 
 ## Backlog
 
 **Complete**
-- [x] Port to Avalonia for native Linux, Desktop and Web support
 - [x] Get rid of all the warnings in IDE
 - [x] Track prices of stuff at supermarkets!
-- [x] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
-- [x] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
 
 
 ## Ready
 
+- [ ] Port to Avalonia for native Linux, Desktop and Web support
+- [ ] Get it working 100% locally removing backend
+- [ ] Markdown backed recipes?
+- [ ] In Season Funcionality Does not work correctly, and is not configurable / tweakable.
+- [ ] Can we combine meal prep and daily food planning pages?
+- [ ] Search recipe by ingredient in recipe
+- [ ] Expand food database
+- [ ] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
+- [ ] "Obsidianfy" the UI
+- [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 
 
 ## In Progress
