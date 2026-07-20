@@ -1,0 +1,3 @@
+- Add a new Avalonia project to Brocolli.
+- As part of the port, obsidianify the pages.
+- 

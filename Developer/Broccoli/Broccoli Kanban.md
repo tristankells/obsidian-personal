@@ -35,11 +35,14 @@ kanban-plugin: board
 - [ ] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [ ] Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein / carbohydrates)
+- [ ] Add grid view and picture view
+- [ ] Add - Animations
+- [ ] Combine Grocery List and Pantry
 
 
 ## In Progress
 
-- [ ] Port to Avalonia for native Linux, Desktop and Web support
+- [ ] [[Port to Avalonia for native Linux, Desktop and Web support]]
 
 
 ## In Testing
