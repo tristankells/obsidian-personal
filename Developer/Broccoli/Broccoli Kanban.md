@@ -23,8 +23,6 @@ kanban-plugin: board
 ## Ready
 
 - [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
-- [ ] Decouple UI and backend elements for easy porting
-- [ ] "Obsidianfy" the UI
 - [ ] Get it working 100% locally removing backend
 - [ ] Backup to google drive
 - [ ] Markdown backed recipes?
@@ -43,6 +41,8 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Port to Avalonia for native Linux, Desktop and Web support]]
+- [ ] "Obsidianfy" the UI
+- [ ] Decouple UI and backend elements for easy porting
 
 
 ## In Testing
