@@ -1,3 +1,4 @@
+- [ ] Go through the getting started tutorial for Avalonia.
 - [ ] Test out the basic implementation of your RecipeViewList and navigation bar.]
 - [ ] Commit latest changes.
 - [ ] Use remote data source to populate list view.
