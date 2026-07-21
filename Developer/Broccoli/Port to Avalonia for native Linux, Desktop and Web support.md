@@ -7,4 +7,4 @@
 	- Recipe Read-only Page
 	- Backed by a Markdown per recipe.
 	- Or by SQLite
-	- 
+
