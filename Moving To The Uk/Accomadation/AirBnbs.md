@@ -1,3 +1,8 @@
+# Flight Details
+**Arrival**  
+📍 London Heathrow (LHR), Terminal 3 · Gate TBD  
+🗓️ Monday, October 12  
+🕐 12:05 PM
 # I'm staying here
 ##  12 Oct - 12 Nov | Room @ 26 Rosedene Avenue Greater London
 **Hosted by Catia**
