@@ -1,16 +1,17 @@
-## I'm staying here
-# Room in Greater London - 12 Oct
+# I'm staying here
+##  12 Oct - 12 Nov | Room @ 26 Rosedene Avenue Greater London
 **Hosted by Catia**
-
 ## Stay Details
 - **Address:** 26 Rosedene Avenue Greater London, England CR0 3DN
 - **Check-in:** Mon, 12 Oct — 3:00 pm
 - **Checkout:** Thu, 12 Nov — 11:00 am
-
 ## Links
 - [Getting there – 26 Rosedene Avenue](https://www.airbnb.co.nz/trips/v1/1737246356043954258/ro/RESERVATION2_CHECKIN/HMHBB4JHZY/directions-modal)
 - [House manual – Instructions and House Rules](https://www.airbnb.co.nz/trips/v1/1737246356043954258/ro/RESERVATION2_CHECKIN/HMHBB4JHZY/house-rules)
 - [Your place – Double room in greater London](https://www.airbnb.co.nz/rooms/25868605)
+## Research
+- From Airport: 
+
 
 ---
 # Message to hosts
