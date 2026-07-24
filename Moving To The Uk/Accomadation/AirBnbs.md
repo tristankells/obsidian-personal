@@ -1,6 +1,18 @@
 ## I'm staying here
+# Room in Greater London
+**Hosted by Catia**
 
+## Stay Details
+- **Address:** 26 Rosedene Avenue Greater London, England CR0 3DN
+- **Check-in:** Mon, 12 Oct — 3:00 pm
+- **Checkout:** Thu, 12 Nov — 11:00 am
 
+## Links
+- [Getting there – 26 Rosedene Avenue](https://www.airbnb.co.nz/trips/v1/1737246356043954258/ro/RESERVATION2_CHECKIN/HMHBB4JHZY/directions-modal)
+- [House manual – Instructions and House Rules](https://www.airbnb.co.nz/trips/v1/1737246356043954258/ro/RESERVATION2_CHECKIN/HMHBB4JHZY/house-rules)
+- [Your place – Double room in greater London](https://www.airbnb.co.nz/rooms/25868605)
+
+---
 
 
 Hello, I'd love to book your room for a month from 12 Oct – 12 Nov. A bit about me: I'm a born and raised Kiwi, working as software developer. I work for Vista Entertainment Group, who have transferred me from their Auckland office to their London office. I'll be working near Eccleston Square throughout my stay. My wife, who works as a marketing portfolio manager, will join me once we've settled on somewhere permanent; this booking is to give me a base while I look for a long-term place. 
