@@ -44,3 +44,11 @@ The Final Girl Support Group
 - The Baby Owner's Manual
 - Commando Dad
 - Dude, You're Gonna Be a Dad!
+
+---
+# E-Reader
+The Kobo Forma features an IPX8 waterproof rating, which is good down to depths of 2 meters for durations up to 60 minutes. This model features an 8-inch display with a 300ppi 1440 x 1920 resolution, 197 grams weight, and 8GB of internal storage.
+
+The unit features ComfortLightPRO, which reduces blue light as the day goes on for comfort. Users can choose from more than 50 font styles and 11 fonts. Other features include support for 14 file formats, plus there's WiFi, micro USB, and a 1200mAh battery for "weeks" of usage.
+
+Read More: https://www.slashgear.com/kobo-forma-premium-ereader-is-waterproof-arrives-this-month-02548403/
