@@ -20,8 +20,6 @@
 - The Baby Owner's Manual
 - Commando Dad
 - Dude, You're Gonna Be a Dad!
-
-
 # To Read
 - How We Learn by Stanislas Dehaene
 - Peak: Secrets from the New Science of Expertise: Ericsson, Anders, Pool, Robert.
