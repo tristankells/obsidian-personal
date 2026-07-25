@@ -12,14 +12,31 @@
 | King Sorrow                                                        | Joe Hill                           | Jan 2026       |     |
 | Make It Stick: The Science of Successful Learning                  | Peter C. Brown & Henry L. Roediger | Jan 2026       |     |
 | Learn Like a Pro: Science-Based Tools to Become Better at Anything | Barbara Oakley PhD, Olav Schewe    |                |     |
+
+# Books to get
+## Horror
+The Lamb by Lucy Rose
+When the Wolf Comes Home
+Something In the Walls
+Breathe In, Bleed Out
+
+
+
+
+
+
+
+
+## Dad Books
+- The Expectant Father
+- The Baby Owner's Manual
+- Commando Dad
+- Dude, You're Gonna Be a Dad!
+
+
 # To Read
 - How We Learn by Stanislas Dehaene
 - Peak: Secrets from the New Science of Expertise: Ericsson, Anders, Pool, Robert.
 - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking
 - Eat That Frog - Brian Tracy
 - Getting Out of Debt for Dummies
-### Dad Books
-- The Expectant Father
-- The Baby Owner's Manual
-- Commando Dad
-- Dude, You're Gonna Be a Dad!
