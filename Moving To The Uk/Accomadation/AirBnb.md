@@ -17,6 +17,8 @@
 ## Research
 - **From Airport:** 5 mins to *Heathrow Central Bus Station* -> 35 min to *Ruislip Road Stop* -> 4 mins to 26 *Rosedene Avenue*
 - **To Office:**  46 mins Tram > Train
+- **Movies**: Vue Cinema Croydon (Purley Way)
+- 
 
 ---
 # Message to hosts
