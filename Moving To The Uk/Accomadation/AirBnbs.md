@@ -15,7 +15,7 @@
 - [House manual – Instructions and House Rules](https://www.airbnb.co.nz/trips/v1/1737246356043954258/ro/RESERVATION2_CHECKIN/HMHBB4JHZY/house-rules)
 - [Your place – Double room in greater London](https://www.airbnb.co.nz/rooms/25868605)
 ## Research
-- From Airport: 
+- **From Airport:** 5 mins to Heathrow Central Bus Station -> 
 
 
 ---
