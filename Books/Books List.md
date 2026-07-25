@@ -20,7 +20,6 @@ The Lamb by Lucy Rose
 When the Wolf Comes Home *
 Something In the Walls
 Breathe In, Bleed Out
-No Rest For the Wicked
 The Autumn Springs Retirement Home Massacre
 Bat Eater and Other Names for Cora Zeng *
 The Hike 
