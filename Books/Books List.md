@@ -15,17 +15,24 @@
 
 # Books to get
 ## Horror
+The Burial Tide
 The Lamb by Lucy Rose
-When the Wolf Comes Home
+When the Wolf Comes Home *
 Something In the Walls
 Breathe In, Bleed Out
-
-
-
-
-
-
-
+No Rest For the Wicked
+The Autumn Springs Retirement Home Massacre
+Bat Eater and Other Names for Cora Zeng *
+The Hike 
+The Buffalo Hunter Hunter **
+IT by Stephen King
+Revival - Stephen King 
+Coffin Moon **\
+The Terror by Dan Simmons
+Slewfoot 
+blood meridian
+My Best Friend's Exorcism
+The Final Girl Support Group 
 
 ## Dad Books
 - The Expectant Father
