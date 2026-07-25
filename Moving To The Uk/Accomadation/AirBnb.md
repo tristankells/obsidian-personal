@@ -16,7 +16,7 @@
 - [Your place – Double room in greater London](https://www.airbnb.co.nz/rooms/25868605)
 ## Research
 - **From Airport:** 5 mins to *Heathrow Central Bus Station* -> 35 min to *Ruislip Road Stop* -> 4 mins to 26 *Rosedene Avenue*
-- To Office: 
+- **To Office:**  46 mins Tram > Train
 
 ---
 # Message to hosts
