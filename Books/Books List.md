@@ -14,12 +14,6 @@
 | Learn Like a Pro: Science-Based Tools to Become Better at Anything | Barbara Oakley PhD, Olav Schewe    |                |     |
 
 # Books to get
-
-## Dad Books
-- The Expectant Father
-- The Baby Owner's Manual
-- Commando Dad
-- Dude, You're Gonna Be a Dad!
 # To Read
 - How We Learn by Stanislas Dehaene
 - Peak: Secrets from the New Science of Expertise: Ericsson, Anders, Pool, Robert.
@@ -38,9 +32,15 @@ The Hike
 The Buffalo Hunter Hunter **
 IT by Stephen King
 Revival - Stephen King 
-Coffin Moon **\
+Coffin Moon
 The Terror by Dan Simmons
 Slewfoot 
 blood meridian
 My Best Friend's Exorcism
 The Final Girl Support Group 
+
+## Dad Books
+- The Expectant Father
+- The Baby Owner's Manual
+- Commando Dad
+- Dude, You're Gonna Be a Dad!
