@@ -21,7 +21,7 @@
 - **Gym:** The Gym Group Croydon Purley Way | Nuffield Health Croydon Central | REGEN London (Croydon)
 - **Supermarket**: ALDI (Purley Way) | Morrisons (Purley Way) | Asda Wallington Superstore
 - **Library**: Croydon Central Library, Croydon Central Library
-- **Tourist**: **The Ludoquist** in Croydon, 
+- **Tourist**: **The Ludoquist** in Croydon, Shirley Hills / Shirley Hills Overlook (Addington Hills), Wandle Park, Museum of Croydon / Clocktower complex, **Shirley Windmill**, **Surrey Street Market**, Wander the **post-war/brutalist architecture** around Croydon town centre. Explore a **random zone 2/3 neighbourhood** you'll never think to visit again — Brixton, Peckham, Deptford — just to walk around, find a bookshop or a good coffee spot, no agenda. This is the category I'd lean into hardest: "aimless exploring" is inherently a solo activity that doesn't create a shared-memory debt.
 ---
 # Message to hosts
 
