@@ -21,7 +21,7 @@
 - **Gym:** The Gym Group Croydon Purley Way | Nuffield Health Croydon Central | REGEN London (Croydon)
 - **Supermarket**: ALDI (Purley Way) | Morrisons (Purley Way) | Asda Wallington Superstore
 - **Library**: Croydon Central Library, Croydon Central Library
-- T
+- **Tourist**: **The Ludoquist** in Croydon, 
 ---
 # Message to hosts
 
