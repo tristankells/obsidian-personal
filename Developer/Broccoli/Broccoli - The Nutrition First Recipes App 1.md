@@ -168,3 +168,19 @@ User (This is a small app to share with friends, I just want to support a user n
 - [Mealie.io](https://mealie.io/)
 - https://mycookbook.com/
 - Paprika
+# Google
+### Setup Google Drive Sync
+1. **Create/select a project.**
+2. **Enable the Google Drive API** — APIs & Services → Library → search "Google Drive API" → Enable.
+3. **Configure OAuth consent screen** — APIs & Services → OAuth consent screen. Choose External (unless you have Workspace), fill app name/support email. While in Testing mode, add your own Google account under Test users (required, or login will be blocked).
+4. **Create credentials** — Credentials → Create Credentials → OAuth client ID → Application type "Desktop app" → any name. Copy the generated Client ID and Client Secret.
+5. **Add scope (if prompted on consent screen config)**:  https://www.googleapis.com/auth/drive.file  (the app only requests this narrow scope — files it creates itself, not your whole Drive).
+
+On your machine: run the app once and click "Connect Google Drive" — it'll throw an error naming the config file path:  %LocalAppData%\Broccoli\google-drive-oauth.json . Create it with:
+```json
+{
+  "ClientId": "your-client-id.apps.googleusercontent.com",
+  "ClientSecret": "your-client-secret"
+}
+```
+Then click Connect again — it'll open your system browser for the Google login/consent, then a loopback redirect completes sign-in automatically. No need to publish the OAuth app; "Testing" status works fine as long as your account is added as a test user.
