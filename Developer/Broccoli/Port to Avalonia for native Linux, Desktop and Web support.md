@@ -1,5 +1,6 @@
 - [x] Go through the getting started tutorial for Avalonia.
-- [ ] Fix the black screen when trying 
+- [ ] Fix the black screen when trying to debug.
+- [ ] Get a list of item printing to screen, hard coded.
 - [ ] Test out the basic implementation of your RecipeViewList and navigation bar.
 - [ ] Commit latest changes.
 - [ ] Use remote data source to populate list view.
