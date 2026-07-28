@@ -1,9 +1,11 @@
 - [x] Go through the getting started tutorial for Avalonia.
 - [x] Fix the black screen when trying to debug.
-- [ ] Get a list of item printing to screen, hard coded.
-- [ ] Vibe to get to a list of recipes and a simple edit screen.
+- [x] Get a list of item printing to screen, hard coded.
+- [x] Vibe to get to a list of recipes and a simple edit screen.
+- [ ] Move to Feature slices to manage complexity.
 - [ ] Pick a missing feature to start working.
 - [ ] Debug through the codebase to understand what is happening, and what can be simplified.
+- [ ] Do performance testing with 100, 1000 and 10000 recipes! 
 
 ---
 ![[Pasted image 20260724162240.png]]
