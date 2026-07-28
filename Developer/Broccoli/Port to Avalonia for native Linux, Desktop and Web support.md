@@ -4,7 +4,9 @@
 - [x] Vibe to get to a list of recipes and a simple edit screen.
 - [x] Move to Feature slices to manage complexity.
 - [ ] Pick a missing feature to start working.
-- [ ] 
+- [ ] Create the list view, as table.
+- [ ] Add a button to switch views.
+- [ ] Add a card view.
 - [ ] Debug through the codebase to understand what is happening, and what can be simplified.
 - [ ] Do performance testing with 100, 1000 and 10000 recipes! 
 
