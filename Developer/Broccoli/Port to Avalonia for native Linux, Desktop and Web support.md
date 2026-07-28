@@ -20,3 +20,11 @@
 	- Backed by a Markdown per recipe.
 	- Or by SQLite
 
+
+
+
+# Features
+## Recipes
+- Add New Recipe
+- Delete Recipe
+- Edit Recipe
