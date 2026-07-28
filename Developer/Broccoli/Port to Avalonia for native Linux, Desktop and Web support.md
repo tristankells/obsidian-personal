@@ -1,5 +1,5 @@
 - [x] Go through the getting started tutorial for Avalonia.
-- [ ] Fix the black screen when trying to debug.
+- [x] Fix the black screen when trying to debug.
 - [ ] Get a list of item printing to screen, hard coded.
 - [ ] Test out the basic implementation of your RecipeViewList and navigation bar.
 - [ ] Commit latest changes.
@@ -11,7 +11,7 @@
 
 
 
-- Add a new Avalonia project to Brocolli.
+- Add a new Avalonia project to Broccoli.
 - As part of the port, obsidianify the pages.
 - Do page by page.
 - Recipes
