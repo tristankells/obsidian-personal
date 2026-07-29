@@ -40,4 +40,7 @@
 # Design
 - Add a new non persisted computed property on the recipe model: SearchWords
 	- A computed collection of all unique strings within the title, tags and ingredients.
-	- 
+	- This should be alphabetically ordered for faster searching.
+	- Example, 
+		- someone types "c"
+		- We check every recipes for a tag, ingredient or word 
