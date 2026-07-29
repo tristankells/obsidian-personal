@@ -45,6 +45,6 @@
 	- A computed collection of all unique strings within the title, tags and ingredients.
 	- This should be alphabetically ordered for faster searching (binary search?)
 	- Example, 
-		- someone types "c"
-		- We check every recipes for word in a tag, ingredient or title that begins with "c"
+		- When filter changes trigger update to FilteredItems; someone types "c"
+		- We check every recipes for word in a tag, ingredient or title that begins with "c";(recipe.SearchWords.Any(searchWord.word.Contains(searchText)))
 		- We filter recipes by this word
