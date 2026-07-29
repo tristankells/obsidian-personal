@@ -38,9 +38,13 @@
 
 ---
 # Design
+- https://docs.avaloniaui.net/docs/how-to/mvvm-how-to#filtered-collection
+- Renamed our recipes collection to FilteredRecipes.
+- Store all recipes in private field \_allRecipes
 - Add a new non persisted computed property on the recipe model: SearchWords
 	- A computed collection of all unique strings within the title, tags and ingredients.
-	- This should be alphabetically ordered for faster searching.
+	- This should be alphabetically ordered for faster searching (binary search?)
 	- Example, 
 		- someone types "c"
-		- We check every recipes for a tag, ingredient or word 
+		- We check every recipes for word in a tag, ingredient or title that begins with "c"
+		- We filter recipes by this word
