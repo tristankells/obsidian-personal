@@ -46,5 +46,6 @@
 	- This should be alphabetically ordered for faster searching (binary search?)
 	- Example, 
 		- When filter changes trigger update to FilteredItems; someone types "c"
-		- We check every recipes for word in a tag, ingredient or title that begins with "c";(recipe.SearchWords.Any(searchWord.word.Contains(searchText)))
-		- We filter recipes by this word
+		- We check every recipes for word in a tag, ingredient or title that begins with "c";(recipe.SearchWords.Any(searchWord.word.StartsWith(searchText)))
+		- Needs to be a bit smarter to contain handle multiple words.
+		- We filter recipes by this word.
