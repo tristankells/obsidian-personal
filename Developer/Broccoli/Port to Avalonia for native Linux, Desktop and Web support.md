@@ -3,6 +3,8 @@
 - [x] Get a list of item printing to screen, hard coded.
 - [x] Vibe to get to a list of recipes and a simple edit screen.
 - [x] Move to Feature slices to manage complexity.
+- [ ] Import 5 most important recipes, manually.
+- [ ] Implements search function.
 - [ ] Pick a missing feature to start working.
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
@@ -31,3 +33,4 @@
 - Add New Recipe
 - Delete Recipe
 - Edit Recipe
+- Search 
