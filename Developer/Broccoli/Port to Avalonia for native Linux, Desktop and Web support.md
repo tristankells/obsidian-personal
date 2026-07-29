@@ -33,4 +33,11 @@
 - Add New Recipe
 - Delete Recipe
 - Edit Recipe
-- Search 
+- Filter recipes list
+	- By tag, ingredient and title?
+
+---
+# Design
+- Add a new non persisted computed property on the recipe model: SearchWords
+	- A computed collection of all unique strings within the title, tags and ingredients.
+	- 
