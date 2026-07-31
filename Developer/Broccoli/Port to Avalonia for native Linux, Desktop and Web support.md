@@ -43,7 +43,8 @@
 - Store all recipes in private field \_allRecipes
 - When loading recipes, store in a field.
 - After editing recipe, recalculate search words.
-- Token
+- Tokenise search space.
+- Store search words to lower invariant.
 - Add a new non persisted computed property on the recipe model: SearchWords
 	- A computed collection of all unique strings within the title, tags and ingredients.
 	- This should be alphabetically ordered for faster searching (binary search?)
