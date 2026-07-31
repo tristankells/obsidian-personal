@@ -55,3 +55,10 @@
 		- We filter recipes by this word.
 
 
+Would I use three lists to hold tags, ingredient words and 
+
+internal class SearchWords(){
+	Tags
+}
+
+internal record SearchWord 
