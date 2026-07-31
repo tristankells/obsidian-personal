@@ -63,3 +63,9 @@ internal class SearchWords(){
 }
 
 internal record SearchWord 
+
+
+
+```
+`[Environment]::SetEnvironmentVariable("Path", [Environment]::GetEnvironmentVariable("Path", "Machine") + ";C:\Users\trist\AppData\Local\Python\pythoncore-3.14-64\Scripts", "Machine")`
+```
