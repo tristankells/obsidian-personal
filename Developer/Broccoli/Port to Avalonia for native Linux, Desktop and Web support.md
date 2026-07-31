@@ -69,3 +69,6 @@ internal record SearchWord
 ```
 `[Environment]::SetEnvironmentVariable("Path", [Environment]::GetEnvironmentVariable("Path", "Machine") + ";C:\Users\trist\AppData\Local\Python\pythoncore-3.14-64\Scripts", "Machine")`
 ```
+
+
+aider --model deepseek --api-key deepseek="$env:DEEPSEEK_AIDER_API_KEY"
