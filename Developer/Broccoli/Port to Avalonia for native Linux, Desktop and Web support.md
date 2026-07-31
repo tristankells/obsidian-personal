@@ -38,7 +38,7 @@
 
 ---
 # Design
-- High performance alternative, build index of words to recipes
+- High performance alternative, build index of words to recipes list of recipes.
 - https://docs.avaloniaui.net/docs/how-to/mvvm-how-to#filtered-collection
 - Renamed our recipes collection to FilteredRecipes.
 - Store all recipes in private field \_allRecipes
