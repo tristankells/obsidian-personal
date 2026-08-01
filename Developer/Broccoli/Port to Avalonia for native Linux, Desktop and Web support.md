@@ -56,4 +56,10 @@
 		- We filter recipes by this word.
 
 
-- Next feature I would like you to port is the C:\Dev\Github\Broccoli.App\Broccoli.App.Shared\Slices\GroceryList\. Please write a plan for how you would implement this in the avalonia application.
+
+
+
+
+
+The tabs need a clearer signify which tab is selected. Make sure you are using native avalonia controls where you can.
+
