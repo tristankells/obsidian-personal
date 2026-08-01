@@ -54,3 +54,6 @@
 		- We check every recipes for word in a tag, ingredient or title that begins with "c";(recipe.SearchWords.Any(searchWord.word.StartsWith(searchText)))
 		- Needs to be a bit smarter to contain handle multiple words.
 		- We filter recipes by this word.
+
+
+- Next feature I would like you to port is the C:\Dev\Github\Broccoli.App\Broccoli.App.Shared\Slices\GroceryList\. Please write a plan for how you would implement this.
