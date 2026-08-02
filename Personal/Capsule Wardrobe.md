@@ -29,4 +29,4 @@ https://www.reddit.com/r/capsulewardrobe/comments/z2kkhy/the_i_used_to_be_goth_b
 - + Jeans
 - + Nice Pants
 - Blazer
-- Sweeter
+- Sweeter![[Pasted image 20260802215635.png]]![[Pasted image 20260802215712.png]]![[Pasted image 20260802215740.png]]![[Pasted image 20260802215820.png]]![[Pasted image 20260802215853.png]]![[Pasted image 20260802215929.png]]![[Pasted image 20260802220018.png]]
