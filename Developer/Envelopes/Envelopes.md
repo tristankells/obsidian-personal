@@ -8,10 +8,6 @@
 
 **7. Transaction filtering/search** No search box, no date range filter, no category/account filter on the transactions list. With any real volume of data, the flat list becomes unusable.
 
-**8. Category drag-and-drop reordering** The `Index` field exists but there is no UI to reorder categories. The original Blazor app supported drag-and-drop.
-
-**9. No undo for destructive operations** Delete on accounts/categories/transactions is immediate with no confirmation dialog and no undo mechanism.
-
 **10. `Accumulates` flag has no effect** The Category model has `Accumulates` (bool) but no code anywhere checks or acts on it. It should cause remaining budgeted amounts to roll forward to the next month instead of resetting.
 
 ---
