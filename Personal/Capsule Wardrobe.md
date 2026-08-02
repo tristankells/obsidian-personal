@@ -16,6 +16,7 @@ https://www.reddit.com/r/capsulewardrobe/comments/z2kkhy/the_i_used_to_be_goth_b
 - https://www.theessentialman.com/blog/mens-capsule-wardrobe-guide
 - https://www.pivotimage.com/blog/mens-capsule-wardrobe
 - https://www.permanentstyle.com/2020/06/a-complete-capsule-wardrobe.html
+- https://currentlypopular.com/mens-capsule-wardrobe/
 ### Colors
 - My colors are black/grey, blue and green.
 - 
