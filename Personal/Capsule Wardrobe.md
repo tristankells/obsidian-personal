@@ -14,3 +14,9 @@ https://www.reddit.com/r/capsulewardrobe/comments/z2kkhy/the_i_used_to_be_goth_b
 - 
 ### Colors
 - My colors are black/grey, blue and green.
+
+
+- 5+ Tee Shirts
+- 2+ Polos
+- 2+ Shirts
+- 
