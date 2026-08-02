@@ -1,13 +1,6 @@
-## Critical — App Non-Functional Without These
----
-
 ## High — Core Envelope Budgeting Missing
 
 **4. Month navigation / boundary management** Envelope budgeting is fundamentally month-based. Categories reset at month boundaries (unless `Accumulates` is true). There is no current month concept, no month selector, no rollover logic. The original API handled this server-side, but the local version has no equivalent.
-
-**5. Cover overspending workflow** When a category goes negative (Available < 0), the user needs a one-click flow to move money from another positive category. The original had `TransferBudgetDialog` for this.
-
-**6. Assign remaining funds** The original had `AssignToBudgetDialog` to distribute leftover "Ready to Assign" funds across categories proportionally or by entering amounts.
 
 ---
 
