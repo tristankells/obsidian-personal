@@ -1,3 +1,40 @@
+## Critical — App Non-Functional Without These
+---
+
+## High — Core Envelope Budgeting Missing
+
+**4. Month navigation / boundary management** Envelope budgeting is fundamentally month-based. Categories reset at month boundaries (unless `Accumulates` is true). There is no current month concept, no month selector, no rollover logic. The original API handled this server-side, but the local version has no equivalent.
+
+**5. Cover overspending workflow** When a category goes negative (Available < 0), the user needs a one-click flow to move money from another positive category. The original had `TransferBudgetDialog` for this.
+
+**6. Assign remaining funds** The original had `AssignToBudgetDialog` to distribute leftover "Ready to Assign" funds across categories proportionally or by entering amounts.
+
+---
+
+## Medium — UX Completeness
+
+**7. Transaction filtering/search** No search box, no date range filter, no category/account filter on the transactions list. With any real volume of data, the flat list becomes unusable.
+
+**8. Category drag-and-drop reordering** The `Index` field exists but there is no UI to reorder categories. The original Blazor app supported drag-and-drop.
+
+**9. No undo for destructive operations** Delete on accounts/categories/transactions is immediate with no confirmation dialog and no undo mechanism.
+
+**10. `Accumulates` flag has no effect** The Category model has `Accumulates` (bool) but no code anywhere checks or acts on it. It should cause remaining budgeted amounts to roll forward to the next month instead of resetting.
+
+---
+
+## Low — Nice to Have
+
+**11. No Age of Money calculation** (YNAB metric — how long income sits before being spent)
+
+**12. No CSV/JSON export** for offline backup (complementing Google Drive)
+
+**13. No category goal progress** — the original had planned amount tracking with visual progress toward goals
+
+**14. Dashboard cards don't show Activity** — only Available is shown; users can't see at a glance how much they've spent this month
+
+
+
 - Front End - https://app-envelopes-app-dev-ro5pojtby3wwy.azurewebsites.net/
 	- API - https://app-envelopes-api-dev-gsyykfmj4a4kk.azurewebsites.net
 		- Database - https://turso-envelopes-dev-tristankells.aws-ap-south-1.turso.io
