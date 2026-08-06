@@ -3,8 +3,12 @@
 - [x] Get a list of item printing to screen, hard coded.
 - [x] Vibe to get to a list of recipes and a simple edit screen.
 - [x] Move to Feature slices to manage complexity.
-- [ ] Import 5 most important recipes, manually.
+- [x] Import 5 most important recipes, manually.
 - [ ] Implements search function.
+	- [ ] Confirm tests are there.
+	- [ ] Add test case for multiple words in the ingredients.
+	- [ ] Add UI to change _searchWordSource.
+	- [ ] Add helpful tags to recipes.
 - [ ] Pick a missing feature to start working.
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
