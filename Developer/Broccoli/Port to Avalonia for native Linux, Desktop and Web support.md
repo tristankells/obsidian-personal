@@ -5,7 +5,7 @@
 - [x] Move to Feature slices to manage complexity.
 - [x] Import 5 most important recipes, manually.
 - [ ] Implements search function.
-	- [ ] Confirm tests are there.
+	- [x] Confirm tests are there.
 	- [ ] Add test case for multiple words in the ingredients.
 	- [ ] Add UI to change _searchWordSource.
 	- [ ] Add helpful tags to recipes.
