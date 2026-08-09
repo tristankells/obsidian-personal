@@ -8,7 +8,12 @@
 	- [x] Confirm tests are there.
 	- [x] Add test case for multiple words in the ingredients.
 	- [x] Add UI to change _searchWordSource.
-	- [ ] Add helpful tags to recipes.
+	- [ ] Add helpful tags to recipes recipe, not just the name of the recipes / text.
+	- [ ] 
+
+- Couple fixes
+	- Clicking the anywhere on the card should take you to the 
+
 - [ ] Pick a missing feature to start working.
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
