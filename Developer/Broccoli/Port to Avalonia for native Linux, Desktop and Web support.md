@@ -12,9 +12,10 @@
 	- [ ] 
 
 - Couple fixes
+	- The targets have a coloured line in the middler of the words calories, protien etc.. this is bad looking UI.
 	- Clicking the anywhere on the card should take you to the not just the name of the recipes / text.
-	- I would like another optional element added to the recipes cards, controlled by settings; calories match current user macros. This should be a right aligned overlay, like the seasonality score. I should be able to control in the setting what is considered acceptable of target, the percentage under or over that is considered acceptable. If within range, the overlay should be tick 
-	- 
+	- I would like another optional element added to the recipes cards, controlled by settings; calories match current user macros. This should be a right aligned overlay, like the seasonality score. I should be able to control in the setting what is considered acceptable of target, the percentage under or over that is considered acceptable. If within range, the overlay should be green tick. Otherwise should be a yellow `!`.
+	- In the parsed ingredient table, I would like visual highlight for the top contributors for calories, fat, carbs and protein.
 
 - [ ] Pick a missing feature to start working.
 - [ ] Create the list view, as table.
