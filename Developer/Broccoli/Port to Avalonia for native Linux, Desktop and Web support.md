@@ -8,11 +8,13 @@
 	- [x] Confirm tests are there.
 	- [x] Add test case for multiple words in the ingredients.
 	- [x] Add UI to change _searchWordSource.
-	- [ ] Add helpful tags to recipes recipe, not just the name of the recipes / text.
+	- [ ] Add helpful tags to recipes recipe,
 	- [ ] 
 
 - Couple fixes
-	- Clicking the anywhere on the card should take you to the 
+	- Clicking the anywhere on the card should take you to the not just the name of the recipes / text.
+	- I would like another optional element added to the recipes cards, controlled by settings; calories match current user macros. This should be a right aligned overlay, like the seasonality score. I should be able to control in the setting what is considered acceptable of target, the percentage under or over that is considered acceptable. If within range, the overlay should be tick 
+	- 
 
 - [ ] Pick a missing feature to start working.
 - [ ] Create the list view, as table.
