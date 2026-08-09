@@ -13,7 +13,8 @@
 
 - Issues
 	- When I change a recipes card display setting, it is not being picked up straight away, it should apply straight away.
-	- The tolenerance input is much too small on the settings page, should be wider
+	- The tolerance input is much too small on the settings page, should be wider so the giant arrows don't hide it.
+	- 
 
 - [ ] Pick a missing feature to start working.
 - [ ] Create the list view, as table.
