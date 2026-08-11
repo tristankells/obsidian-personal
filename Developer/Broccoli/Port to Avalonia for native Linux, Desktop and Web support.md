@@ -1,23 +1,6 @@
-- [x] Go through the getting started tutorial for Avalonia.
-- [x] Fix the black screen when trying to debug.
-- [x] Get a list of item printing to screen, hard coded.
-- [x] Vibe to get to a list of recipes and a simple edit screen.
-- [x] Move to Feature slices to manage complexity.
-- [x] Import 5 most important recipes, manually.
-- [x] Implements search function.
-	- [x] Confirm tests are there.
-	- [x] Add test case for multiple words in the ingredients.
-	- [x] Add UI to change _searchWordSource.
-
-- Plan a new feature for the shopping list
-	- When I add a item to the shopping, manually or via the right click add to shopping cart, I want to guestimate how many grams that is, if I'm give whole. Or convert grams to whole. Example, if I enter "700g Carrots", on the grocery list display, I would like add `(5 carrots)` in greyed out text on that row, based on the data provided from the food database. And vice veras; enter "5 carrots" `(700g carrots)`, I get  For any items that cannot be matched to food database, omit this data, or items where an instance of the item cannot be matched to grams.
-
-- Issues
-	- When I change a recipes card display setting, it is not being picked up straight away, it should apply straight away.
-	- The tolerance input is much too small on the settings page, should be wider so the giant arrows don't hide it.
-	- 
-
-- [ ] Pick a missing feature to start working.
+- Grocery List
+	- [ ] Add ingredients to cart
+		- [ ] When adding to pantry, remove known measurements etc....
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
 - [ ] Add a card view.
