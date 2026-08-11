@@ -9,11 +9,7 @@
 	- [x] Add test case for multiple words in the ingredients.
 	- [x] Add UI to change _searchWordSource.
 	- [ ] Add helpful tags to recipes recipe,
-	- [ ] Investigate add to pantry being greyed out and make cancel and add to cart stuck to bottom of popup.
-		- [ ] The scroll viewer is hiding based on the page.
-		- [ ] Top should be pinned to top
-		- [ ] Bot should be pinned to bot
-		- [ ] And scroll viewer should be dynamic based on size of page.
+	- [ ] Investigate add to pantry being greyed out and make cancel and add to cart stuck to bottom of popup..
 	- [ ] Why is merge to existing not working?
 
 - Issues
