@@ -1,6 +1,11 @@
 - Grocery List
 	- [ ] Add ingredients to cart
 		- [ ] When adding to pantry, remove known measurements etc....
+		- [ ] Edit item existing item in the grocery list. Should be click to enable editing of texts, 
+
+Couple More Changes
+- When adding to pantry from cart preview, remove known measurements etc....
+
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
 - [ ] Add a card view.
