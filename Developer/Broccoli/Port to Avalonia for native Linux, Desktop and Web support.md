@@ -1,6 +1,8 @@
 - Grocery List
 	- [ ] Add ingredients to cart
 		- [ ] Add to pantry -> cannot see remove from pantry straight away.
+			- [ ] Button should be "Remove from Pantry"
+			- [ ] Pantry is not updated until app is completely restarted.
 
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
