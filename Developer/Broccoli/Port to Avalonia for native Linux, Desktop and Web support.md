@@ -10,7 +10,7 @@
 	- [x] Add UI to change _searchWordSource.
 
 - Plan a new feature for the shopping list
-	- When I ad
+	- When I add a item to the shopping, manually or via the right click add to shopping cart, I want to guestimate how many grams that is, if I'm give whole. Or convert grams to whole. Example, if I enter "700g Carrots", on the grocery list display, I would like add `(5 carrots)` in greyed out text on that row, based on the data provided from the food database. And vice veras; enter "5 carrots" `(700g carrots)`, I get  For any items that cannot be matched to food database, omit this data, or items where an instance of the item cannot be matched to grams.
 
 - Issues
 	- When I change a recipes card display setting, it is not being picked up straight away, it should apply straight away.
