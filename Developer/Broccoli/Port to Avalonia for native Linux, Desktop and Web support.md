@@ -1,11 +1,6 @@
 - Grocery List
 	- [ ] Add ingredients to cart
-		- [ ] When adding to pantry, remove known measurements etc....
-		- [ ] Edit item existing item in the grocery list. Should be click to enable editing of texts, 
-
-Couple More Changes
-- When adding to pantry, remove known measurements like tablespoons, tbls, tsp, cup etc...
-- Edit item existing item in the grocery list. Should be click to enable editing of texts for items. Then I click off or hit enter to save, where the hint will be recalulated.
+		- [ ] Add to pantry -> cannot see remove from pantry straight away.
 
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
