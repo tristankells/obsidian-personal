@@ -9,7 +9,8 @@
 	- [x] Add test case for multiple words in the ingredients.
 	- [x] Add UI to change _searchWordSource.
 	- [ ] Add helpful tags to recipes recipe,
-	- [ ] 
+	- [ ] Investigate add to pantry being greyed out and make cancel and add to cart stuck to bottom of popup.
+	- [ ] Why is merge to existing not working?
 
 - Issues
 	- When I change a recipes card display setting, it is not being picked up straight away, it should apply straight away.
