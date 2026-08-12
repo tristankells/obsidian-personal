@@ -3,7 +3,7 @@ This can be considered done when we can perform the end to end workflow:
 - Select that person as the nutrition goal -> ✅ 
 - Add new recipe ->
 - Adjust macros for that recipes ->
-- On the recipes list page, add ingredient from that pagadd ingredients for that recipes + one more existing recipe ->
+- On the recipes list page, add ingredient from that page to list add ingredients for that recipes + one more existing recipe ->
 - Copy paste into Microsoft To-Do ->
 
 - Grocery List
