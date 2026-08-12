@@ -1,6 +1,6 @@
 This can be considered done when we can perform the end to end workflow:
 - Add nutrition info for new person ->✅ 
-- Select that person as the nutrition goal -> BUG After Editing Name, Still Shows Up as "New Person".
+- Select that person as the nutrition goal -> ✅ 
 - Add new recipe ->
 - Adjust macros for that recipes ->
 - Add any missing ingredients ->
