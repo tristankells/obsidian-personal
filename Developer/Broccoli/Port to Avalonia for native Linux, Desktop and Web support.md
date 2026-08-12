@@ -1,12 +1,17 @@
 This can be considered done when we can perform the end to end workflow:
-- Add nutrion info for new person ->
-- Add 
+- Add nutrition info for new person ->
+- Add new recipe ->
+- Adjust macros for that recipes ->
+- Add any missing ingredients ->
+- On the recipes list page, add ingredients for that recipes + one more existing ->
+- Copy paste into Microsoft To-Do
 
 - Grocery List
 	- [ ] Add ingredients to cart
 		- [ ] Add to pantry -> cannot see remove from pantry straight away.
 			- [ ] Button should be "Remove from Pantry"
 			- [ ] Pantry is not updated until app is completely restarted.
+			- [ ] Button to clear all of pantry, with warning.
 
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
