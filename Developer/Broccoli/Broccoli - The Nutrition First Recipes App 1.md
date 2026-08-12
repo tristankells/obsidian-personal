@@ -189,7 +189,7 @@ Then click Connect again — it'll open your system browser for the Google login
 # How to run the legacy application?
 ```powershell
 $env:ASPNETCORE_ENVIRONMENT = 'Production'
-Set-Location C:\Dev\Broccoli.Web
+Set-Location "C:\Dev\Broccoli.Web"
 dotnet Broccoli.App.Web.dll
 
 # In another terminal
