@@ -18,6 +18,7 @@ kanban-plugin: board
 **Complete**
 - [x] Get rid of all the warnings in IDE
 - [x] Track prices of stuff at supermarkets!
+- [x] Suggest tags based on the ingredients and existing tags?
 
 
 ## Ready
