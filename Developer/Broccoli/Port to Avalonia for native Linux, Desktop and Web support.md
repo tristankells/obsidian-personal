@@ -1,5 +1,5 @@
 This can be considered done when we can perform the end to end workflow:
-- Add nutrition info for new person ->
+- Add nutrition info for new person ->✅ 
 - Add new recipe ->
 - Adjust macros for that recipes ->
 - Add any missing ingredients ->
@@ -8,10 +8,9 @@ This can be considered done when we can perform the end to end workflow:
 
 - Grocery List
 	- [ ] Add ingredients to cart
-		- [ ] Add to pantry -> cannot see remove from pantry straight away.
-			- [ ] Button should be "Remove from Pantry"
-			- [ ] Pantry is not updated until app is completely restarted.
-			- [ ] Button to clear all of pantry, with warning.
+		- [ ] Button to clear all of pantry, with warning.
+- Macros
+	- [ ] When adding a new user, that user does not appear in the macros settings until a hard reset.
 
 
 
