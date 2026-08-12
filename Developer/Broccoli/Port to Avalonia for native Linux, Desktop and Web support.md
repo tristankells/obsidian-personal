@@ -1,3 +1,7 @@
+This can be considered done when we can perform the end to end workflow:
+- Add nutrion info for new person ->
+- Add 
+
 - Grocery List
 	- [ ] Add ingredients to cart
 		- [ ] Add to pantry -> cannot see remove from pantry straight away.
