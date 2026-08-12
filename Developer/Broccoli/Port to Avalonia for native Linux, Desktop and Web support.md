@@ -1,16 +1,20 @@
 This can be considered done when we can perform the end to end workflow:
 - Add nutrition info for new person ->✅ 
+- Select that person as the nutrition goal ->
 - Add new recipe ->
 - Adjust macros for that recipes ->
 - Add any missing ingredients ->
 - On the recipes list page, add ingredients for that recipes + one more existing ->
-- Copy paste into Microsoft To-Do
+- Copy paste into Microsoft To-Do ->
+- What is the issue on 
 
 - Grocery List
 	- [ ] Add ingredients to cart
 		- [ ] Button to clear all of pantry, with warning.
 - Macros
 	- [ ] When adding a new user, that user does not appear in the macros settings until a hard reset.
+- Add a seasonality table you can view and edit
+- Out it behind a feature flag, using avalonia or .NET native controls.
 
 
 
