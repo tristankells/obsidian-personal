@@ -13,6 +13,10 @@ This can be considered done when we can perform the end to end workflow:
 			- [ ] Pantry is not updated until app is completely restarted.
 			- [ ] Button to clear all of pantry, with warning.
 
+
+
+Add > Remove > Button Gone
+
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
 - [ ] Add a card view.
