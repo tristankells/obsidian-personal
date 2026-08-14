@@ -11,7 +11,7 @@ This can be considered done when we can perform the end to end workflow:
 - Grocery List
 	- [ ] Add ingredients to cart
 		- [ ] Button to clear all of pantry, with warning.
-		- [ ] Don't change app code the code, but I want you to write unit test for a bug I'm seeing on the grocery list;  Grocery list is showing stuff like (~ 1 100g). If we cannot convert to the measure, we should just not put the hint there.
+		- [ ] Don't change app code the code, but I want you to write a failing unit test for a bug I'm seeing on the grocery list;  Grocery list is showing stuff like (~ 1 100g). If we cannot convert to the measure, we should just not put the hint there.
 
 - Macros
 	- [ ] When adding a new user, that user does not appear in the macros settings until a hard reset.
