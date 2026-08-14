@@ -12,18 +12,9 @@ This can be considered done when we can perform the end to end workflow:
 	- [ ] Add ingredients to cart
 		- [ ] Button to clear all of pantry, with warning.
 		- [ ] Don't change app code the code, but I want you to write a failing unit test for a bug I'm seeing on the grocery list;  Grocery list is showing stuff like (~ 1 100g). If we cannot convert to the measure, we should just not put the hint there.
-
-
-
-
-
-
-
-
 - [ ] Create the list view, as table.
 - [ ] Add a button to switch views.
-- [ ] Add a card view.
-- [ ] Debug through the codebase to understand what is happening, and what can be simplified.
+- [ ] Add a card view..
 - [ ] Do performance testing with 100, 1000 and 10000 recipes! 
 
 ---
@@ -68,13 +59,3 @@ This can be considered done when we can perform the end to end workflow:
 		- We check every recipes for word in a tag, ingredient or title that begins with "c";(recipe.SearchWords.Any(searchWord.word.StartsWith(searchText)))
 		- Needs to be a bit smarter to contain handle multiple words.
 		- We filter recipes by this word.
-
-
-- Where the setting for 
-
-
-
-
-
-
-
