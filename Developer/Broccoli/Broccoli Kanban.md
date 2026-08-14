@@ -19,6 +19,7 @@ kanban-plugin: board
 - [x] Get rid of all the warnings in IDE
 - [x] Track prices of stuff at supermarkets!
 - [x] Suggest tags based on the ingredients and existing tags?
+- [x] [[Add seasonality data]]
 
 
 ## Ready
@@ -37,13 +38,12 @@ kanban-plugin: board
 - [ ] Add grid view and picture view
 - [ ] Add - Animations
 - [ ] Combine Grocery List and Pantry
+- [ ] [[Flesh out food database]]
 
 
 ## In Progress
 
 - [ ] [[Port to Avalonia for native Linux, Desktop and Web support]]
-- [ ] "Obsidianfy" the UI
-- [ ] Decouple UI and backend elements for easy porting
 
 
 ## In Testing
@@ -52,6 +52,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [ ] "Obsidianfy" the UI
 - [ ] [[Feature - Have a new page that stores multiple peoples information and calculates the daily calories and macros for them.]]
 - [ ] [[Vertical Slice Architecture]]
 - [ ] [[Feature - Support markdown when it comes to instructions.]]
@@ -73,7 +74,11 @@ kanban-plugin: board
 
 
 
+***
 
+## Archive
+
+- [x] Edit and view the seasonality data you have: \
 
 %% kanban:settings
 ```

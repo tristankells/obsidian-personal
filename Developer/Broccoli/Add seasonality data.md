@@ -1,0 +1,2 @@
+- Add a seasonality table you can view and edit
+- Out it behind a feature flag, using avalonia or .NET native controls.
