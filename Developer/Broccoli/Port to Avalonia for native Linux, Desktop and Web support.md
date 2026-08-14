@@ -5,7 +5,7 @@ This can be considered done when we can perform the end to end workflow:
 - Adjust macros for that recipes ->✅
 - On the recipes list page, add ingredient from that page to list add ingredients for that recipes + one more existing recipe -> ✅
 - Copy paste into Microsoft To-Do -> ✅
-- Sync to google -> How should this work so users don't need to provider their own client ID on : ⚠️ When syncing / connecting, 
+- Sync to google -> How should this work so users don't need to provider their own client ID on : ⚠️ When syncing / connecting, there is no user feedback, so not sure the process is working.
 - Download to phone and view recipe in cooking mode there!
 
 - Grocery List
