@@ -5,11 +5,9 @@ This can be considered done when we can perform the end to end workflow:
 - Adjust macros for that recipes ->✅
 - On the recipes list page, add ingredient from that page to list add ingredients for that recipes + one more existing recipe -> ✅
 - Copy paste into Microsoft To-Do -> ✅
-- Sync to google -> How should this work so users don't need to provider their own client ID on : 
-	- 🪳 Mobile throwing Error 400: recirect_uri_mismatch
-	- 🪳 When syncing / connecting, there is little  user feedback, so not sure the process is working. Show an updating progress bar, with messages showing where you are up to in the process
+- Sync to google -> ✅
 - Download to phone and view recipe in cooking mode there!
-	- 🪳 Plan a change to the UI. For small screen / Mobile viewing, make navigation completely collapsible. Should collapse to a burger menu in the top right of the header bar.
+	- 🪳 Plan a change to the UI. For small screen / Mobile viewing, make navigation completely collapsible. Should collapse to a burger menu in the top right of the header bar. This should follow best practice for an Avalonia application. Avalonia
 	- 🪳
 
 
