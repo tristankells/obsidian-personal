@@ -7,6 +7,12 @@ This can be considered done when we can perform the end to end workflow:
 - Copy paste into Microsoft To-Do -> ✅
 - Sync to google -> How should this work so users don't need to provider their own client ID on : ⚠️ When syncing / connecting, there is no user feedback, so not sure the process is working.
 - Download to phone and view recipe in cooking mode there!
+	- ⚠️ Plan a change to the UI. For Mobile  viewing, make navigation completely collapsible. Should collapse to a burger menu in the top right of the header bar.
+	- ⚠️
+
+
+
+
 
 - Grocery List
 	- [ ] Add ingredients to cart
