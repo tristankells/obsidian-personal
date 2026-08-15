@@ -195,3 +195,14 @@ dotnet Broccoli.App.Web.dll
 # In another terminal
 Start-Process 'https://localhost:5000'
 ```
+
+# How to configure google OAuth in IOS release.
+
+## When you get the iOS client ID
+
+Paste it in **two places** (they must match):
+
+1. `iOSGoogleDriveOAuthPlatform.ClientIdValue`
+2. `Info.plist` → `CFBundleURLTypes` → the two `com.googleusercontent.apps.YOUR_IOS_CLIENT_ID` strings
+
+Also note the bundle ID is still `companyName.Broccoli.Avalonia` (`Info.plist` line 24) — the iOS OAuth client's bundle ID must match that.
