@@ -6,7 +6,7 @@ This can be considered done when we can perform the end to end workflow:
 - On the recipes list page, add ingredient from that page to list add ingredients for that recipes + one more existing recipe -> ✅
 - Copy paste into Microsoft To-Do -> ✅
 - Sync to google -> ✅
-- Download to phone and view recipe in cooking mode there!
+- Download to phone and view recipe in cooking mode there! ✅
 
 
 

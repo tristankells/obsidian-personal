@@ -24,10 +24,6 @@ kanban-plugin: board
 
 ## Ready
 
-- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
-- [ ] Get it working 100% locally removing backend
-- [ ] Backup to google drive
-- [ ] Markdown backed recipes?
 - [ ] In Season Funcionality Does not work correctly, and is not configurable / tweakable.
 - [ ] Can we combine meal prep and daily food planning pages?
 - [ ] Search recipe by ingredient in recipe
@@ -43,7 +39,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[Port to Avalonia for native Linux, Desktop and Web support]]
+- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
 
 
 ## In Testing
@@ -52,7 +48,11 @@ kanban-plugin: board
 
 ## Completed
 
+- [ ] Markdown backed recipes?
+- [ ] Backup to google drive
+- [ ] Get it working 100% locally removing backend
 - [ ] "Obsidianfy" the UI
+- [ ] [[Port to Avalonia for native Linux, Desktop and Web support]]
 - [ ] [[Feature - Have a new page that stores multiple peoples information and calculates the daily calories and macros for them.]]
 - [ ] [[Vertical Slice Architecture]]
 - [ ] [[Feature - Support markdown when it comes to instructions.]]
