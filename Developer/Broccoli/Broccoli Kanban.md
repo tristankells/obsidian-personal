@@ -29,7 +29,6 @@ kanban-plugin: board
 - [ ] Can we combine meal prep and daily food planning pages?
 - [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
 - [ ] Expand food database
-- [ ] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [ ] Add grid view and picture view
 - [ ] Add - Animations
@@ -40,7 +39,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
-- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
+- [ ] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
 
 
 ## In Testing
@@ -56,6 +55,7 @@ kanban-plugin: board
 - [ ] [[Port to Avalonia for native Linux, Desktop and Web support]]
 - [ ] [[Feature - Have a new page that stores multiple peoples information and calculates the daily calories and macros for them.]]
 - [ ] [[Vertical Slice Architecture]]
+- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
 - [ ] [[Feature - Support markdown when it comes to instructions.]]
 - [ ] [[Feature - Make it do you can pick existing tag or they are autocompleted once typing.]]
 - [ ] [[Feature - Add App Settings dialog. Add dark mode support.]]
