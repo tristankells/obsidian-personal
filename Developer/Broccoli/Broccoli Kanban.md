@@ -20,6 +20,7 @@ kanban-plugin: board
 - [x] Track prices of stuff at supermarkets!
 - [x] Suggest tags based on the ingredients and existing tags?
 - [x] [[Add seasonality data]]
+- [x] [[Resolve Client Secrets in git history]]
 
 
 ## Ready
@@ -28,9 +29,9 @@ kanban-plugin: board
 - [ ] Can we combine meal prep and daily food planning pages?
 - [ ] Search recipe by ingredient in recipe
 - [ ] Expand food database
+- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
 - [ ] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
-- [ ] Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein / carbohydrates)
 - [ ] Add grid view and picture view
 - [ ] Add - Animations
 - [ ] Combine Grocery List and Pantry
@@ -39,7 +40,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
+- [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
 
 
 ## In Testing
