@@ -7,8 +7,6 @@ This can be considered done when we can perform the end to end workflow:
 - Copy paste into Microsoft To-Do -> ✅
 - Sync to google -> ✅
 - Download to phone and view recipe in cooking mode there!
-	- 🪳 Plan a change to the UI. For small screen / Mobile viewing, make navigation completely collapsible. Should collapse to a burger menu in the top right of the header bar. This should follow best practice for an Avalonia application. Avalonia
-	- 🪳
 
 
 
