@@ -27,9 +27,8 @@ kanban-plugin: board
 
 - [ ] In Season Funcionality Does not work correctly, and is not configurable / tweakable.
 - [ ] Can we combine meal prep and daily food planning pages?
-- [ ] Search recipe by ingredient in recipe
+- [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
 - [ ] Expand food database
-- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
 - [ ] Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [ ] Add grid view and picture view
@@ -41,6 +40,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
+- [ ] Address IDE warnings, configure Central Package management, strong roslyn based editor config settings.
 
 
 ## In Testing
