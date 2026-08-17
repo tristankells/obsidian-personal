@@ -1,0 +1,3 @@
+- Need to review how this works.
+	- Maybe we mark in three colours Green, Yellow and Red
+	- The top third are always in Green, Mid 
