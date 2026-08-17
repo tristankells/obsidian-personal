@@ -25,7 +25,7 @@ kanban-plugin: board
 
 ## Ready
 
-- [ ] In Season Funcionality Does not work correctly, and is not configurable / tweakable.
+- [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
 - [ ] Can we combine meal prep and daily food planning pages?
 - [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
 - [ ] Expand food database
@@ -34,6 +34,9 @@ kanban-plugin: board
 - [ ] Add - Animations
 - [ ] Combine Grocery List and Pantry
 - [ ] [[Flesh out food database]]
+- [ ] I want to include information about the amount of storage the applications is taking up, as google storage is the main storage system. I want to differentiate between markdown recipes, backups, images and data stored in the database.
+- [ ] Make an setting that converts all grocery items to grams or pounds at the time they are added to the list, where possible. So if example I add one onion, then I want to convert to grams before adding it to the list, then have the amount of onions visible as hint. This normalizes the items on the list and makes them consistent to shop for despite the recipe.
+- [ ] Fix the Mobile View!
 
 
 ## In Progress
