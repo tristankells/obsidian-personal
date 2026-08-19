@@ -4,4 +4,16 @@
 - Make sure setting changes propagate straight away.
 
 ---
-Bugs 🐛
+# Bugs 🐛
+
+🐛 When restoring, is crashing with 
+= ``
+🐛 Should be option to delete history
+🐛 Should be git diff style view for what the difference is the current versions and the selected versions is.
+🐛 What happens when you save a setting with a lower number of backs, than you currently have for some recipes?
+🐛 
+
+
+
+
+💥
