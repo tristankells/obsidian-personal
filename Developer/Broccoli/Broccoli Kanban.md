@@ -37,6 +37,7 @@ kanban-plugin: board
 - [ ] I want to include information about the amount of storage the applications is taking up, as google storage is the main storage system. I want to differentiate between markdown recipes, backups, images and data stored in the database.
 - [ ] Make an setting that converts all grocery items to grams or pounds at the time they are added to the list, where possible. So if example I add one onion, then I want to convert to grams before adding it to the list, then have the amount of onions visible as hint. This normalizes the items on the list and makes them consistent to shop for despite the recipe.
 - [ ] Fix the Mobile View!
+- [ ] Create a suite of UI tests to protect against regression!
 
 
 ## In Progress
