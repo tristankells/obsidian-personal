@@ -13,9 +13,13 @@
 - 🐛 Need a hints on the original item that is matched to the ingredient, in the parsed in ingredients.
 
 
-- 🐛After pasting ingredients, the per
+- 🐛After pasting ingredients, the percentages don't update.
 ![[Pasted image 20260820180237.png]]
 
 
 - 🐛 Shopping cart ingredients do not match recipe ingredient formatting or actual ingredients!!!
 ![[Pasted image 20260820180931.png]]
+
+- 🐛 Need to the the development features of usda imports for missing food from recipe details
+- 🐛 Need to the the development features of editing food details from recipes details pages.
+- 🐛 Need a way of fixing bad matches / resolving stuff that had close matches (Chicken Breast / Chicken Mince / Chicken Thigh) Brown Onion / Brown Rice
