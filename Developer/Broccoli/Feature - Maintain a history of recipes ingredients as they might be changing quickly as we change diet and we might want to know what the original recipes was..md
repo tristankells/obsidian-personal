@@ -23,3 +23,4 @@
 - 🐛 Need to the the development features of usda imports for missing food from recipe details
 - 🐛 Need to the the development features of editing food details from recipes details pages.
 - 🐛 Need a way of fixing bad matches / resolving stuff that had close matches (Chicken Breast / Chicken Mince / Chicken Thigh) Brown Onion / Brown Rice
+- 🐛 Edit of groceries items is not working, only updates after shifting tab.
