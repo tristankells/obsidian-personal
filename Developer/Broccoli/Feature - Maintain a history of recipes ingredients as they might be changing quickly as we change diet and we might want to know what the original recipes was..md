@@ -10,6 +10,7 @@
 🐛 Should be git diff style view for what the difference is the current versions and the selected versions is.
 
 
+- Need a hints on the original item that is matched to the ingredient, in the parsed in ingredients.
 
 
 
