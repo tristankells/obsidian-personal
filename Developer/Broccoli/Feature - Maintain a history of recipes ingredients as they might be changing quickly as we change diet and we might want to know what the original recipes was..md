@@ -10,8 +10,12 @@
 🐛 Should be git diff style view for what the difference is the current versions and the selected versions is.
 
 
-- Need a hints on the original item that is matched to the ingredient, in the parsed in ingredients.
+- 🐛 Need a hints on the original item that is matched to the ingredient, in the parsed in ingredients.
 
 
-
+- 🐛
 ![[Pasted image 20260820180237.png]]
+
+
+- 🐛 Shopping cart ingredients do not match recipe ingredient formatting or actual ingredients!!!
+![[Pasted image 20260820180931.png]]
