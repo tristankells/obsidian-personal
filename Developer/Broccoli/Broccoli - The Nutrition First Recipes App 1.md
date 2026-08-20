@@ -191,9 +191,9 @@ Then click Connect again — it'll open your system browser for the Google login
 $env:ASPNETCORE_ENVIRONMENT = 'Production'
 Set-Location "C:\Dev\Broccoli.Web"
 dotnet Broccoli.App.Web.dll
-
-# In another terminal
 Start-Process 'https://localhost:5000'
+# In another terminal
+
 ```
 
 # How to configure google OAuth in IOS release.
