@@ -39,6 +39,7 @@ kanban-plugin: board
 - [ ] Fix the Mobile View!
 - [ ] Create a suite of UI tests to protect against regression!
 - [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.
+- [ ] Add search / filter to food database.
 
 
 ## In Progress
