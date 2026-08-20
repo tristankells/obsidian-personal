@@ -13,7 +13,7 @@
 - 🐛 Need a hints on the original item that is matched to the ingredient, in the parsed in ingredients.
 
 
-- 🐛
+- 🐛After pasting ingredients, the per
 ![[Pasted image 20260820180237.png]]
 
 
