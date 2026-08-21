@@ -11,6 +11,15 @@
 ~~💥Gracefully handle the main file being locked / the backup file being locked.~~
 - ~~💥 On the parsed ingredients, during recipe edit, I would like a hint containing the original text ingredient text, so if there is a matching issue it is easy too detect. 
 - ~~💥New bug: After pasting ingredients, in the vs target preview, the `% Off` don't update and the `Actual` doesn't update, although it does in the parsed ingredients.
+
+- 🐛 Need a way of fixing bad matches / resolving stuff that had close matches (Chicken Breast / Chicken Mince / Chicken Thigh) Brown Onion / Brown Rice
+- 🐛 Need to the the development features of editing food details from recipes details pages.
+- 🐛 Edit of groceries items is not working, only updates after shifting tab.
+
+
+
+
+
 ![[Pasted image 20260820180237.png]]
 
 
@@ -18,9 +27,8 @@
 ![[Pasted image 20260820180931.png]]
 
 - 🐛 Need to the the development features of usda imports for missing food from recipe details
-- 🐛 Need to the the development features of editing food details from recipes details pages.
-- 🐛 Need a way of fixing bad matches / resolving stuff that had close matches (Chicken Breast / Chicken Mince / Chicken Thigh) Brown Onion / Brown Rice
-- 🐛 Edit of groceries items is not working, only updates after shifting tab.
+
+
 
 - 🐛 After sync we get a ugly popup, need to review why we are getting conflict popups.
 ![[Pasted image 20260821145753.png]]
