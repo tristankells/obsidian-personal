@@ -5,13 +5,13 @@
 ---
 
 # Bugs 🐛 >💥
-🐛 Gracefully handle the main file being locked / the backup file being locked.
-🐛 Should be option to delete history; Add a button to the right of every history row that delete that row and the corresponding files in the folder structure.
-🐛 Should be git diff style view for what the difference is the current versions and the selected versions is.
+
+~~💥 Should be option to delete history; Add a button to the right of every history row that delete that row and the corresponding files in the folder structure.~~
+~~💥 Should be git diff style view for what the difference is the current versions and the selected versions is.
 
 
 - 🐛 Need a hints on the original item that is matched to the ingredient, in the parsed in ingredients.
-
+🐛 Gracefully handle the main file being locked / the backup file being locked.
 
 - 🐛After pasting ingredients, the percentages don't update.
 ![[Pasted image 20260820180237.png]]
