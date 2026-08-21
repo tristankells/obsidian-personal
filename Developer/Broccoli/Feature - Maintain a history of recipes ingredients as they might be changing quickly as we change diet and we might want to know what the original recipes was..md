@@ -25,4 +25,5 @@
 - 🐛 Need a way of fixing bad matches / resolving stuff that had close matches (Chicken Breast / Chicken Mince / Chicken Thigh) Brown Onion / Brown Rice
 - 🐛 Edit of groceries items is not working, only updates after shifting tab.
 
-- After sync
+- 🐛 After sync we get a ugly popup, need to review why we are getting conflict popups.
+![[Pasted image 20260821145753.png]]
