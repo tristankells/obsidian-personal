@@ -12,8 +12,12 @@
 - ~~💥 On the parsed ingredients, during recipe edit, I would like a hint containing the original text ingredient text, so if there is a matching issue it is easy too detect. 
 - ~~💥New bug: After pasting ingredients, in the vs target preview, the `% Off` don't update and the `Actual` doesn't update, although it does in the parsed ingredients.
 
-- 🐛 Need a way of fixing bad matches / resolving stuff that had close matches (Chicken Breast / Chicken Mince / Chicken Thigh) Brown Onion / Brown Rice
-- 🐛 Need to the the development features of editing food details from recipes details pages.
+- ~~💥 Need a way of fixing bad matches / resolving stuff that had close matches (Chicken Breast / Chicken Mince / Chicken Thigh) Brown Onion / Brown Rice
+- ~~💥 Need to the the development features of editing food details from recipes details pages.
+
+
+
+- 🐛 Right click edit option on the recipes lists.
 - 🐛 Edit of groceries items is not working, only updates after shifting tab.
 - 🐛 Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 
