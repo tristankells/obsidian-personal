@@ -27,9 +27,16 @@
 - 🐛 Shopping cart ingredients do not match recipe ingredient formatting or actual ingredients!!!
 ![[Pasted image 20260820180931.png]]
 
-- 🐛 Need to the the development features of usda imports for missing food from recipe details
+
 
 
 
 - 🐛 After sync we get a ugly popup, need to review why we are getting conflict popups.
 ![[Pasted image 20260821145753.png]]
+
+
+
+- 🐛 Need to the the development features of USDA imports for missing food from recipe details
+- Button
+- Button > loading icon > list of items possible items on the right > macros on the side left
+
