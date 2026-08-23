@@ -27,7 +27,6 @@ kanban-plugin: board
 ## Ready
 
 - [ ] Expand food database
-- [ ] Add grid view and picture view
 - [ ] Add - Animations
 - [ ] Combine Grocery List and Pantry
 - [ ] [[Flesh out food database]]
@@ -52,6 +51,7 @@ kanban-plugin: board
 	- Button
 	- Button > loading icon > list of items possible items on the right > macros on the side left
 - [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
+- [ ] Add grid view and picture view
 
 
 ## In Testing
