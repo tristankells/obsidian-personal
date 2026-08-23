@@ -1,6 +1,9 @@
 - Guardians of the Galaxy
+	- 
 - X-Men
 - Suicide Squad
+	- Suicide Squad by John Ostrander (1987–1992):
+	- Suicide Squad: The New 52 (2011–2014):
+	- Suicide Squad by Tom Taylor (2019–2020)
 - Spiderman
 - Daredevil
-- 
