@@ -21,13 +21,12 @@ kanban-plugin: board
 - [x] Suggest tags based on the ingredients and existing tags?
 - [x] [[Add seasonality data]]
 - [x] [[Resolve Client Secrets in git history]]
+- [x] Can we combine meal prep and daily food planning pages?
 
 
 ## Ready
 
-- [ ] Can we combine meal prep and daily food planning pages?
 - [ ] Expand food database
-- [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [ ] Add grid view and picture view
 - [ ] Add - Animations
 - [ ] Combine Grocery List and Pantry
@@ -40,8 +39,10 @@ kanban-plugin: board
 - [ ] 🐛 Edit of groceries items is not working, only updates after shifting tab.
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 - [ ] [[After sync we get a ugly popup, need to review why we are getting conflict popups.]]
+- [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [ ] Add last edit information to footer when recipe is open, number of items in history etc...
 	- Make footer appearance configurable.
+- [ ] Make meal prep and daily food planning optionally viewable but hidden by default.
 
 
 ## In Progress
