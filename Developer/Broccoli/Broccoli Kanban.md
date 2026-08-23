@@ -23,6 +23,7 @@ kanban-plugin: board
 - [x] [[Add seasonality data]]
 - [x] [[Resolve Client Secrets in git history]]
 - [x] Can we combine meal prep and daily food planning pages?
+- [x] Fix the Mobile View!
 
 
 ## Ready
@@ -30,9 +31,8 @@ kanban-plugin: board
 - [ ] [[Flesh out food database]]
 - [ ] Add - Animations
 - [ ] Make an setting that converts all grocery items to grams or pounds at the time they are added to the list, where possible. So if example I add one onion, then I want to convert to grams before adding it to the list, then have the amount of onions visible as hint. This normalizes the items on the list and makes them consistent to shop for despite the recipe.
-- [ ] Fix the Mobile View!
-- [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
+- [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.
 - [ ] [[After sync we get a ugly popup, need to review why we are getting conflict popups.]]
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [ ] Add last edit information to footer when recipe is open, number of items in history etc...
