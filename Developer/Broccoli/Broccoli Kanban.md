@@ -32,9 +32,6 @@ kanban-plugin: board
 - [ ] Make an setting that converts all grocery items to grams or pounds at the time they are added to the list, where possible. So if example I add one onion, then I want to convert to grams before adding it to the list, then have the amount of onions visible as hint. This normalizes the items on the list and makes them consistent to shop for despite the recipe.
 - [ ] Fix the Mobile View!
 - [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.
-- [ ] Add search / filter to food database.
-- [ ] Right click edit option on the recipes lists.
-- [ ] 🐛 Edit of groceries items is not working, only updates after shifting tab.
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 - [ ] [[After sync we get a ugly popup, need to review why we are getting conflict popups.]]
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
@@ -51,6 +48,9 @@ kanban-plugin: board
 	- Button > loading icon > list of items possible items on the right > macros on the side left
 - [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
 - [ ] Add grid view and picture view
+- [ ] Add search / filter to food database.
+- [ ] Right click edit option on the recipes lists.
+- [ ] 🐛 Edit of groceries items is not working, only updates after shifting tab.
 
 
 ## In Testing
