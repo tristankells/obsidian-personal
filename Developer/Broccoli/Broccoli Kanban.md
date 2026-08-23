@@ -51,13 +51,13 @@ kanban-plugin: board
 	- Button
 	- Button > loading icon > list of items possible items on the right > macros on the side left
 - [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
-- [ ] Create a suite of UI tests to protect against regression!
 
 
 ## In Testing
 
 - [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
 - [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
+- [ ] Create a suite of UI tests to protect against regression!
 
 
 ## Completed
