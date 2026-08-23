@@ -38,6 +38,7 @@ kanban-plugin: board
 - [ ] Add last edit information to footer when recipe is open, number of items in history etc...
 	- Make footer appearance configurable.
 - [ ] Make meal prep and daily food planning optionally viewable but hidden by default.
+- [ ] Import does nothing currently, fix or remove the button.
 
 
 ## In Progress
