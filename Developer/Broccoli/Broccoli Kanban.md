@@ -42,6 +42,8 @@ kanban-plugin: board
 - [ ] 🐛 Edit of groceries items is not working, only updates after shifting tab.
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 - [ ] [[After sync we get a ugly popup, need to review why we are getting conflict popups.]]
+- [ ] Add last edit information to footer when recipe is open, number of items in history etc...
+	- Make footer appearance configurable.
 
 
 ## In Progress
