@@ -16,6 +16,7 @@ kanban-plugin: board
 ## Backlog
 
 **Complete**
+- [x] Combine Grocery List and Pantry
 - [x] Get rid of all the warnings in IDE
 - [x] Track prices of stuff at supermarkets!
 - [x] Suggest tags based on the ingredients and existing tags?
@@ -26,10 +27,8 @@ kanban-plugin: board
 
 ## Ready
 
-- [ ] Expand food database
-- [ ] Add - Animations
-- [ ] Combine Grocery List and Pantry
 - [ ] [[Flesh out food database]]
+- [ ] Add - Animations
 - [ ] Make an setting that converts all grocery items to grams or pounds at the time they are added to the list, where possible. So if example I add one onion, then I want to convert to grams before adding it to the list, then have the amount of onions visible as hint. This normalizes the items on the list and makes them consistent to shop for despite the recipe.
 - [ ] Fix the Mobile View!
 - [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.
