@@ -38,21 +38,29 @@ kanban-plugin: board
 - [ ] Create a suite of UI tests to protect against regression!
 - [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.
 - [ ] Add search / filter to food database.
+- [ ] Right click edit option on the recipes lists.
+- [ ] 🐛 Edit of groceries items is not working, only updates after shifting tab.
+- [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
+- [ ] [[After sync we get a ugly popup, need to review why we are getting conflict popups.]]
 
 
 ## In Progress
 
-- [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
+- [ ] 🐛 Need to the the development features of USDA imports for missing food from recipe details
+	
+	- Button
+	- Button > loading icon > list of items possible items on the right > macros on the side left
 - [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
+- [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
 
 
 ## In Testing
 
-- [ ] [[Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.]]
 
 
 ## Completed
 
+- [ ] [[Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.]]
 - [ ] I want to include information about the amount of storage the applications is taking up, as google storage is the main storage system. I want to differentiate between markdown recipes, backups, images and data stored in the database.
 - [ ] Markdown backed recipes?
 - [ ] Backup to google drive

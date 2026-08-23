@@ -17,27 +17,6 @@
 
 
 
-- 🐛 Right click edit option on the recipes lists.
-- 🐛 Edit of groceries items is not working, only updates after shifting tab.
-- 🐛 Check in the auto-sync, how often is it? Should be UI indicator somewhere?
-
-
-
-
-
-
-
-
-- 🐛 Shopping cart ingredients do not match recipe ingredient formatting or actual ingredients!!!
-![[Pasted image 20260820180931.png]]
-
-
-
-
-
-- 🐛 After sync we get a ugly popup, need to review why we are getting conflict popups.
-![[Pasted image 20260821145753.png]]
-
 
 
 - 🐛 Need to the the development features of USDA imports for missing food from recipe details
