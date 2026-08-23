@@ -26,7 +26,6 @@ kanban-plugin: board
 ## Ready
 
 - [ ] Can we combine meal prep and daily food planning pages?
-- [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
 - [ ] Expand food database
 - [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [ ] Add grid view and picture view
@@ -35,7 +34,6 @@ kanban-plugin: board
 - [ ] [[Flesh out food database]]
 - [ ] Make an setting that converts all grocery items to grams or pounds at the time they are added to the list, where possible. So if example I add one onion, then I want to convert to grams before adding it to the list, then have the amount of onions visible as hint. This normalizes the items on the list and makes them consistent to shop for despite the recipe.
 - [ ] Fix the Mobile View!
-- [ ] Create a suite of UI tests to protect against regression!
 - [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.
 - [ ] Add search / filter to food database.
 - [ ] Right click edit option on the recipes lists.
@@ -53,11 +51,13 @@ kanban-plugin: board
 	- Button
 	- Button > loading icon > list of items possible items on the right > macros on the side left
 - [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
+- [ ] Create a suite of UI tests to protect against regression!
 
 
 ## In Testing
 
 - [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
+- [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
 
 
 ## Completed
