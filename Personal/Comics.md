@@ -1,6 +1,6 @@
 - *Characters*
 	- *Recommended Runs*
-		- *Download Comics*
+		- *Downloaded Comics File*
 
 - Guardians of the Galaxy
 	- 
