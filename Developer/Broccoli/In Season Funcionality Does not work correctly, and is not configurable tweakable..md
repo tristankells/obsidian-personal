@@ -12,4 +12,5 @@ This tab should surface seasonality data, and allow us to edit and persist edits
 
 
 Plan a change to seasonal data, impacting this UI and seasonality information all over: 
-- Instead of seasons, each fruit / vegetable should should
+- Instead of seasons, each fruit / vegetable should should store information about when each item is in season, partially in season and out of season. This should be represented by a enum value for every month, along with the item name.
+  This should be represented in the UI, where each column is a coloured dropdown for each month, where we can set whether fruit/vege is in season or note.
