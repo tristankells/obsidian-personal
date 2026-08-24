@@ -33,5 +33,7 @@
 	- https://getcomics.org/other-comics/the-crow-dead-time-1-3-1996/
 - The Crow: Skinning the Wolves: A highly rated, dark story set in a World War II concentration camp
 	- https://getcomics.org/other-comics/the-crow-skinning-the-wolves-tpb-2013/
-- Suicide Squad
-	- 
+### Suicide Squad
+- The Suicide Squad by John Ostrander Trade Paperback Collection
+	- https://getcomics.org/dc/suicide-squad-by-john-ostrander-omnibus-vol-1-2-2026-fan-made/
+- 
