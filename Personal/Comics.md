@@ -9,7 +9,13 @@
 		- Guardians of the Galaxy v2 01-25 (2008-2009, Digital, ZK+BM-Empire)
 	- The Al Ewing Run (2020–2021)
 	- The Donny Cates Run (2019)
-- X-Men
+- The Crow
+	- **The Crow (Special Edition / Author's Edition):** This is the ultimate starting point The Crow | Book by James O'Barr | Official Publisher Page
+		- 
+	- **The Crow: Dead Time:** A gritty, historical take set in the 1860s about an unjustly killed soldier who gets his revenge
+		- 
+	- The Crow: Skinning the Wolves:
+		- 
 
 - Suicide Squad
 	- Suicide Squad by John Ostrander (1987–1992)
