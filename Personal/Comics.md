@@ -23,7 +23,11 @@
 	- [Frank Miller's "_The Man Without Fear_"](https://www.reddit.com/r/Daredevil/comments/ky00el/frank_millers_the_man_without_fear_reading_guide/)
 	- [Frank Miller's run](https://www.reddit.com/r/Daredevil/comments/ky06iw/frank_millers_run_reading_guide/)
 	- [Kevin Smith's "_Guardian Devil_"](https://www.reddit.com/r/Daredevil/comments/ky09pc/kevin_smiths_guardian_devil_reading_guide/)
-
+- Fantastic Four by Jonathan Hickman Omnibus Vol. 1
+- Fantastic Four by Jonathan Hickman Omnibus Vol. 2
+- Avengers by Jonathan Hickman Omnibus Vol. 1
+- Avengers by Jonathan Hickman Omnibus Vol. 2
+- Secret Wars by Jonathan Hickman Omnibus (skip to Secret Wars #1-9, since the Avengers/New Avengers issues repeat from Vol. 2)
 ---
 # Downloaded
 ### The Crow
@@ -36,6 +40,7 @@
 ### Suicide Squad
 - The Suicide Squad by John Ostrander Trade Paperback Collection
 	- https://getcomics.org/dc/suicide-squad-by-john-ostrander-omnibus-vol-1-2-2026-fan-made/
+
 
 ### Dr Doom
 - Triumph & Torment,
