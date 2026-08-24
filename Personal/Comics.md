@@ -36,4 +36,8 @@
 ### Suicide Squad
 - The Suicide Squad by John Ostrander Trade Paperback Collection
 	- https://getcomics.org/dc/suicide-squad-by-john-ostrander-omnibus-vol-1-2-2026-fan-made/
-- 
+
+### Dr Doom
+- Triumph & Torment,
+- One World Under Doom
+- Hickman's Avengers
