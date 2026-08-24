@@ -11,11 +11,11 @@
 	- The Donny Cates Run (2019)
 - The Crow
 	- **The Crow (Special Edition / Author's Edition):** This is the ultimate starting point The Crow | Book by James O'Barr | Official Publisher Page
-		- 
+		- https://getcomics.org/other-comics/the-crow-special-edition-2011/
 	- **The Crow: Dead Time:** A gritty, historical take set in the 1860s about an unjustly killed soldier who gets his revenge
-		- 
-	- The Crow: Skinning the Wolves:
-		- 
+		- https://getcomics.org/other-comics/the-crow-dead-time-1-3-1996/
+	- The Crow: Skinning the Wolves: A highly rated, dark story set in a World War II concentration camp
+		- https://getcomics.org/other-comics/the-crow-skinning-the-wolves-tpb-2013/
 
 - Suicide Squad
 	- Suicide Squad by John Ostrander (1987–1992)
