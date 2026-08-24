@@ -40,4 +40,5 @@
 ### Dr Doom
 - Triumph & Torment,
 - One World Under Doom
-- Hickman's Avengers
+- Books of Doom
+- Fantastic Four by Johnathan Hickman Hickman's Avengers
