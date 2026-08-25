@@ -22,5 +22,9 @@
 	- 21 Min Walk
 	- 13 Min Bus
 - ODEON Luxe Beckenham
+	- 
 - Picturehouse Cinemas
+	- Picturehouse Central, 15 Great Windmill Street, Shaftesbury Ave, Piccadilly Circus, London W1D 7DH, United Kingdom
+	- West Norwood Picturehouse. 1-7 Norwood High St, Norwood, London SE27 9JU, United Kingdom
+- Everyman Crystal Palace
 
