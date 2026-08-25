@@ -28,3 +28,4 @@
 	- West Norwood Picturehouse. 1-7 Norwood High St, Norwood, London SE27 9JU, United Kingdom
 - Everyman Crystal Palace
 
+Clay Face 16th October 
