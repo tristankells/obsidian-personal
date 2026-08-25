@@ -7,4 +7,16 @@
 - Parkrun
 	- https://www.parkrun.org.uk/lloyd/
 - Croydon Airport Visitor Centre
-	- 
+	- https://www.historiccroydonairport.org.uk/opening-hours/
+	- Sun 1 Nov 2026
+- Coombe Wood
+	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d6849311-Reviews-Coombe_Wood-Croydon_Greater_London_England.html
+- Shirley Windmill
+	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d4819217-Reviews-Shirley_Windmill-Croydon_Greater_London_England.html
+- Museum Of Croydon
+	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d1829753-Reviews-Museum_Of_Croydon-Croydon_Greater_London_England.html
+- Whitgift Shopping Centre
+	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d6631175-Reviews-Whitgift_Shopping_Centre-Croydon_Greater_London_England.html
+- See a performance at Fairfield Halls
+	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d4093688-Reviews-Fairfield_Halls-Croydon_Greater_London_England.html
+- 
