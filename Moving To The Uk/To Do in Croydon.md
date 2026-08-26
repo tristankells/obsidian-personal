@@ -28,3 +28,20 @@
 - The Ludoquist
 	- https://www.theludoquist.com/pages/events-2026
 	- https://www.meetup.com/croydon-board-gamers/
+
+---
+- [ ] Wandle Park — 1.53 km
+- [ ] St Michael's Church — 1.91 km
+- [ ] Croydon Minster — 1.95 km
+- [ ] Whitgift Shopping Centre — 2.11 km
+- [ ] Surrey Street Market — 2.28 km
+- [ ] Museum Of Croydon — 2.32 km
+- [ ] The Ludoquist — 2.33 km
+- [ ] BOXPARK Croydon — 2.51 km
+- [ ] Fairfield Halls (incl. David Lean Cinema) — 2.57 km
+- [ ] The Oval Tavern — 2.79 km
+- [ ] Park Hill Park — 2.97 km
+- [ ] Croydon Airport Visitor Centre — 3.23 km
+- [ ] Parkrun - Lloyd Park — 4.20 km
+- [ ] Coombe Wood — 4.78 km
+- [ ] Shirley Windmill — 5.27 km
