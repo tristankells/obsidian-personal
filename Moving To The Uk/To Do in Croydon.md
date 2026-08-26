@@ -1,10 +1,8 @@
-- Croydon Central Heritage Walk
-	- https://www.maroondah.vic.gov.au/Explore/Walking-routes-and-trails/Croydon-Central-Heritage-Walk
-	- **Distance:** 2.7km
-- Croydon Park Accessible Walk
-	- https://www.maroondah.vic.gov.au/Explore/Walking-routes-and-trails/Croydon-Park-Accessible-Walk
-	- Distance: 1.07km
-- Parkrun
+- Park Hill Park
+- Wandle Park
+- BOXPARK Croydon
+- The Oval Tavern
+- Parkrun - Lloyd Park
 	- https://www.parkrun.org.uk/lloyd/
 - Croydon Airport Visitor Centre
 	- https://www.historiccroydonairport.org.uk/opening-hours/
