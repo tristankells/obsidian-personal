@@ -1,3 +1,5 @@
+26 Rosedene Avenue, Greater London, England CR0 3DN, United Kingdom
+
 - Park Hill Park
 - Wandle Park
 - BOXPARK Croydon
@@ -16,13 +18,13 @@
 - Whitgift Shopping Centre
 	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d6631175-Reviews-Whitgift_Shopping_Centre-Croydon_Greater_London_England.html
 - See a performance at Fairfield Halls
+	- -See a movie at David Lean Cinema.
 	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d4093688-Reviews-Fairfield_Halls-Croydon_Greater_London_England.html
 	- https://www.fairfield.co.uk/events/ghost-house-2027
 - St Michael’s Church
 	- https://www.tripadvisor.co.nz/Attraction_Review-g504167-d12902926-Reviews-St_Michael_s_Church-Croydon_Greater_London_England.html
-- See a movie at David Lean Cinema.
 - Croydon Minster
-- Shop Croydon’s mix of high street staples and historic market charm – Best for variety, convenience and local flavour
+- Surrey Street Market
 - The Ludoquist
 	- https://www.theludoquist.com/pages/events-2026
 	- https://www.meetup.com/croydon-board-gamers/
