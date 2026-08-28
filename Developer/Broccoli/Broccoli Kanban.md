@@ -31,7 +31,7 @@ kanban-plugin: board
 ## Ready
 
 - [ ] [[Flesh out food database]]
-- [ ] Add - Animations
+- [ ] [[Add - Animations]]
 - [ ] Make an setting that converts all grocery items to grams or pounds at the time they are added to the list, where possible. So if example I add one onion, then I want to convert to grams before adding it to the list, then have the amount of onions visible as hint. This normalizes the items on the list and makes them consistent to shop for despite the recipe.
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 - [ ] After using app for a bit, getting over 300mbs... double check if this can be smaller. Write a vanilla Avalonia app and see what the size is.

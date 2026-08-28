@@ -4,5 +4,6 @@
 		- Only when serving equals each?
 		- Or when `"Measure"` contains name of food
 
-
+- BUG: Checkmark is not working on groceries list.
+	- In addition, when checked, we should cross out the text, and 
 
