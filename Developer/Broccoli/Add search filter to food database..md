@@ -2,6 +2,8 @@
 - Search recipe filtering is lagging for multiple inputs.
 	- Leads me to believe the UI thread is getting 
 		- `RecipeListPageViewModel.ApplyFilter()`
+			- `        //FilteredRecipes =
+        //    new ObservableCollection<RecipeCardViewModel>(_allCards.Where(card => IsMatch(tokens, card.SearchWords)));`
 	- Can you make this method async?
 # Done
 - Please plan a fix for this:
