@@ -186,15 +186,7 @@ On your machine: run the app once and click "Connect Google Drive" — it'll thr
 Then click Connect again — it'll open your system browser for the Google login/consent, then a loopback redirect completes sign-in automatically. No need to publish the OAuth app; "Testing" status works fine as long as your account is added as a test user.
 
 # Avalonia
-# How to run the legacy application?
-```powershell
-$env:ASPNETCORE_ENVIRONMENT = 'Production'
-Set-Location "C:\Dev\Broccoli.Web"
-dotnet Broccoli.App.Web.dll
-Start-Process 'https://localhost:5000'
-# In another terminal
 
-```
 
 # How to configure google OAuth in IOS release.
 
