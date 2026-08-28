@@ -4,3 +4,7 @@
 
 - C:\Dev\Github\Broccoli.App\Broccoli.Avalonia\Broccoli.Avalonia\Slices\Recipes\RecipeDetailView.axaml 
 	- When deleting a recipe say from the edit recipe view, I would like a seperate windows popup to confirm I would like to delete, instead of the in line popup we have now.
+
+
+- Search recipe filtering is lagging for multiple inputs.
+	- Leads me to believe the UI thread is getting 
