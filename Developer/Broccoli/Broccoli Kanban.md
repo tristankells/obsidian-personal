@@ -60,12 +60,12 @@ kanban-plugin: board
 - [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
 - [ ] Create a suite of UI tests to protect against regression!
 - [ ] Right click edit option on the recipes lists.
-- [ ] Add search / filter to food database.
-- [ ] [[🐛 Edit of groceries items is not working, only updates after shifting tab.]]
+- [ ] [[Add search filter to food database.]]
 
 
 ## Completed
 
+- [ ] [[🐛 Edit of groceries items is not working, only updates after shifting tab.]]
 - [ ] [[Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.]]
 - [ ] I want to include information about the amount of storage the applications is taking up, as google storage is the main storage system. I want to differentiate between markdown recipes, backups, images and data stored in the database.
 - [ ] Markdown backed recipes?
