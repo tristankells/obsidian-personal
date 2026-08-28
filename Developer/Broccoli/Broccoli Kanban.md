@@ -26,7 +26,7 @@ kanban-plugin: board
 - [x] Fix the Mobile View!
 - [x] [[Review Memory Usage]]
 - [x] Put in planning information based on solomons fat book.
-- [x] Expand groceries in alignments with Microsoft Todo; Drop in sidebar editor, can add pictures, make repeatable, hint parsing breakdown matching information etc...
+- [x] [[Expand groceries in alignments with Microsoft Todo; Drop in sidebar editor, can add pictures, make repeatable, hint parsing breakdown matching information etc...]]
 
 
 ## Ready
