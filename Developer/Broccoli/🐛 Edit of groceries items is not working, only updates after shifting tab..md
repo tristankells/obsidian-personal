@@ -5,5 +5,6 @@
 		- Or when `"Measure"` contains name of food
 - BUG: Checkmark is not working on groceries list.
 	- In addition, when checked, we should cross out the text, and move the item below any unchecked items. If we uncheck a check item, we should put it above any checked item, bottom of unchecked item. Also un cross it.
+- Edit and New share some code.
 - 
 
