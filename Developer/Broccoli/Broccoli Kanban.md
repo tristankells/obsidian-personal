@@ -24,6 +24,7 @@ kanban-plugin: board
 - [x] [[Resolve Client Secrets in git history]]
 - [x] Can we combine meal prep and daily food planning pages?
 - [x] Fix the Mobile View!
+- [x] Review Memory Usage
 
 
 ## Ready
