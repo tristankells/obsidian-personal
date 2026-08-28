@@ -25,6 +25,7 @@ kanban-plugin: board
 - [x] Can we combine meal prep and daily food planning pages?
 - [x] Fix the Mobile View!
 - [x] [[Review Memory Usage]]
+- [x] Put in planning information based on solomons fat book.
 
 
 ## Ready
@@ -59,7 +60,7 @@ kanban-plugin: board
 - [ ] Create a suite of UI tests to protect against regression!
 - [ ] Right click edit option on the recipes lists.
 - [ ] Add search / filter to food database.
-- [ ] 🐛 Edit of groceries items is not working, only updates after shifting tab.
+- [ ] [[🐛 Edit of groceries items is not working, only updates after shifting tab.]]
 
 
 ## Completed
