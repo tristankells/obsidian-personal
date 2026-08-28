@@ -1,3 +1,8 @@
+# Todo
+
+- Search recipe filtering is lagging for multiple inputs.
+	- Leads me to believe the UI thread is getting 
+# Done
 - Please plan a fix for this:
 - When I filter to a low number of recipes, they are align center instead of from the left.
 	- For example, the window size means I get 5 recipes per row. If I go down to 2 reipces, instead of the row being filled two from the left, they look center aligned. 
@@ -6,5 +11,3 @@
 	- When deleting a recipe say from the edit recipe view, I would like a seperate windows popup to confirm I would like to delete, instead of the in line popup we have now.
 
 
-- Search recipe filtering is lagging for multiple inputs.
-	- Leads me to believe the UI thread is getting 
