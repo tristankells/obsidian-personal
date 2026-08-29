@@ -4,15 +4,6 @@ kanban-plugin: board
 
 ---
 
-## Technical Debt
-
-- [ ] Broccoli.App.Web/Program.cs has messy and unclear setup invokes. Random file path checking to find database is not good too.
-
-
-## Bugs
-
-
-
 ## Backlog
 
 **Complete**
@@ -23,9 +14,11 @@ kanban-plugin: board
 - [x] [[Add seasonality data]]
 - [x] [[Resolve Client Secrets in git history]]
 - [x] Can we combine meal prep and daily food planning pages?
+- [x] Broccoli.App.Web/Program.cs has messy and unclear setup invokes. Random file path checking to find database is not good too.
 - [x] Fix the Mobile View!
 - [x] [[Review Memory Usage]]
 - [x] Put in planning information based on solomons fat book.
+- [x] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 - [x] 🐛 Need to the the development features of USDA imports for missing food from recipe details
 	
 	- Button
@@ -36,7 +29,6 @@ kanban-plugin: board
 
 ## Ready
 
-- [ ] [[Reserach - Build a list of missing features by looking at your competing app (aka how does my wife need )]]
 
 
 ## In Progress
@@ -104,6 +96,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true,true]}
 ```
 %%
