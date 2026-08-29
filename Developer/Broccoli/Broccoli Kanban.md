@@ -63,6 +63,7 @@ kanban-plugin: board
 
 ## Completed
 
+- [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 - [ ] Create a suite of UI tests to protect against regression!
 - [ ] Right click edit option on the recipes lists.
 - [ ] [[🐛 Edit of groceries items is not working, only updates after shifting tab.]]
