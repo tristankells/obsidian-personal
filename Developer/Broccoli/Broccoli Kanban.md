@@ -55,12 +55,12 @@ kanban-plugin: board
 - [ ] [[Add search filter to food database.]]
 - [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
 - [ ] [[A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of use up]]
-- [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
-- [ ] Add grid view and picture view
 
 
 ## Completed
 
+- [ ] Add grid view and picture view
+- [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
 - [ ] [[Add - Animations]]
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 - [ ] Create a suite of UI tests to protect against regression!
