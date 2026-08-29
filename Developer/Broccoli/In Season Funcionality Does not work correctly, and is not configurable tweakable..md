@@ -2,7 +2,7 @@
 
 
 
-- Add import and export of seasonal data to the seasonal page.
+- Add import and export of seasonal data to the seasonal page. Should be based json file format. Add any questions you have about implementation.
 
 
 
