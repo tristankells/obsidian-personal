@@ -1,6 +1,7 @@
 # Todo
 - Replace the "Score for" filter with a simple "Month" dropdown. Move that to a "Seasonality" dropdown beside the "Search Recices". This dropdown allows us to set different month and has a nested dropdown allowing us filter by All, Green, Yellow, Red.
-- Remove the "? of ? Ingredient matched from the card, that is not helpful information."
+- Remove the "? of ? Ingredient matched" from the card, that is not helpful information.
+- Add seasonality information to the edit recipe as well. Make it optional in the settings. Add hints to the original string it matched on form the ingredients and add a hint for the impact that ingredient had overall seasonality. Add mouse over per seasonal ingredient that provides more information about that specific ingredient.
 - Fix the display of the seasonal data.
 - Surface weighting data in the seasonal overview.
 - Add import and export of seasonal data
