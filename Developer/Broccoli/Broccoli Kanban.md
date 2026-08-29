@@ -56,15 +56,15 @@ kanban-plugin: board
 
 ## In Testing
 
+- [ ] [[Add search filter to food database.]]
 - [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
 - [ ] A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of / use up?
-- [ ] Create a suite of UI tests to protect against regression!
-- [ ] Right click edit option on the recipes lists.
-- [ ] [[Add search filter to food database.]]
 
 
 ## Completed
 
+- [ ] Create a suite of UI tests to protect against regression!
+- [ ] Right click edit option on the recipes lists.
 - [ ] [[🐛 Edit of groceries items is not working, only updates after shifting tab.]]
 - [ ] [[Feature - Maintain a history of recipes ingredients as they might be changing quickly as we change diet and we might want to know what the original recipes was.]]
 - [ ] I want to include information about the amount of storage the applications is taking up, as google storage is the main storage system. I want to differentiate between markdown recipes, backups, images and data stored in the database.
