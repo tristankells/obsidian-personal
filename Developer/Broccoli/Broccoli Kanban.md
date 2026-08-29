@@ -48,9 +48,7 @@ kanban-plugin: board
 	
 	- Button
 	- Button > loading icon > list of items possible items on the right > macros on the side left
-- [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
 - [ ] Add grid view and picture view
-- [ ] [[Add - Animations]]
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 
 
@@ -59,10 +57,12 @@ kanban-plugin: board
 - [ ] [[Add search filter to food database.]]
 - [ ] [[Auto balance - Add functionality to auto balance the macros calories of a recipes against a given users goals (using the lead source of protein carbohydrates)]]
 - [ ] [[A searching dialog that lets us do a fuzzy search for recipes that match a list of food we want to get rid of use up]]
+- [ ] [[In Season Funcionality Does not work correctly, and is not configurable tweakable.]]
 
 
 ## Completed
 
+- [ ] [[Add - Animations]]
 - [ ] Check in the auto-sync, how often is it? Should be UI indicator somewhere?
 - [ ] Create a suite of UI tests to protect against regression!
 - [ ] Right click edit option on the recipes lists.
