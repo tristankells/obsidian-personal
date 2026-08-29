@@ -1,6 +1,6 @@
 # Todo
 
-- Fix the display of the seasonal data.
+- Fix the display of the seasonal data, in the season page. The name of the food is taking up too much relative space which is causing the other rows to be too condensed. Make them wider and make the options in the dropdown shorter so they are not cut off.
 
 - Add import and export of seasonal data
 
