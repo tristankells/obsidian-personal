@@ -1,3 +1,9 @@
+# Todo
+- Fix the display of the seasonal data.
+- Surface weighting data in the seasonal overview.
+- Add import and export of seasonal data
+
+# Done
 - Need to review how this works.
 	- Maybe we mark in three colors Green, Yellow and Red
 	- The top third are always in Green, Mid 
