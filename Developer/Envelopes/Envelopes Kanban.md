@@ -33,7 +33,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Fix Catergories After Avalonia Port
+- [ ] Fix Categories After Avalonia Port
 
 
 ## Complete
