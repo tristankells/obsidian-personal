@@ -29,6 +29,7 @@ kanban-plugin: board
 - [ ] Assign planning amount should have editable "Change" and show a summary of the total.
 - [ ] Goals for envelopes balances would be nice to have and nice to visualize.
 - [ ] Import needs to work for other browsers!!! Should be more dynamic.
+- [ ] [[How to handle variable pay]]
 
 
 ## In Progress
