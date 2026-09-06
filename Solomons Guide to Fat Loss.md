@@ -49,6 +49,11 @@ stores.
 		- Non-Exercise Activity Thermogenesis (NEAT)
 			- This term encompasses all of the calories that you burn through movement that is neither basic biological maintenance—like sleeping and eating—nor intentional, sports-like exercise.
 		- The Thermic Effect of Food (TEF)
+			- Roughly ten percent of your daily energy intake is lost to the process of digestion, though this varies by macronutrient.
+		- Exercise Activity Thermogenesis (EAT)
+			- This constitutes the calories burned during intentional physical activity, e.g., lifting weights,
+running, cycling or taking a yoga class. Surprisingly, for most
+people, this accounts for only five to ten percent of their
 
 
 # Supplementary Notes
