@@ -42,7 +42,8 @@ strategically engineered to come mainly from fat
 stores.
 
 ## Chapter 4. The energy balance equation
-
+- Total Daily Energy Expenditure, or TDEE.
+- 
 
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
