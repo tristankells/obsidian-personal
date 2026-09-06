@@ -51,9 +51,17 @@ stores.
 		- The Thermic Effect of Food (TEF)
 			- Roughly ten percent of your daily energy intake is lost to the process of digestion, though this varies by macronutrient.
 		- Exercise Activity Thermogenesis (EAT)
-			- This constitutes the calories burned during intentional physical activity, e.g., lifting weights,
-running, cycling or taking a yoga class. Surprisingly, for most
-people, this accounts for only five to ten percent of their
+			- This constitutes the calories burned during intentional physical activity, e.g., lifting weights, running, cycling or taking a yoga class.
+			- Surprisingly, for most people, this accounts for only five to ten percent of their TDEE.
+- While Calories In, Calories Out (CICO) is the
+mechanism of weight loss, the Calories In side is
+influenced by factors such as hormones, sleep, stress
+and food quality.
+- Maintenance calories keep your weight stable, a
+calorie surplus makes you gain weight, and a calorie
+deficit makes you lose weight.
+## Chapter 5. Metabolism myth-busting
+
 
 
 # Supplementary Notes
