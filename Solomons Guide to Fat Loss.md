@@ -41,6 +41,9 @@ any reduction in total body weight should be
 strategically engineered to come mainly from fat
 stores.
 
+## Chapter 4. The energy balance equation
+
+
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
