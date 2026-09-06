@@ -43,7 +43,13 @@ stores.
 
 ## Chapter 4. The energy balance equation
 - Total Daily Energy Expenditure, or TDEE.
-- 
+	- Four components
+		- Basal Metabolic Rate (BMR)
+			- Resting Energy Expenditure (REE, which includes your BMR plus the energy needs of wakefulness) accounts for roughly sixty to seventy percent of total daily energy expenditure.
+		- Non-Exercise Activity Thermogenesis (NEAT)
+			- This term encompasses all of the calories that you burn through movement that is neither basic biological maintenance—like sleeping and eating—nor intentional, sports-like exercise.
+		- The Thermic Effect of Food (TEF)
+
 
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
