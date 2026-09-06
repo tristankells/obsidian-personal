@@ -26,7 +26,20 @@ should only be pursued when the dieter is
 psychologically ready and not under high systemic
 stress.
 ## Chapter 3. What is fat loss?
-
+● Weight loss and fat loss generally go together but are
+distinct.
+● The bathroom scale is an excellent proxy for progress
+but cannot distinguish between changes in fat, muscle,
+water or glycogen.
+● Body recomposition (building muscle while losing fat)
+is possible for those with unrealized muscular
+potential, those returning from a layoff or those on
+supraphysiological doses of anabolic steroids, making
+scale weight an incomplete metric for these groups.
+● Muscle preservation should be a central goal of a diet;
+any reduction in total body weight should be
+strategically engineered to come mainly from fat
+stores.
 
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
