@@ -61,7 +61,31 @@ and food quality.
 calorie surplus makes you gain weight, and a calorie
 deficit makes you lose weight.
 ## Chapter 5. Metabolism myth-busting
-
+- Studies controlling for calories and protein have repeatedly
+shown that high-carbohydrate diets (which stimulate more
+insulin) result in the same fat loss as low-carbohydrate diets
+(which keep insulin low), provided that energy intake is equal.
+Insulin partitions energy, but it cannot create energy
+out of thin air.
+- Sleep deprivation, for example, has
+been shown to lower leptin and raise ghrelin, increasing
+hunger and cravings.
+- Starvation mode is a myth; while metabolic adaptation
+causes energy expenditure to drop as you lose weight,
+this does not halt fat loss in a calorie deficit.
+- Your genetics do set your susceptibility to the modern
+obesogenic environment (hyper-palatable food, low
+activity), but conscious, strategic effort can override
+genetic predispositions to eat.
+- Hormones (such as insulin, thyroid, leptin and ghrelin)
+influence metabolism and appetite, but they operate
+within the confines of the energy balance equation;
+they can be managed through medical treatment when
+impaired, alongside lifestyle factors such as a high
+protein intake, resistance training, volume eating and
+adequate sleep.
+## Chapter 6. The three pillars of effective dieting
+- These three pillars are (1) a calorie deficit; (2) sufficient protein intake; and (3) resistance training.
 
 
 # Supplementary Notes
