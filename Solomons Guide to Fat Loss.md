@@ -138,7 +138,7 @@ and turkey—has a fantastic protein-to-calorie ratio,
 - Dairy options such as Greek yoghurt,
 cottage cheese and whey or casein protein powder deliver
 highly absorbable protein,
-- 
+-  
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
