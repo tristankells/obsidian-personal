@@ -120,6 +120,17 @@ If you prefer intermittent fasting because it allows you to eat
 larger, more satisfying meals, then do that.
 - The ratio of carbohydrates to dietary fats, too, is negotiable.
 - Food selection is largely negotiable as well.
+Key takeaways
+● Successful body transformation hinges on three pillars:
+a calorie deficit (the primary requirement for weight
+loss), sufficient protein intake and resistance training
+(both essential for preserving lean mass and improving
+body composition).
+● Once these three core requirements are established,
+all other diet variables—such as the size of the deficit,
+meal frequency, carb/fat ratios and supplements—are
+negotiable and should be adjusted based on personal
+preference to maximize adherence.
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
