@@ -86,7 +86,15 @@ protein intake, resistance training, volume eating and
 adequate sleep.
 ## Chapter 6. The three pillars of effective dieting
 - These three pillars are (1) a calorie deficit; (2) sufficient protein intake; and (3) resistance training.
-
+- When participants are monitored in
+a lab and every calorie consumed and burned is strictly
+counted, researchers find that equating calories across
+different diets results in virtually identical amounts of body
+fat lost, regardless of whether those calories come from
+carbohydrates or fats.
+- Specifically, people consuming 2.4 g/kg
+of body weight daily preserved more lean body mass and lost
+more fat mass compared to those at 1.2 g/kg.
 
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
