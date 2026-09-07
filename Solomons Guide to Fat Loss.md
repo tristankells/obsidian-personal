@@ -133,6 +133,12 @@ negotiable and should be adjusted based on personal
 preference to maximize adherence.
 
 ## Chapter 7. Essential and nonessential nutrients
+- lean poultry—such as chicken breast
+and turkey—has a fantastic protein-to-calorie ratio,
+- Dairy options such as Greek yoghurt,
+cottage cheese and whey or casein protein powder deliver
+highly absorbable protein,
+- 
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
