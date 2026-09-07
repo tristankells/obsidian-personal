@@ -108,6 +108,18 @@ associated with strict dieting when their protein was
 maintained at approximately 2.8 g/kg. In contrast, those
 consuming closer to 1.6 g/kg reported higher levels of
 distress.
+- First and foremost, the size of the deficit is negotiable.
+- The number of meals you eat per day is also negotiable.
+- The
+data show no measurable metabolic advantage to eating six
+small meals versus three larger ones. As long as you hit your
+calorie and protein targets by the end of the day, the
+frequency is a matter of personal preference and schedule. If
+you prefer the structure of three square meals, then do that.
+If you prefer intermittent fasting because it allows you to eat
+larger, more satisfying meals, then do that.
+- The ratio of carbohydrates to dietary fats, too, is negotiable.
+- Food selection is largely negotiable as well.
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
