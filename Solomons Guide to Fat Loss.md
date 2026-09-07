@@ -92,10 +92,22 @@ counted, researchers find that equating calories across
 different diets results in virtually identical amounts of body
 fat lost, regardless of whether those calories come from
 carbohydrates or fats.
-- Specifically, people consuming 2.4 g/kg
+- Specifically, people consuming **2.4 g/kg**
 of body weight daily preserved more lean body mass and lost
-more fat mass compared to those at 1.2 g/kg.
-
+more fat mass compared to those at **1.2 g/kg.**
+- Protein suppresses the hunger
+hormone ghrelin and stimulates satiety hormones like
+peptide YY.
+- Data indicate that athletes consuming roughly **2.9 g**
+**protein/kg** of body weight daily experience fewer food
+cravings than those at more moderate levels, such as **1.8**
+**g/kg.**
+- lower levels of irritability,
+better overall moods and a reduction in the specific stress
+associated with strict dieting when their protein was
+maintained at approximately 2.8 g/kg. In contrast, those
+consuming closer to 1.6 g/kg reported higher levels of
+distress.
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
