@@ -131,6 +131,8 @@ all other diet variables—such as the size of the deficit,
 meal frequency, carb/fat ratios and supplements—are
 negotiable and should be adjusted based on personal
 preference to maximize adherence.
+
+## Chapter 7. Essential and nonessential nutrients
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
