@@ -1,3 +1,6 @@
+# Application Follow Up
+- Make sure you include the **Mifflin-St Jeor**.
+- Have somewhere to set up. 
 # Done
 1 - 2
 # Chapter Notes
@@ -138,7 +141,7 @@ and turkey—has a fantastic protein-to-calorie ratio,
 - Dairy options such as Greek yoghurt,
 cottage cheese and whey or casein protein powder deliver
 highly absorbable protein,
--  
+## Chapter 8. Determining 
 # Supplementary Notes
 ## US Navy method for estimating fat percentage
 How to measure:
