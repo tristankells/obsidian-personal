@@ -141,7 +141,7 @@ and turkey—has a fantastic protein-to-calorie ratio,
 - Dairy options such as Greek yoghurt,
 cottage cheese and whey or casein protein powder deliver
 highly absorbable protein,
-## ## Chapter 8. Determining maintenance calories
+## Chapter 8. Determining maintenance calories
 - Do you want to lose 0.5 kg (1.1 lb) of fat per week? You
 need a daily deficit of ~550 calories.
 - Do you want to lose 1.0 kg (2.2 lb) of fat per week? You
