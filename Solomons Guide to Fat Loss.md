@@ -681,6 +681,41 @@ body: ‘we need this tissue to survive the current
 environmental stressors’.
 - Therefore, if you choose cardio alone, then you risk losing
 weight indiscriminately; shedding fat, but also muscle.
+- Finally, we arrive at the large deficit: losing 1.5% of body
+weight or more per week.
+- You should stick to walking or cycling Dutch-city-style
+only.
+- Research indicates that the
+metabolic and health benefits of daily movement begin to
+compound steeply around the 7,000 to 8,000 step mark.
+- Therefore, I consider 7,000 steps to be the evidence-based
+minimum.
+-  It
+makes sense to set a minimum to your daily movement,
+whether that is 8,000, 10,000 or 12,000 steps.
+- This is so that
+you can intellectually override any unconscious attempt by
+- your body to conserve energy, which will ensure that the
+deficit you have created in the kitchen stays intact.
+- 15.7. Key takeaways
+● For fat loss, resistance training takes precedence over
+cardio due to its unmatched capacity to preserve
+muscle tissue.
+● Cardio is not a physiological requirement for fat loss
+but can be used as a supplementary strategy to
+increase TDEE and is valuable for overall health and
+longevity.
+● When combining training, always lift first while fresh,
+and use low-impact modalities (walking, cycling,
+elliptical, rowing) to save your joints and recovery
+resources for heavy lifting.
+● The intensity of cardio should be inversely correlated
+with the severity of your calorie deficit: the more
+aggressive the cut, the lower the exertion should be.
+● Maintaining a high daily step count (with 7,000 steps
+as the evidence-based minimum) is an effective
+low-fatigue tool to increase your energy deficit
+without compromising muscle recovery or strength.
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
