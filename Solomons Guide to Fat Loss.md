@@ -267,7 +267,420 @@ universally the most expensive macronutrient per gram.
 for carbohydrates and fats, then you can safely scale your
 protein back to 1.4–2.0 g/kg of total body weight upon
 transitioning out of your fat-loss phase.
+- Meat eaters wishing to maximize the
+protein-to-calorie ratio of their diet should prioritize white
+proteins such as **chicken breast, turkey mince, egg whites and**
+**white fish like cod or barramundi.**
+For example, plain Greek yoghurt is
+texturally similar to sour cream but adds 10 to 15 grams of
+protein per serving, whereas the fat-based original adds
+none. Similarly, swapping white rice for legume-based
+alternatives like lupin flakes or high-protein pasta can double
+or triple the trace protein you receive from your sides or
+base.
+- Grilling one to two
+kilograms of lean protein in advance every Sunday ensures
+that slicing cold, pre-cooked protein into salads or wraps
+takes fewer than three minutes.
+- use food
+processing to eat the same protein with less discomfort.
+Ground meats, crumbled extra-firm tofu and shredded or
+pulled textures are easier to consume in large quantities than
+whole fillets or slabs, because they do not require so much
+mastication.
+- The researchers found a dose-response increase in the prolonged
+incorporation of dietary protein into muscle tissue;
+essentially, a larger single dose of protein sustained muscle
+protein synthesis for longer than a smaller dose.
+10.14. Key takeaways
+● The main role of dietary protein is to protect lean
+body mass by stimulating Muscle Protein Synthesis
+(MPS) to counteract the deficit-driven drop in the
+muscle-building/breakdown balance (MPS/MPB).
+● Protein requirements are best calculated using Lean
+Body Mass (LBM) rather than total body weight.
+● A robust, evidence-based target for muscle retention
+in resistance-trained people is 2.5 grams of protein per
+kilogram of LBM.
+● This LBM-based target should be scaled downward or
+upward depending on your leanness, deficit severity,
+activity level, budget and personal preferences.
+● The belief in a 20–40 g ‘anabolic ceiling’ per meal is
+false; total daily protein intake is more important than
+meal frequency, as the body can sustain muscle
+synthesis for over 12 hours from a large bolus.
+● At maintenance or in a surplus, protein can be safely
+scaled back (e.g., 1.4–2.0 g/kg of total body weight) to
+free up calories for carbohydrates and fats.
 
+## Chapter 11. Carbohydrates and fats
+- You are only married to the
+calorie deficit and protein; we adjust the carbs and fats to
+make that deficit as comfortable as possible.
+- strongly advise clients to spend their
+carbohydrate budget on foods that will help them survive a
+diet without feeling ravenous.
+11.3. Key takeaways
+● Once total calories, protein and essential nutrients are
+secured, the precise ratio of carbohydrates to fats is
+physiologically irrelevant to the amount of fat lost.
+● Because the physiological outcome is the same, the
+choice between higher-carb/lower-fat or
+lower-carb/higher-fat should be based on personal
+preference to maximize dietary adherence and
+minimize misery.
+● To manage hunger, spend your limited macronutrient
+budget on high-volume, low-calorie density
+carbohydrates (like potatoes and fruit) instead of
+hyper-palatable sugary snacks; similarly, treat fats with
+caution due to their high calorie density (9 calories per
+gram).
+## Chapter 12. Does a deficit need to be daily? Continuous vs intermittent caloric restriction
+- The primary advantage of CER (Continuous Energy
+Restriction (CER)) is its predictability. It allows
+for the establishment of a stable routine. Meal times, food
+volumes, food selections and macronutrient distributions can
+be relatively constant from Monday to Sunday. This stability
+is excellent for habit formation.
+- In contrast to the flat line of CER, **Intermittent Caloric**
+**Restriction (ICR)** introduces variety into the system. ICR
+involves a non-linear pattern, oscillating between days of
+rigorous restriction and days of relative abundance or
+maintenance.
+- Moderators do well with CER; they are happy to have a small
+slice of cake every day. Abstainers, however, find small
+portions torturous.
+- In the example below, we compare two athletes with a
+maintenance (TDEE) of 2,500 calories. Both aim to lose one
+pound of fat per week, requiring a net weekly deficit of 3,500
+calories.
+
+Day CER protocol
+(daily dieting)
+
+ICR protocol
+(4:3 split)
+Monday 2,000 kcal (-500) 2,500 kcal
+(maintenance)
+Tuesday 2,000 kcal (-500) 1,350 kcal
+(PSMF)
+Wednesday 2,000 kcal (-500) 2,500 kcal
+(maintenance)
+Thursday 2,000 kcal (-500) 1,350 kcal
+(PSMF)
+Friday 2,000 kcal (-500) 2,500 kcal
+(maintenance)
+Saturday 2,000 kcal (-500) 2,500 kcal
+(maintenance)
+Sunday 2,000 kcal (-500) 1,350 kcal
+(PSMF)
+
+Weekly total
+intake
+
+14,000 kcal 14,050 kcal
+
+Net weekly
+deficit
+
+3,500 kcal 3,450 kcal
+
+Result ~1 lb fat loss ~1 lb fat loss
+- An advantage of ICR is social flexibility. Family dinners,
+weddings, Friday night drinks and impromptu work lunches
+can be tough with a strict 500-calorie deficit.
+- It is worth noting that a randomized clinical trial by
+Trepanowski and colleagues demonstrated that alternate-day
+fasting (a prominent form of ICR), where participants
+consumed 25% of their energy needs on fast days and 125%
+on alternating feast days, actually resulted in a higher
+dropout rate (38%) compared to CER (29%), where
+participants consumed 75% of their energy needs every day.
+- **Flexible ICR** - Rather than adhering to a rigid
+schedule of predetermined maintenance days, you use an
+aggressive deficit as your baseline diet and integrate
+higher-calorie days reactively.
+
+12.4. Key takeaways
+● Both Continuous Energy Restriction (CER)—a
+consistent daily deficit—and Intermittent Caloric
+Restriction (ICR)—oscillating between periods of
+severe restriction and maintenance—result in the same
+fat loss outcome, provided that the net weekly calorie
+deficit is equal.
+● The choice between CER and ICR depends on your
+psychology: CER is better for moderators who thrive
+on routine and stability, while ICR is better for
+abstainers who prefer to bank calories for social
+flexibility and benefit from the suffer-and-feast
+rhythm.
+● Flexible ICR is my preferred approach to dieting for
+myself, where you maintain an aggressive baseline
+deficit and reactively integrate higher-calorie days
+(strictly capped at maintenance) to accommodate
+lifestyle disruptions.
+
+## Chapter 13. Building your daily meal plan
+- Atwater factors stipulate
+that one gram of protein contains 4 kilocalories of energy,
+one gram of carbohydrates also contains 4 kilocalories of
+energy, and fat, the most energy-dense of the
+macronutrients, contains 9 kilocalories per gram,
+- Atwater factors in mind, we can begin the
+three-step process of setting up your daily diet: (1)
+determining the calorie intake; (2) setting protein calories;
+and (3) setting carbohydrates and fats.
+- Example user:
+Breakfast (8:00 AM)
+Arjun wakes up and wants something sweet but substantial.
+He uses a slightly scaled-down portion of the spiced protein
+yoghurt bowl from chapter 31 (using 25 g of whey and 250 g
+of YoPro). To this high-protein base, he stirs in 40 grams of
+raw oats for slow-digesting carbohydrates and mixes in 15
+grams of peanut butter to hit his morning fat targets. It yields
+a large, thick bowl of food that keeps him full well into the
+workday.
+Macros approx.: 45 g protein / 35 g carbs / 10 g fat
+Lunch (12:30 PM)
+Arjun is at the office and brought meal prep. He packed the
+chicken breast pizza bowl from chapter 31. Because the base
+meal is almost entirely protein, he uses his macro budget to
+add 200 grams of diced, boiled potatoes into the bowl. After
+heating it up, he drizzles 14 g of extra virgin olive oil over the
+top for healthy fats and stirs it through the pizza sauce.
+Macros approx.: 70 g protein / 50 g carbs / 19 g fat
+Pre-workout snack (4:00 PM)
+It is an hour before the gym, and Arjun wants something
+fast-digesting. He opts for a scoop of whey protein
+concentrate, and to provide some simple sugars to fuel his
+training session, he eats a medium banana alongside it.
+Macros approx.: 30 g protein / 30 g carbs / 2 g fat
+Dinner (7:30 PM)
+This is Arjun’s largest meal. He has finished his training and is
+ravenous. He prepares a slightly scaled-down portion of the
+lemon pepper white fish and cauli-volume from chapter 31
+(using 300 g of white fish instead of 400 g). Because the
+cauliflower rice provides immense volume with virtually no
+calories, he adds 150 grams of cooked white rice to the pan,
+letting it absorb the lemon juice and fish stock. Finally, he
+adds 20 grams of olive oil to the pan while cooking the fish
+which, together with his fish oil supplementation, rounds out
+his daily fat allowance. He sits down to a mountain of hot
+food that signals the end of the day.
+Macros approx.: 55 g protein / 60 g carbs / 24 g fat
+13.4. Key takeaways
+● Diet construction is a three-step process: (1) set your
+calorie intake; (2) set your protein intake; and (3) the
+remaining calorie budget is distributed between
+carbohydrates and fats, which are flexible and should
+be set based on personal preference to ensure
+adherence.
+● How these macronutrients are distributed across the
+day is irrelevant, provided that the daily totals are met.
+
+## Chapter 14. Setting up a protein-sparing modified fast
+- Today, a properly set-up PSMF relies on high-quality,
+whole-food protein sources that provide a complete amino
+acid profile, alongside rigorous supplementation to maintain
+electrolyte balance.
+- resulting in
+weight losses of one to three kilograms per week,
+- In clinical
+settings—where the PSMF is typically administered to obese
+patients—an intake between 1.2 and 1.5 grams of protein per kilogram of ideal body weight is prescribed.
+- For a 178 cm
+(5′10′′), 110-kilogram person aiming for a 73-kilogram ‘ideal’
+body weight, this would represent 88 to 110 grams of protein
+per day.
+- While acceptable for an obese dieter, a higher
+protein intake is advisable for an already-lean,
+resistance-training athlete.
+- When personally executing a PSMF as a lean,
+resistance-training dieter, I set a minimum of 2.5 grams of
+protein per kilogram of lean body mass and permit flexibility
+above that threshold.
+- To prevent this, overeating
+recommend capping your intake at an absolute maximum of
+4 g/kg LBM.
+- body cannot manufacture
+omega-3 fatty acids, and you are consuming no dietary fat,
+you should supplement with high-quality fish or algae oil (I
+recommend 2–4 g EPA/DHA combined each day).
+- With the protein target set, the management of
+carbohydrates and fats is simple: they are to be kept as low as
+humanly possible.
+- window. If you find that your strength is cratering during
+your weight-training sessions, then you may consume
+roughly 15 grams of fast-digesting carbohydrates immediately
+before or during your workout.
+- You are looking for pure
+glucose or sucrose sources that require minimal digestion,
+such as a handful of gummy bears, a small box of raisins or a
+dedicated carbohydrate powder (e.g., Gatorade powder,
+dextrose or highly branched cyclic dextrin).
+- drop in insulin from carbohydrate
+restriction triggers a rapid flush of water and vital minerals.
+- this, you will need
+to salt your food generously with a Lite salt containing both
+sodium and potassium, take a nightly magnesium supplement
+and potentially even take a daily calcium supplement,
+depending on whether you are eating dairy.
+- neglecting these essential minerals is the fastest way
+to tank your energy levels and bring your diet to a premature
+end.
+- Calculating the calorie deficit on a PSMF is unique because
+you do not target a specific calorie number; rather, the
+calorie count is the result of your protein and vegetable
+intake.
+Example:
+For a
+90-kilogram man, a daily target of 176 grams of protein yields
+704 calories. When you add 6 grams of fish oil (54 calories), a
+large volume of vegetables (perhaps 150 calories) and the
+incidental carbohydrates and fats accompanying your lean
+protein sources (perhaps 100 calories), the total daily intake
+is roughly 1,000 calories. Given that a 90-kilogram man likely
+burns 2,500 to 3,000 calories a day, the resulting deficit is
+tremendous, often exceeding 1,500 to 2,000 calories per day.
+- The diet relies on
+the blunting of hunger that occurs with ketosis
+and a high
+- In terms of protein
+sources, we are looking for the highest protein-to-calorie
+ratio possible.
+- Chicken breast, turkey breast, seitan, egg
+whites, white fish (like cod, hoki, snapper, flake, tilapia or
+halibut) and very lean red meat (96% lean or higher) are the
+staples.
+- While whey protein is technically permissible,
+liquids do not trigger the same satiety signals as solid food. Therefore, solid meals are superior to
+liquid nutrition on a PSMF.
+- You can consume large
+amounts of fibrous vegetables—say, two big handfuls per
+meal—such as spinach, broccoli, cauliflower, asparagus and
+Brussels sprouts.
+- vegetables
+such as potatoes, corn, carrots and peas are off-limits due to
+their carbohydrate content.
+- Put simply, the basic formula for any PSMF meal is this:
+● Ingredients: lean protein + vegetables.
+● Instructions: combine and eat.
+- aisle-by-aisle list of approved PSMF
+foods, refer to the grocery guide in chapter 30.
+- Because a PSMF is so strict, the key to your success will be
+removing all barriers to execution.
+- It makes sense either (a)
+to prepare your meals in advance so that they are waiting in
+the refrigerator; or (b) to streamline your meal assembly
+process so that it is practically effortless, e.g., by having your
+raw proteins pre-weighed and your vegetables pre-chopped.
+- The most valuable piece of equipment on a PSMF is a digital
+kitchen scale.
+- Once your food is measured, finding a way to cook it without
+adding fats becomes your primary logistical hurdle.
+High-quality non-stick cookware is excellent to have.
+Ceramic or well-maintained non-stick pans paired with a
+light mist of cooking spray will allow you to sear meats and
+egg whites without them binding to the pan.
+- Air fryers and slanted indoor electric grills (such as a George
+Foreman grill) are useful because they cook your meats while
+simultaneously rendering and draining off any naturally
+occurring residual fats.
+- For inherently fat-free cooking, options include the oven, air
+fryer, steamers and the microwave.
+- For
+speed and convenience, a simple silicone vegetable steamer
+basket that can be microwaved is a valuable tool.
+- replicate the effect of pan-frying
+without the calories by broth sautéing. Simply cook your
+vegetables or diced chicken in shallow amounts of clear
+chicken, beef or vegetable broth instead of oil.
+- an extended period,
+the psychological and physiological grind can become
+overwhelming.
+- This is a single day where you bring your calories back up to
+your maintenance level (the amount of energy you burn in a
+day). The goal here is to stop the deficit. During a
+maintenance day, you keep your protein high, but you
+substantially increase your carbohydrate and/or fat intake.
+- You can deploy maintenance days proactively—scheduling
+them in advance to align with social events (as described in
+chapter 12)—or reactively, using them as an emergency brake
+whenever you feel your adherence slipping.
+- While a maintenance day provides immediate relief, a
+prolonged PSMF eventually necessitates a full diet break.
+The complete guidelines for their implementation are
+covered in depth in chapter 28.
+- You should strive to maintain the weight you were lifting
+before the diet for the same reps.
+- Your routine should be reduced
+to either a full-body workout performed just two times per
+week or once every fourth or fifth day, or a rotating
+upper/lower split performed three times per week (see
+chapter 19).
+- On a PSMF,
+High-Intensity Interval Training (HIIT) and
+moderate-intensity jogging are effectively banned. High cortisol combined with severe caloric
+restriction creates a catabolic environment where the body’s ability to protect existing muscle tissue is reduced.
+- Further,
+the calorie burn from a 5-kilometre run is negligible
+compared to the 2,000-calorie deficit you are already
+creating through diet.
+- permissible cardio is Low-Intensity Steady-State (LISS)
+activity, preferably walking. Walking burns fat without
+spiking cortisol or impairing your recovery.
+- When setting up a PSMF, managing hunger should be a
+primary consideration. 
+- Routine is your ally; eating at the same
+times every day conditions the hunger hormone ghrelin to
+spike only at those specific windows.
+- Stimulants, such as
+caffeine, can be used as effective appetite suppressants,
+provided that they do not interfere with sleep.
+- further strategies to
+mitigate hunger, see chapter 22.
+- It can be
+unsustainable for various lifestyle, financial or psychological
+reasons. 
+- Start
+by securing your protein, essential nutrient and vegetable
+intake, and then add a small amount of carbohydrates and/or
+fats on top of that base—perhaps 50 to 100 calories per meal
+from dairy or fruit—to create a more manageable, palatable
+diet.
+14.12. Key takeaways
+● The PSMF is the physiological limit for rapid fat loss,
+defined as a modified fast that provides sufficient
+high-quality protein to spare muscle tissue while
+severely restricting carbohydrates and fats.
+The modern PSMF is safe and highly effective.
+● Prioritize whole foods that offer the highest possible
+protein-to-calorie ratio, keeping your reliance on
+liquids and protein powders to a minimum.
+● The extreme calorie deficit (often 1,500–2,000+
+kcal/day) causes the rapid fat loss and is the result of
+consuming only protein and fibrous vegetables.
+● Essential Fatty Acids (EFAs) and electrolytes should be
+supplemented daily.
+● Weight training volume should be radically slashed
+while maintaining intensity (weight on the bar and
+proximity to failure) to provide the muscle-sparing
+stimulus without compromising limited recovery
+capacity; Low-Intensity Steady-State (LISS) walking is
+the only permissible cardio.
+● Integrate strategic maintenance days or full diet breaks
+periodically to prevent burnout.
+
+## Chapter 15. Cardio and fat loss
+- Resistance training provides the necessary justification for
+retaining that expensive tissue. When you lift heavy loads
+with a sufficient proximity to failure, you generate
+mechanical tension. This tension sends a molecular signal,
+primarily via the mTOR pathway, that effectively tells the
+body: ‘we need this tissue to survive the current
+environmental stressors’.
+- Therefore, if you choose cardio alone, then you risk losing
+weight indiscriminately; shedding fat, but also muscle.
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
@@ -326,7 +739,7 @@ Example:
 next time you decide to diet—whether simply take your new body weight and multiply it by "Your personal maintenance multiplier" find out your updated maintenance calories instantly.
 - less accurate if your lifestyle changes drastically (e.g., transitioning from an active job to a desk job) or if you substantially alter your ratio of muscle to body fat,
 	- better and more individualized starting point than any generic formula you will find on the internet.
-# Determining Protein Intake
+## Determining Protein Intake
 ### 10.6.1. Basing your protein on your total body weight
 - a widely
 recommended range for muscle retention is 2.0 to 2.4 grams
@@ -386,3 +799,23 @@ How to measure:
 - **Hips (women only):** measure the circumference of the hips at the widest part of the buttocks.
 - **Height:** measure your height without shoes.
 - Once you have these raw numbers, do not attempt to do the maths yourself; the formula involves logarithmic calculations that are tedious to perform by hand. Simply search for a ‘US Navy body fat calculator’ online, plug in your measurements and use the result to determine your body fat percentage.
+## The three-step process of setting up your diet
+- Step 1: determining the calorie intake
+	- Know your TDDE. Determine how much weight you want to lose (500-calorie deficit per day == 0.5kg)
+	- Calories = tdde - daily deficit
+- Step 2: setting protein calories
+	- Follow `Determining Protein Intake` to get your intake.
+	- Grams of protein x 4 = calories which are protien.
+- Step 3: setting carbohydrates and fats
+	- now distribute the rest of the budget. Pick how much towards each macro.
+	- Then / each by 4 and 9 respectively to get the grams.
+	- allocate approximately 3 to 6 grams of this daily fat allowance to a high-quality fish oil supplement to ensure an adequate intake of EPA and DHA.
+Example:
+Arjun’s daily macronutrient targets are now established:
+● Protein: 200 grams (800 kcal)
+● Carbohydrates: 175 grams (700 kcal)
+● Fat: 55 grams (500 kcal)
+● Total: 2,000 kcal
+wakes up one week and decides that he wants more
+avocado and less rice, then he simply adjusts the balance of
+that 1,200-calorie pool.
