@@ -716,6 +716,9 @@ aggressive the cut, the lower the exertion should be.
 as the evidence-based minimum) is an effective
 low-fatigue tool to increase your energy deficit
 without compromising muscle recovery or strength.
+## Chapter 16. Essential lifting terms and concepts
+
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
