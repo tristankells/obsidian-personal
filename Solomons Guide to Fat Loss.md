@@ -717,8 +717,23 @@ as the evidence-based minimum) is an effective
 low-fatigue tool to increase your energy deficit
 without compromising muscle recovery or strength.
 ## Chapter 16. Essential lifting terms and concepts
-
-
+- Absolute intensity...weight
+on the bar relative to your one-repetition maximum (1RM). If
+your 1RM squat is 100 kg, and you are squatting 80 kg, then
+your absolute intensity is 80%.
+- you can build muscle with 60%
+of your 1RM just as effectively as with 80%, provided that
+you take those sets close to failure.
+- When the load is
+sufficiently heavy, every repetition counts because the
+weight requires high-threshold motor unit recruitment from
+the very first rep.
+- with lighter loads, you must
+perform a significant number of non-stimulative repetitions
+just to generate enough fatigue to reach the
+growth-producing reps at the end of the set.
+- prefer the 5 to 15 repetition range.
+- 
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
