@@ -821,6 +821,19 @@ be maintained with roughly one‐third of the volume that it
 took to build it...this usually
 means 3–4 standard hard sets (i.e., 0–2 RIR) per muscle
 group per week.
+- 2011
+study by Bickel and colleagues, For the young adults (ages 20–35), this one-ninth approach
+was a complete success. Despite doing almost no
+work—literally just one set of squats, leg presses and leg
+extensions to volitional fatigue once a week—they held onto
+virtually all of their size and strength for the entire eight
+months.
+- However, age proved to be a factor for the older
+group (ages 60–75). While the one-ninth dose was not quite
+enough to stop their muscles from shrinking, the one-third
+group succeeded perfectly. By doing three sets per exercise
+once a week, the older participants maintained their muscle
+mass just as effectively as the younger ones.
 - 
 
 # Supplementary Notes
