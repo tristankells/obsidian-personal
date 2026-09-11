@@ -766,6 +766,62 @@ perform a mini-set to failure with that same load. A solid rule
 of thumb is to continue these mini-sets until you can no
 longer manage more than a single rep, at which point the
 sequence is complete.
+- In the context of a fat-loss phase... maintaining your strength while your
+body weight decreases is, in itself, a form of progressive
+overload relative to your mass. If you are 5 kilograms lighter
+but still squatting the same weight, then your relative
+strength has increased.
+16.14. Key takeaways
+- A repetition (or a rep) is a single, complete cycle of a
+movement, executed through a standardized range of
+motion at a controlled tempo.
+● Sets are a discrete group of repetitions performed
+consecutively, separated by rest intervals.
+● Compound lifts are multi-joint exercises that recruit
+multiple muscle groups simultaneously.
+● Isolation lifts are single-joint exercises that target a
+specific muscle group directly.
+● Failure is the inability to complete a rep with strict
+form despite maximum effort; training close to failure
+- is vital in a calorie deficit to signal the body to retain
+muscle mass.
+● Volume is defined as the number of hard sets
+performed per muscle group per week, where a hard
+set is taken to a high level of effort (0–2 reps in
+reserve).
+● Absolute intensity refers to the weight on the bar
+(relative to 1RM).
+● Relative intensity refers to the effort applied
+(proximity to failure).
+● Frequency refers to how often a muscle group is
+trained per week.
+● Reps In Reserve (RIR) is a method to quantify relative
+intensity by counting the number of quality repetitions
+left in the tank (e.g., 2 RIR means that you could only
+complete two more reps if you were to go to failure).
+● Rating of Perceived Exertion (RPE) is the inverse of
+RIR (RPE 10 = 0 RIR, RPE 9 = 1 RIR, RPE 8 = 2 RIR,
+etc.).
+● Effective reps is the theory that only the last five
+repetitions prior to failure in any given set are truly
+stimulative for muscle growth.
+● Rest-pause training is a highly efficient technique to
+accumulate effective reps by taking a set to failure,
+resting briefly (15–20 seconds) and immediately
+performing follow-up mini-sets to failure with the
+same load.
+- Progressive overload is the requirement to increase
+training stress continually for adaptation. In a deficit,
+maintaining your absolute strength while your body
+weight decreases is a successful form of progressive
+overload.
+## Chapter 17. What is the least amount of lifting you need to do while dieting?
+- muscle can
+be maintained with roughly one‐third of the volume that it
+took to build it...this usually
+means 3–4 standard hard sets (i.e., 0–2 RIR) per muscle
+group per week.
+- 
 
 # Supplementary Notes
 ## Determining Maintenance Calories
