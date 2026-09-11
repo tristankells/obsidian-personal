@@ -847,8 +847,25 @@ the skill of going to true muscular failure, which is a
 permanent upgrade to your training ability that will allow
 you to stimulate more growth with fewer sets when you
 eventually return to maintenance or a bulk.
+- While **3–4 standard hard sets** per week are my
+recommended safe zone for retaining maximum muscle
+mass, there is a case for going even lower.
+- Some trainees may choose to perform just 1 hard set per week, accepting the
+risk of minor muscle loss as a calculated trade-off.
+- choose to perform just 1 hard set per week, accepting the
+risk of minor muscle loss as a calculated trade-off.
+- If dropping your volume prevents you from burning out and
+allows you to adhere to your diet perfectly, then the trade-off
+is worth it.
+- If you want to maximize this 1-set approach, then rest-pause
+training (see §16.12) is your best friend.
+- this minimalist approach is not for
+competitive bodybuilders or physique athletes preparing for
+a show. In a competitive context, maximum muscle retention
+is the priority and the calculated risk of atrophy is
+unacceptable. But for everyone else, the freedom to focus on
+the diet can often outweigh the marginal cost of lost tissue.
 - 
-
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
