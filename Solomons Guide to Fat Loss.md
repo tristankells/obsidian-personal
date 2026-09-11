@@ -834,6 +834,19 @@ enough to stop their muscles from shrinking, the one-third
 group succeeded perfectly. By doing three sets per exercise
 once a week, the older participants maintained their muscle
 mass just as effectively as the younger ones.
+- The prerequisite, however, is that because you
+are doing so few sets, those sets must be taken to, or very
+close to failure (or zero reps in reserve). You cannot coast on
+a low-volume plan, but if you bring the intensity, then the
+muscle stays.
+- Willpower is a finite resource. If you are exhausting yourself
+in the gym for two hours a day, then your mental vigilance
+for tracking calories and resisting hunger is depleted.
+- This forces you to master
+the skill of going to true muscular failure, which is a
+permanent upgrade to your training ability that will allow
+you to stimulate more growth with fewer sets when you
+eventually return to maintenance or a bulk.
 - 
 
 # Supplementary Notes
