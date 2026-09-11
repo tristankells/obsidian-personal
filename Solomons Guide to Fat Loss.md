@@ -745,7 +745,27 @@ growth-producing reps at the end of the set.
 - We are looking for the grind, the
 point where the bar speed slows involuntarily despite putting
 in maximum effort. That is high relative intensity.
-- 
+- Frequency is essentially a tool for volume management. If
+you need to do 15 sets of quads per week, then doing all 15
+sets in one session is likely suboptimal. By the 10th set, you
+are fatigued, your form is breaking down and the stimulus is
+trash. Splitting that volume into two sessions of roughly 7 sets
+lets you perform all sets with higher quality and focus. This is
+the primary argument for higher-frequency training: it allows
+for higher-quality volume.
+- While the strict five-rep cutoff may be somewhat arbitrary,
+the effective reps model focuses your attention on the only
+thing that ultimately matters: the struggle at the end of the
+set. That struggle is where the change happens.
+- A highly efficient method to accumulate effective reps is the
+rest-pause set. Here is how it works: you take a weight that
+you can lift for a moderate number of reps and perform a
+standard set to failure. You then rack the weight, rest for 15 to
+20 seconds (roughly 5 deep breaths), and immediately
+perform a mini-set to failure with that same load. A solid rule
+of thumb is to continue these mini-sets until you can no
+longer manage more than a single rep, at which point the
+sequence is complete.
 
 # Supplementary Notes
 ## Determining Maintenance Calories
