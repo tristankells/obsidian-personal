@@ -717,6 +717,15 @@ as the evidence-based minimum) is an effective
 low-fatigue tool to increase your energy deficit
 without compromising muscle recovery or strength.
 ## Chapter 16. Essential lifting terms and concepts
+- In a calorie deficit,
+training to failure—or very close to failure—is valuable.
+- Your body is looking for expensive tissue to break down for
+energy. If you provide a weak stimulus—stopping five or
+more reps short of failure—then you are essentially telling
+your body that you have a surplus of muscle tissue
+- However, training to failure on technical compound
+movements like squats and deadlifts can lead to technique
+breakdown and injury.
 - Absolute intensity...weight
 on the bar relative to your one-repetition maximum (1RM). If
 your 1RM squat is 100 kg, and you are squatting 80 kg, then
@@ -733,7 +742,11 @@ perform a significant number of non-stimulative repetitions
 just to generate enough fatigue to reach the
 growth-producing reps at the end of the set.
 - prefer the 5 to 15 repetition range.
+- We are looking for the grind, the
+point where the bar speed slows involuntarily despite putting
+in maximum effort. That is high relative intensity.
 - 
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
