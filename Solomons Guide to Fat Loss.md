@@ -865,7 +865,36 @@ a show. In a competitive context, maximum muscle retention
 is the priority and the calculated risk of atrophy is
 unacceptable. But for everyone else, the freedom to focus on
 the diet can often outweigh the marginal cost of lost tissue.
-- 
+- When you reduce your training volume and restrict
+carbohydrates- glycogen
+stores drop, your muscles lose that water volume.
+- The solution is
+to trust your logbook. If your strength numbers are holding
+steady, then your muscle tissue is intact, regardless of how
+flat you may look.
+- 17.7. Key takeaways
+● Muscle can be maintained with approximately
+one-third of the volume required to build it, provided
+that intensity remains high, making low-volume
+protocols highly efficient during a cut.
+The practical minimum for muscle retention in a
+deficit is typically 3–4 standard, hard sets per muscle
+group per week.
+● Dieters can choose to go even lower than 3–4 sets
+(e.g., 1 hard set per week, ideally using rest-pause
+techniques) to prioritize diet adherence, accepting the
+risk of minor, temporary muscle loss that can be
+quickly regained via muscle memory.
+● The safest strategy during a deficit is to reduce volume
+to safeguard performance. Dropping volume conserves
+scarce recovery resources, preventing systemic fatigue
+that would otherwise impair performance.
+● Maintaining strength maintains muscle.
+● Short-term visual flatness or deflation is due to
+glycogen/water depletion, not muscle loss. The dieter
+should trust the logbook: if strength numbers are
+holding steady, then the muscle tissue is intact.
+## Chapter 18. Weight training on a cut
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
