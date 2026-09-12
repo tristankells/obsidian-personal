@@ -1024,6 +1024,44 @@ failure without losing your balance?
 ● Does it feel safe on your joints? (If a movement
 consistently hurts you, then discard it.)
 
+### Chapter 20. My personal fat loss regimen
+- I do not
+see the appeal in dragging out a moderate deficit for months
+on end, lingering in a chronic state of low-grade hunger.
+- Until I reach my goal, I use a Protein-Sparing
+Modified Fast (PSMF; see chapter 14) for as many days as I
+can muster.
+- Not
+only do I find that it reliably kills cravings and blunts hunger,
+but it also often produces a sense of focus and euphoria,
+which comes from the undeniable momentum and rapid,
+visible results. I adhere to the PSMF with only two
+exceptions: (1) when the psychological pressure mounts to a
+- point where adherence is about to snap; or (2) when I am
+invited to social gatherings. Even then, I do not treat an
+outing with friends as an excuse for a full maintenance day. If
+I have to eat a bit extra, then I simply eat as close to the
+PSMF parameters as possible given the social constraints,
+which often still results in a net deficit for the day. It is only
+when absolutely necessary that I take a full step back and eat
+at maintenance.
+- My default dietary cadence is two meals a day, which allows
+for substantial meal sizes that actually signal satiety rather
+than grazing on bird-like portions throughout the day.
+However, as I push into the single-digit body fat percentages,
+hunger can become the enemy of my sleep. If I am getting
+extremely lean, then I sometimes switch to one meal a day,
+saving my entire calorie allotment for a singular window to
+ensure that I can go to bed with a full stomach.
+- Whether I am in a deficit, at maintenance or in a deliberate
+surplus, I weigh everything. When I am at maintenance, my
+food choices become more relaxed, but the food scale is
+always there. I take it wherever I go. Every morsel I eat is
+tracked, even on my birthdays and other special occasions.
+This practice, which I have now done for years, has helped
+me tremendously. It guarantees that maintenance does not
+slowly creep into an accidental surplus, and it ensures that an
+- 
 
 # Supplementary Notes
 ## Determining Maintenance Calories
@@ -1266,3 +1304,26 @@ a week.
 | Dumbbell lateral raise            | 2    | 7–10 | 2 min         |
 | Triceps pressdown                 | 1–2  | 9–12 | 1.5 min       |
 ##### Session B: legs (quadriceps, glutes, hamstrings, calves, core)
+|Exercise|Sets|Reps|Rest Interval|
+|---|---|---|---|
+|Hack squat or leg press|2|5–8|3 min|
+|RDL or leg curl|2|5–8|3 min|
+|Leg extension|1–2|9–12|1.5 min|
+|Leg curl (variation)|1–2|9–12|1.5 min|
+|Calf raise|2|7–10|2 min|
+|Seated calf raise|1–2|7–10|2 min|
+|Cable crunch|3–4|9–12|1.5 min|
+|Back extension (do not push to failure)|3–4|9–12|1.5 min|
+#### Session C: pull (back, biceps)
+|Exercise|Sets|Reps|Rest Interval|
+|---|---|---|---|
+|Machine row|2|5–8|3 min|
+|Lat pull-down|1–2|9–12|1.5 min|
+|Cable face pull|1–2|7–10|2 min|
+|Incline dumbbell curl|1–2|9–12|1.5 min|
+### 19.5. A note on neck, traps and forearm training
+I have omitted these simply to keep the core
+routine streamlined and time-efficient. 
+A good rule of thumb is to add 1–2 sets of
+wrist curls/extensions, shrugs or neck work (flexion,
+extension and lateral flexion) at the very end of your session.
