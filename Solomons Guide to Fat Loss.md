@@ -1061,7 +1061,14 @@ tracked, even on my birthdays and other special occasions.
 This practice, which I have now done for years, has helped
 me tremendously. It guarantees that maintenance does not
 slowly creep into an accidental surplus, and it ensures that an
-- 
+- intentional surplus does not spiral into unmeasured,
+excessive fat gain.
+- When bodybuilding is at the forefront of my life, I train at a
+commercial gym. Under these conditions, my routine is
+identical to the methodologies I described in the training
+chapters of this book. I perform three to four sets per muscle
+group per week, usually taken to zero RIR or failure.
+
 
 # Supplementary Notes
 ## Determining Maintenance Calories
