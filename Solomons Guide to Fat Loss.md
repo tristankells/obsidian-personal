@@ -1167,3 +1167,15 @@ that 1,200-calorie pool.
 ### 19.1. Beginner routines
 The full-body routines below are designed to be performed
 on two non-consecutive days (e.g., Monday and Thursday).
+#### 19.1.1. Beginner commercial gym routine (2x per week)
+|Exercise|Sets|Reps|Rest Interval|
+|---|---|---|---|
+|Leg press|1–2|8–12|1.5 min|
+|Leg curl|1–2|8–12|1.5 min|
+|Chest press|1–2|8–12|1.5 min|
+|Seated cable row|1–2|8–12|1.5 min|
+|Dumbbell lateral raise|1–2|8–12|1.5 min|
+|Triceps pressdown|1|8–12|1.5 min|
+|Biceps curl|1|8–12|1.5 min|
+|Crunch|1–2|8–12|1.5 min|
+|Back extension|1–2|8–12|1.5 min|
