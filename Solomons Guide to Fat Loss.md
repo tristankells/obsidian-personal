@@ -951,7 +951,58 @@ should generally rest around 3 minutes between these sets.
 Isolation and machine exercises, conversely, generally do not
 require as much rest. For these, 1.5 to 2 minutes of rest are
 typically sufficient.
-- 
+- When you implement a diet break—raising your calories
+back up to maintenance levels for a week or two (see chapter
+28)—you will almost certainly feel a sudden surge of energy.
+- Do not...ramp up your
+training
+- purpose of a diet break is to allow systemic
+fatigue to dissipate and to give your hormonal environment a
+chance to normalize.
+- During a diet break, you only have two viable options
+regarding your training: either (a) change nothing; or (b) take
+a deload.
+- If you are merely experiencing the standard, expected
+lethargy of a fat-loss phase, then keep your training schedule,
+volume, exercise selection and intensity the same as they
+were during the deficit.
+- If your joints are aching, your motivation to train has
+evaporated and the weights that moved smoothly a month
+ago suddenly feel glued to the floor... A deload is a planned, temporary reduction in training
+stress—typically lasting one to two weeks—that targets
+mechanical and neurological fatigue.
+- You achieve this by
+intentionally dropping your training volume (reducing the
+number of working sets), your intensity (reducing the weight
+on the bar and staying further away from failure) or a
+combination of both.
+- 18.16. Key takeaways
+● When cutting:
+○ maintain the heavy loads that you lifted before
+the diet;
+○ operate consistently within 0–2 Reps In
+Reserve (RIR);
+seize any opportunity to add a rep or small load
+increase, provided that execution remains
+pristine;
+○ keep volume low (typically 3–4 hard sets per
+muscle group/week);
+○ keep frequency low (train each muscle no more
+than twice per week);
+○ standardize everything (e.g., exercise technique,
+exercise order, machine settings and rest
+intervals); and
+○ train every muscle group.
+● Write down your workouts in a logbook.
+● Use an objective progression scheme, e.g., double
+progression, where you first increase repetitions with a
+given weight until you hit the top of a prescribed rep
+range, and only then increase the weight.
+● Keep warm-ups brief.
+● During a planned diet break (when calories are raised),
+do not increase the training stress; either change
+nothing or take a deload to maximize recovery.
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
