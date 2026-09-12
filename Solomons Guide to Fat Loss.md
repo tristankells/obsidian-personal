@@ -1002,6 +1002,15 @@ range, and only then increase the weight.
 ● During a planned diet break (when calories are raised),
 do not increase the training stress; either change
 nothing or take a deload to maximize recovery.
+# Chapter 19. Sample training routines
+- Progress does not depend on complexity; in fact, constantly
+altering the training stimulus often yields inferior results for
+three main reasons:
+	- (1) standardization becomes impossible,
+	- (2) when progress stalls, it is harder to identify the
+problem and implement the corrective measure;
+	- (3) frequent exercise variation traps your nervous
+system in a perpetual state of motor learning,  
 
 # Supplementary Notes
 ## Determining Maintenance Calories
