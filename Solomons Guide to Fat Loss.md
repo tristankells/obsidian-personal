@@ -1128,7 +1128,7 @@ drives so much overeating.
 yourself: ‘is this worth logging?’ ‘Do I really want this or am I
 just bored?’ ‘If I eat this now, then what will I have to
 sacrifice from my dinner later?’ This cognitive hurdle may
-inhibit impulsive behavior.
+inhibit impulsive behaviorout.
 - 
 # Supplementary Notes
 ## Determining Maintenance Calories
