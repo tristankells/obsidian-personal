@@ -1049,4 +1049,24 @@ number of the rep range (the ceiling) for every single set with
 perfect technique. Once you achieve that ceiling across all
 sets, you have earned the right to add a small increment of
 weight in your next session.
-- 
+- 18.9.2. The single-set AMRAP
+	- After your warm-up, you perform a single, all-out top set,
+i.e., an AMRAP set aiming for a specific rep target, generally
+around 8 reps. You give this one set everything you have.
+Once it is complete, you move on to your next exercise.
+There are no back-off sets. Hitting your rep goal does not mean stopping the set. An
+AMRAP means exactly that: as many reps as possible. You
+keep going until you reach 0 RIR (Reps In Reserve), even if
+that means exceeding your rep target. Because of this, it
+often makes sense to start a new cycle slightly conservatively,
+selecting a starting weight that you are certain you can beat
+the rep target with.
+- The progression logic is simple: you only add weight to the
+bar next week if you meet or exceed your rep goal on the top
+set. If your goal is 8 reps and you hit 8 (or more), then you
+increase the weight next time. If you only hit 6 or 7, then you
+keep the weight the same and try again next session. This
+scheme ensures that you are always pushing for a personal
+best when you are freshest, maximizing mechanical tension
+without accumulating the fatigue that comes from multiple
+sets.
