@@ -1232,13 +1232,37 @@ This one adds a Back extension row at the end:
 ● Week B: upper / lower / upper
 
 ##### Session A: lower body
-|Exercise|Sets|Reps|Rest Interval|
-|---|---|---|---|
-|Hack squat or leg press|1|5–8|3 min|
-|RDL or leg curl|1|5–8|3 min|
-|Leg extension|1|9–12|1.5 min|
-|Leg curl (variation)|1|9–12|1.5 min|
-|Calf raise|1|7–10|2 min|
-|Seated calf raise|1|7–10|2 min|
-|Cable crunch|2|9–12|1.5 min|
-|Back extension (do not push to failure)|1–2|9–12|1.5 min|#
+| Exercise                                | Sets | Reps | Rest Interval |
+| --------------------------------------- | ---- | ---- | ------------- |
+| Hack squat or leg press                 | 1    | 5–8  | 3 min         |
+| RDL or leg curl                         | 1    | 5–8  | 3 min         |
+| Leg extension                           | 1    | 9–12 | 1.5 min       |
+| Leg curl (variation)                    | 1    | 9–12 | 1.5 min       |
+| Calf raise                              | 1    | 7–10 | 2 min         |
+| Seated calf raise                       | 1    | 7–10 | 2 min         |
+| Cable crunch                            | 2    | 9–12 | 1.5 min       |
+| Back extension (do not push to failure) | 1–2  | 9–12 | 1.5 min       |
+##### Session B: upper body
+| Exercise                          | Sets | Reps | Rest Interval |
+| --------------------------------- | ---- | ---- | ------------- |
+| Machine chest press               | 1    | 5–8  | 3 min         |
+| Machine row                       | 1    | 5–8  | 3 min         |
+| Incline chest press or chest flye | 1    | 9–12 | 1.5 min       |
+| Lat pull-down                     | 1    | 9–12 | 1.5 min       |
+| Dumbbell lateral raise            | 2    | 7–10 | 2 min         |
+| Cable face pull                   | 1    | 7–10 | 2 min         |
+| Triceps pressdown                 | 1    | 9–12 | 1.5 min       |
+| Incline dumbbell curl             | 1    | 9–12 | 1.5 min       |
+#### 19.4. The push/pull/legs split (3x per week)
+Because there are three distinct workouts, this fits perfectly
+into a standard 3-day weekly schedule (e.g., Monday,
+Wednesday, Friday). Every muscle group is hit directly once
+a week.
+##### Session A: push (chest, shoulders, triceps)
+| Exercise                          | Sets | Reps | Rest Interval |
+| --------------------------------- | ---- | ---- | ------------- |
+| Machine chest press               | 2    | 5–8  | 3 min         |
+| Incline chest press or chest flye | 1–2  | 9–12 | 1.5 min       |
+| Dumbbell lateral raise            | 2    | 7–10 | 2 min         |
+| Triceps pressdown                 | 1–2  | 9–12 | 1.5 min       |
+##### Session B: legs (quadriceps, glutes, hamstrings, calves, core)
