@@ -1179,3 +1179,19 @@ on two non-consecutive days (e.g., Monday and Thursday).
 |Biceps curl|1|8–12|1.5 min|
 |Crunch|1–2|8–12|1.5 min|
 |Back extension|1–2|8–12|1.5 min|
+### 19.1.2. Beginner home gym routine (2x per week)
+This routine is ideal for beginners with limited equipment or
+those travelling.
+
+|Exercise|Sets|Reps|Rest Interval|
+|---|---|---|---|
+|Goblet squat or lunge|1–2|8–30+|1.5 min|
+|Bodyweight glute bridge|1–2|8–30+|1.5 min|
+|Push-up (kneeling, incline or standard)|1–2|8–30+|1.5 min|
+|One-arm dumbbell row or resistance band row or inverted row or chin-up|1–2|8–30+|1.5 min|
+|Dumbbell lateral raise or resistance band lateral raise|1–2|8–30+|1.5 min|
+|Lying dumbbell triceps extension or resistance band triceps pressdown|1|8–30+|1.5 min|
+|Dumbbell biceps curl or resistance band biceps curl|1|8–30+|1.5 min|
+|Crunch|1–2|8–30+|1.5 min|
+|Bird dogs|1–2|8–30+|1.5 min|
+### 19.2. Intermediate/advanced full-body routine (1.5–2x per week)
