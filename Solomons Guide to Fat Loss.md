@@ -1114,6 +1114,21 @@ calorie-dense block with lean, high-volume foods—egg
 whites, fibrous vegetables, lean poultry or fish—to ensure
 that you hit your protein target without exceeding your
 calorie limit.
+- Conversely, you learn the value of
+high-volume foods because they are efficient. They are
+small, flexible blocks that allow you to fill the board and feel
+satiated without hitting the ceiling.
+- In physics, the observer effect suggests that the mere act of
+observing a phenomenon changes it.
+- When you know you have to pull out your
+phone, search for a food and log it before you eat it, you
+disrupt the automatic, mindless hand-to-mouth habit that
+drives so much overeating.
+- You have to ask
+yourself: ‘is this worth logging?’ ‘Do I really want this or am I
+just bored?’ ‘If I eat this now, then what will I have to
+sacrifice from my dinner later?’ This cognitive hurdle may
+inhibit impulsive behavior.
 - 
 # Supplementary Notes
 ## Determining Maintenance Calories
