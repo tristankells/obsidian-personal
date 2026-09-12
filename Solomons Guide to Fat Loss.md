@@ -1010,7 +1010,20 @@ three main reasons:
 	- (2) when progress stalls, it is harder to identify the
 problem and implement the corrective measure;
 	- (3) frequent exercise variation traps your nervous
-system in a perpetual state of motor learning,  
+system in a perpetual state of motor learning,
+You should
+feel free to substitute exercises based on your equipment
+availability and biomechanics, provided that they meet four
+specific criteria:
+● Does the movement accurately hit the intended
+muscle group?
+● Can you add weight in small increments to apply
+progressive overload?
+● Is the movement stable enough to allow you to push to
+failure without losing your balance?
+● Does it feel safe on your joints? (If a movement
+consistently hurts you, then discard it.)
+
 
 # Supplementary Notes
 ## Determining Maintenance Calories
@@ -1150,3 +1163,7 @@ Arjun’s daily macronutrient targets are now established:
 wakes up one week and decides that he wants more
 avocado and less rice, then he simply adjusts the balance of
 that 1,200-calorie pool.
+## Routines
+### 19.1. Beginner routines
+The full-body routines below are designed to be performed
+on two non-consecutive days (e.g., Monday and Thursday).
