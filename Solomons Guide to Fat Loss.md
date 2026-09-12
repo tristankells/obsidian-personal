@@ -1179,7 +1179,7 @@ on two non-consecutive days (e.g., Monday and Thursday).
 |Biceps curl|1|8–12|1.5 min|
 |Crunch|1–2|8–12|1.5 min|
 |Back extension|1–2|8–12|1.5 min|
-### 19.1.2. Beginner home gym routine (2x per week)
+#### 19.1.2. Beginner home gym routine (2x per week)
 This routine is ideal for beginners with limited equipment or
 those travelling.
 
@@ -1195,3 +1195,50 @@ those travelling.
 |Crunch|1–2|8–30+|1.5 min|
 |Bird dogs|1–2|8–30+|1.5 min|
 ### 19.2. Intermediate/advanced full-body routine (1.5–2x per week)
+It can be performed two times per week,
+or once every fourth or fifth day.
+
+This one adds a Back extension row at the end:
+
+|Exercise|Sets|Reps|Rest Interval|
+|---|---|---|---|
+|Hack squat or leg press|1|5–8|3 min|
+|RDL or leg curl|1|5–8|3 min|
+|Machine chest press|1|5–8|3 min|
+|Machine row|1|5–8|3 min|
+|Leg extension|1|9–12|1.5 min|
+|Leg curl (variation)|1|9–12|1.5 min|
+|Incline chest press or chest flye|1|9–12|1.5 min|
+|Lat pull-down|1|9–12|1.5 min|
+|Dumbbell lateral raise|2|7–10|2 min|
+|Cable face pull|1|7–10|2 min|
+|Triceps pressdown|1|9–12|1.5 min|
+|Incline dumbbell curl|1|9–12|1.5 min|
+|Calf raise|1|7–10|2 min|
+|Seated calf raise|1|7–10|2 min|
+|Cable crunch|2|9–12|1.5 min|
+|Back extension (do not push to failure)|1–2|9–12|1.5 min|
+### 19.3. The upper/lower split (3–4x per week)
+#### Option 1: the 4-day schedule (standard)
+● Monday: lower
+● Tuesday: upper
+● Wednesday: rest
+● Thursday: lower
+● Friday: upper
+● Saturday: rest
+● Sunday: rest
+#### Option 2: the 3-day schedule (rotating)
+● Week A: lower / upper / lower
+● Week B: upper / lower / upper
+
+##### Session A: lower body
+|Exercise|Sets|Reps|Rest Interval|
+|---|---|---|---|
+|Hack squat or leg press|1|5–8|3 min|
+|RDL or leg curl|1|5–8|3 min|
+|Leg extension|1|9–12|1.5 min|
+|Leg curl (variation)|1|9–12|1.5 min|
+|Calf raise|1|7–10|2 min|
+|Seated calf raise|1|7–10|2 min|
+|Cable crunch|2|9–12|1.5 min|
+|Back extension (do not push to failure)|1–2|9–12|1.5 min|#
