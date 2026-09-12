@@ -1068,7 +1068,24 @@ commercial gym. Under these conditions, my routine is
 identical to the methodologies I described in the training
 chapters of this book. I perform three to four sets per muscle
 group per week, usually taken to zero RIR or failure.
-
+- Conversely, when bodybuilding is less of a priority and my
+schedule is consumed by other obligations—between law
+school, writing this book, managing my consultation practice
+and producing YouTube content—I train at home. I rely
+solely on free weights and body weight exercises and employ
+a four-day upper/lower split. These are brief, intense
+workouts where I perform just one to two all-out sets per
+muscle group per week, frequently using the rest-pause
+technique. If the intensity is high enough—if you are truly
+taking the muscle to failure—then the volume required to
+maintain your physique is shockingly low.
+- Finally, regarding cardio, I do not run and I do not cycle,
+except for short commutes. I pace.
+## Chapter 21. Why and how to track calories and macronutrients
+- Studies have demonstrated this amnesia of the fork. When
+asked to recall what they ate in a day, people consistently
+underreport their intake, often missing the mark by thirty to fifty percent.
+- 
 
 # Supplementary Notes
 ## Determining Maintenance Calories
