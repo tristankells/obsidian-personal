@@ -1085,8 +1085,36 @@ except for short commutes. I pace.
 - Studies have demonstrated this amnesia of the fork. When
 asked to recall what they ate in a day, people consistently
 underreport their intake, often missing the mark by thirty to fifty percent.
+- Tracking eliminates this ambiguity. When you log every bite
+into an app, you are forced to confront the data. You
+- It removes the frustration of
+‘doing everything right’ but not seeing results.
+- Tracking calories provides you with a visible, manageable
+energy budget.
+- You simply log it, see how
+much of your budget it consumes and adjust the rest of your
+day accordingly. Tracking allows for a diet that is inclusive
+rather than exclusive, preventing the binge-restrict cycle that
+sometimes accompanies rigid food rules.
+- Knowing what to eat is distinct from the practical reality of
+how to eat it within a finite budget. This is where it helps to
+conceive of tracking as a game of Macro Tetris.
+- There are no ‘good’ or ‘bad’ foods in this framework; there
+are simply pieces of varying shapes and sizes that must be fit
+into the puzzle.
+- You realize
+that a doughnut is simply a large, awkwardly shaped block
+that takes up a substantial portion of your carbohydrate and
+fat allowance.
+- You can choose to place it on the board, but
+you must acknowledge that it forces you to play differently
+for the rest of the day.
+- You will need to surround that
+calorie-dense block with lean, high-volume foods—egg
+whites, fibrous vegetables, lean poultry or fish—to ensure
+that you hit your protein target without exceeding your
+calorie limit.
 - 
-
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
