@@ -895,6 +895,11 @@ glycogen/water depletion, not muscle loss. The dieter
 should trust the logbook: if strength numbers are
 holding steady, then the muscle tissue is intact.
 ## Chapter 18. Weight training on a cut
+- muscle. But if you open your logbook and see that
+your strength numbers are identical to four weeks ago, then
+you have empirical proof that your muscle is safe. The
+logbook cuts through the emotion and gives you the data you
+need to stay the course.
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
@@ -1033,3 +1038,15 @@ Arjun’s daily macronutrient targets are now established:
 wakes up one week and decides that he wants more
 avocado and less rice, then he simply adjusts the balance of
 that 1,200-calorie pool.
+## Progression in the weight room
+Below are the four primary progression models that I use
+with clients.
+- 18.9.1. Simple double progression
+	- To execute this, you select a rep range—say, 5 to 8 reps—and a
+weight that lands you somewhere in the middle. Your goal is
+to stay with that specific weight until you can hit the top
+number of the rep range (the ceiling) for every single set with
+perfect technique. Once you achieve that ceiling across all
+sets, you have earned the right to add a small increment of
+weight in your next session.
+- 
