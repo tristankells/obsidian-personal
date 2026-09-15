@@ -1284,6 +1284,21 @@ on two non-consecutive days (e.g., Monday and Thursday).
 | Biceps curl            | 1    | 8–12 | 1.5 min       |
 | Crunch                 | 1–2  | 8–12 | 1.5 min       |
 | Back extension         | 1–2  | 8–12 | 1.5 min       |
+##### Liftosaur Format
+```json
+# Week 1
+## Day 1
+// Perform 1-2 sets per exercise (2 sets/1 set shown below is the max) based on recovery/time
+Leg Press / 2x8-12 / 0lb / 90s
+Leg Curl / 2x8-12 / 0lb / 90s
+Chest Press / 2x8-12 / 0lb / 90s
+Seated Cable Row / 2x8-12 / 0lb / 90s
+Dumbbell Lateral Raise / 2x8-12 / 0lb / 90s
+Triceps Pressdown / 1x8-12 / 0lb / 90s
+Biceps Curl / 1x8-12 / 0lb / 90s
+Crunch / 2x8-12 / 0lb / 90s
+Back Extension / 2x8-12 / 0lb / 90s
+```
 #### 19.1.2. Beginner home gym routine (2x per week)
 This routine is ideal for beginners with limited equipment or
 those travelling.
