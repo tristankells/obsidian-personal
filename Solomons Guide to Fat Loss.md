@@ -1235,6 +1235,55 @@ may increase cravings for comfort foods. We often use
 food as a soothing mechanism because highly palatable
 meals stimulate the release of endogenous opioids, which
 help to dampen the body’s stress response.
+- Finding non-food coping
+mechanisms for stress, whether it be walking, meditation,
+journalling or talking to a friend, breaks the link between
+emotional soothing and calorie intake.
+- Mild hunger is just a sensation. While dieting, you can think
+of hunger as the feeling of fat loss occurring.
+- Observe it with curiosity rather than panic. ‘I am feeling
+hunger right now because I am in a deficit. This is normal.
+This is good. It will pass’.
+- If you can sit with the
+discomfort for fifteen minutes, distract yourself with a task or
+drink some water, then you will often find that the wave
+recedes on its own.
+- The distinction between homeostatic hunger and hedonic
+hunger also matters here. Homeostatic hunger is gradual,
+open to different food options and stops when you are full.
+Hedonic hunger—or a craving—is sudden, specific to a
+certain texture or taste and urgent. A useful heuristic is the
+broccoli test. If you feel hungry, then ask yourself: ‘would I
+eat a plate of steamed broccoli and plain chicken breast right
+now?’ If the answer is yes, then you are physically hungry. If
+the answer is ‘no, but I would eat a slice of pizza’, then you
+are simply experiencing a craving or boredom.
+- Identifying
+this difference allows you to categorize the discomfort: you
+endure homeostatic hunger as the necessary cost of a deficit,
+and you dismiss hedonic hunger as a distraction, yielding to
+neither.
+- Modern research suggests that eating three meals a day
+versus six improves feelings of fullness and reduces overall
+appetite. However, dropping from three meals down to
+two may decrease satiety, even with equated calories.
+- It
+would therefore seem that three meals per day—with no
+snacks—are a solid starting point.
+- Meal frequency is ultimately a matter of personal calibration.
+Some—like me—do well with the feast-and-famine rhythm
+of intermittent fasting; others find that fasting dissolves their
+inhibition.
+- ‘But what about performance?’, one might ask. It is common
+to fear that delaying or skipping a meal will crash your
+energy levels or ruin your workout. In
+subjects who went entirely without food for 84 hours,
+isometric strength, anaerobic capacity and aerobic
+endurance were largely unaffected.
+- If physical
+performance on a 3.5-day fast is fine, then pushing your first
+meal back by a few hours is unlikely to impair your training.
+
 - 
 
 # Supplementary Notes
