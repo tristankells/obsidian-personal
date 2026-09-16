@@ -1332,6 +1332,15 @@ calibration.
 ● Learn to surf the urge by recognizing hunger pangs as
 transient.
 ## Chapter 23. Mastering the art of volume eating
+- Deep within the lining of your stomach are
+mechanoreceptors, specialized nerve endings that detect
+stretching. When you consume a meal, the stomach expands.
+As the gastric wall stretches, these receptors fire signals to
+the brain via the vagus nerve, indicating that the organ is
+filling up.
+- 
+
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
