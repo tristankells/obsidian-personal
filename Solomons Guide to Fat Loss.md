@@ -2,7 +2,7 @@
 - Make sure you include the **Mifflin-St Jeor**.
 - Have somewhere to set up. 
 # Done
-1 - 2
+## 1 - 22
 # Chapter Notes
 ## Chapter 1. Introduction
 ## Chapter 2. Why lose fat, anyway?
@@ -1291,8 +1291,47 @@ textures, we tend to eat more. This is known as the buffet
 effect. To manage hunger, simplifying your meals can be effective.
 - If your meals are nutritious but somewhat
 repetitive and predictable, then the reward value decreases.
-- 
-
+- However, these medications should be used as an adjunct
+to—and never a replacement for—the nutritional and
+behavioural strategies outlined in this book. For one, the
+clinical data suggest that the active weight-loss effects of
+these drugs are not infinite.
+22.11. Key takeaways
+● Hunger is inevitable on a fat-loss diet but can be
+managed and reduced.
+● Hunger should not be viewed as a foe; instead, while
+dieting, it should be viewed as a signal that you are
+burning fat.
+● Your ghrelin rhythm is trainable; eat at consistent
+times to align your hunger with your planned meals.
+● Protein is the most satiating macronutrient; prioritizing
+it prolongs fullness by slowing digestion and triggers
+gut hormones which signal satiety (GLP-1 and peptide
+YY).
+● Use the broccoli test (‘would I eat plain broccoli right
+now?’) to distinguish true physiological hunger from a
+craving.
+Manage hedonic hunger by removing trigger foods
+from your immediate environment to eliminate visual
+cues and reduce decision fatigue.
+● Slow down the consumption of meals (e.g., by chewing
+thoroughly) so that you can register fullness before
+overeating.
+● The brain often confuses thirst for hunger; drinking
+water between meals can dissipate false hunger pangs.
+● Meal volume is a helpful hunger management tool as it
+stretches the stomach to signal fullness.
+● Sleep deprivation and chronic stress are highly
+destabilizing, as they raise cortisol and ghrelin while
+lowering leptin, making 7–9 hours of quality sleep and
+stress management critical for hunger management.
+● Three meals a day (with no snacks) are a solid starting
+point for hunger management, but the best meal
+frequency is ultimately a matter of personal
+calibration.
+● Learn to surf the urge by recognizing hunger pangs as
+transient.
+## Chapter 23. Mastering the art of volume eating
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
