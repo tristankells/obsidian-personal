@@ -1368,7 +1368,58 @@ in a 50/50 blend to create a hearty bowl of stir-fry base.
 called zoats—or adding pumpkin purée, which absorbs water
 and expands the serving size without altering the flavour
 profile much.
-- 
+- Scrambled eggs can be bulked up with
+tomatoes, spinach, capsicums and mushrooms so that two
+eggs feel like a meal for a king.
+- Research suggests that consuming a
+low-calorie, broth-based soup before a main meal can
+significantly reduce the total calories consumed during that
+meal.
+- Low-calorie sources of fibre while dieting include psyllium
+husk, prebiotics and vegetables such as spinach, broccoli,
+cauliflower, asparagus, zucchini and Brussels sprouts.
+- For a
+more comprehensive list of fibrous, PSMF-compliant
+vegetables and low-calorie staples, see chapter 30.
+- Going from a low-fibre diet to
+consuming mountains of raw cruciferous vegetables
+overnight can lead to digestive distress. The transition to
+volume eating should be gradual, slowly increasing the ratio
+of vegetables over several weeks and emphasizing adequate
+hydration to help move that fibre through the system.
+- Further, when at a
+restaurant, the volume eater scans the menu for the meal
+that has the most bang for the buck. They might order the
+steak but swap the fries for a double side of steamed broccoli
+or start with a garden salad to pre-fill the stomach before the
+main course arrives.
+Key takeaways
+Satiety can be achieved by stretching the stomach
+wall, as mechanoreceptors respond to the physical
+volume of food.
+● Volume eating relies on shifting intake toward
+low-calorie density foods that are high in water, fibre
+and/or trapped air (e.g., non-starchy vegetables and
+some fruits).
+● The visual cue of a full plate removes the feeling of
+deprivation associated with scarcity and may help to
+prevent the binge-restrict cycle.
+● High-volume plates can be constructed by diluting
+calorie-dense ingredients (like rice or pasta) with
+low-calorie bulk (e.g., cauliflower rice, zucchini or
+broth-based soups).
+● Fibre adds bulk and slows down gastric emptying,
+prolonging the feeling of fullness long after the meal is
+consumed.
+● Volume eating allows you to bank calories earlier in
+the day with high-volume, low-calorie density meals
+to accommodate calorically denser social meals.
+## Chapter 24. In praise of artificial sweeteners
+
+
+
+
+
 
 # Supplementary Notes
 ## Determining Maintenance Calories
