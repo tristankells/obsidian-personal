@@ -1152,6 +1152,61 @@ weight across the week.
 - Eating
 generally the same foods day to day reduces the
 administrative burden of logging.
+- you cannot effectively move to intuitive eating until you
+have educated your intuition. You cannot improvise on the
+piano until you have mastered the scales. Tracking is the
+practice of those scales.
+21.10. Key takeaways
+● Tracking calories and macronutrients by weighing and
+logging your food is an indispensable practice. It
+bypasses flawed human intuition, making the dieting
+process objective and providing you with actionable
+data.
+● A digital kitchen scale is mandatory, and all foods must
+be weighed in their raw/uncooked state to ensure
+accuracy and avoid error from water loss or absorption
+during cooking.
+● When weighing is impossible, pivot to estimation by
+finding comparable menu items or estimating
+components separately, always erring on the side of a
+higher calorie count for safety.
+● Prevent tracking fatigue and burnout by embracing
+dietary repetition and saving standardized, repeated
+meals in the app.
+## Chapter 22. Managing hunger
+- When your stomach is empty, it secretes a
+hormone called ghrelin, which signals the brain to seek out
+calories.
+- Interestingly, ghrelin levels tend to rise and fall in a rhythmic
+pattern, often coinciding with your habitual meal times.
+- This also
+explains why restrictive protocols like One Meal A Day
+(OMAD) eventually become sustainable.
+- Counteracting ghrelin is leptin, the hormone of satiety.
+- However, as you lose
+body fat—the very thing you are trying to achieve—your
+leptin levels drop.
+- The most powerful physical intervention
+we have against the ghrelin-leptin axis is the manipulation of
+food volume, a strategy so critical that it requires its own
+dedicated breakdown in chapter 23.
+- When you consume
+protein, it triggers the release of satiety hormones in the gut,
+such as peptide YY and GLP-1, which effectively tell the
+brain to put down the fork.
+- Hedonic hunger is
+the desire to eat for pleasure.
+- The most effective way to manage
+hedonic hunger is to remove the visual and physical cues that
+trigger it.
+- If you have a bag of biscuits on the counter, then
+your brain will constantly expend mental energy resisting
+them. This is often referred to as decision fatigue. Eventually,
+your willpower may wear down, leading you to eat the
+biscuits. However, if the biscuits are not in the house, then
+the decision is made for you. You cannot eat what is not
+there. If you curate your environment to be free of trigger
+foods, then you reduce the frequency of hedonic cravings.
 
 
 # Supplementary Notes
