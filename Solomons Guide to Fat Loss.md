@@ -1149,6 +1149,9 @@ chain or a generic database entry that seems robust and err on the side of a hig
 - Weigh yourself every morning after using the toilet
 and before eating or drinking, then take the average of your
 weight across the week.
+- Eating
+generally the same foods day to day reduces the
+administrative burden of logging.
 
 
 # Supplementary Notes
@@ -1430,3 +1433,67 @@ routine streamlined and time-efficient.
 A good rule of thumb is to add 1–2 sets of
 wrist curls/extensions, shrugs or neck work (flexion,
 extension and lateral flexion) at the very end of your session.
+
+## 21.7. Tracking hacks
+### 21.7.1. Pasta and rice
+1. Start by placing your empty pot, pan or rice cooker
+insert on the scale before cooking and write down its
+weight so that you do not have to transfer hot food
+later.
+2. Measure the total dry weight of the rice or pasta
+before adding it to the pot and note this raw number.
+3. Cook the batch as you normally would until the water
+is fully absorbed or drained.
+4. Place the entire pot containing the cooked food back
+on the scale once it is done and subtract the empty
+vessel’s weight from this final total number to reveal
+the net weight of your cooked batch.
+5. Determine your portion size and log the
+corresponding raw weight using either simple fractions
+or a cooking multiplier. If you know that you want half
+of the batch, then simply dish out half of the total
+cooked weight and log half of the original raw weight
+in your app. If you prefer to scoop a random amount
+onto your plate, then divide your total net cooked
+weight by your total raw weight to find your multiplier.
+For example, if 200 g of raw food yield 500 g cooked,
+then your multiplier is 2.5. You can then weigh your
+plated portion, divide it by that multiplier and log the
+raw equivalent.
+### 21.7.2. Stews, curries and casseroles
+1. Place your large, empty cooking pot or baking dish on
+the scale before turning on the heat and write down its
+exact weight.
+2. Create a new recipe in your tracking app, weighing
+and logging all of the raw ingredients into the app’s
+recipe builder as you add them to the pot.
+3. Cook the meal as you normally would, allowing it to
+simmer, bake or reduce.
+4. Place the entire heavy pot containing the finished food
+back on the scale and subtract the empty pot’s weight
+that you recorded earlier to find out the net weight of
+the cooked dish.
+5. Input that total net weight as the number of servings
+when finalizing the recipe in your app. For example, if
+your entire cooked stew weighs 2,400 grams, then tell
+the app that the recipe yields 2,400 servings.
+6. Serve your meal by placing your bowl on the scale,
+zeroing it out and ladling in your food.
+7. Log the weight of the food in your bowl as the number
+of servings consumed. If your portion weighs 450
+grams, then you simply log 450 servings of that recipe.
+### 21.7.3. Peanut butter, tahini and cooking oils
+1. Place the entire, open jar or bottle onto your digital
+food scale.
+2. Press the zero or tare button so that the digital display
+reads zero.
+3. Scoop out your desired amount with a utensil or pour
+the liquid directly from the bottle into your pan or
+onto your meal.
+4. Place the container back onto the scale.
+5. Check the negative value now showing on the display,
+which represents the amount of food that has left the
+jar.
+6. Log that number into your tracking app while ignoring
+the negative sign (meaning a reading of -32 g is simply
+entered as 32 g of food).
