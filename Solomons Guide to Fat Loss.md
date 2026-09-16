@@ -1338,6 +1338,10 @@ stretching. When you consume a meal, the stomach expands.
 As the gastric wall stretches, these receptors fire signals to
 the brain via the vagus nerve, indicating that the organ is
 filling up.
+- Conversely, by filling your plate with
+foods that have a low calorie density, you can trigger those
+stretch receptors and achieve that reassuring feeling of
+fullness on a fraction of the energy intake.
 - 
 
 
