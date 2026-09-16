@@ -1002,7 +1002,7 @@ range, and only then increase the weight.
 ● During a planned diet break (when calories are raised),
 do not increase the training stress; either change
 nothing or take a deload to maximize recovery.
-# Chapter 19. Sample training routines
+## Chapter 19. Sample training routines
 - Progress does not depend on complexity; in fact, constantly
 altering the training stimulus often yields inferior results for
 three main reasons:
@@ -1024,7 +1024,7 @@ failure without losing your balance?
 ● Does it feel safe on your joints? (If a movement
 consistently hurts you, then discard it.)
 
-### Chapter 20. My personal fat loss regimen
+## Chapter 20. My personal fat loss regimen
 - I do not
 see the appeal in dragging out a moderate deficit for months
 on end, lingering in a chronic state of low-grade hunger.
@@ -1129,7 +1129,28 @@ yourself: ‘is this worth logging?’ ‘Do I really want this or am I
 just bored?’ ‘If I eat this now, then what will I have to
 sacrifice from my dinner later?’ This cognitive hurdle may
 inhibit impulsive behavior.
-- 
+- To
+avoid this, weigh your ingredients before they hit the pan or
+the pot and log the raw or uncooked entry in your database.
+- It is a good idea to plan your daily intake in your app each
+morning, or at the very least, log your meals as they occur.
+- If you wait until
+8:00 PM to tally your intake, then you might discover that
+you exhausted your calorie allowance by mid-afternoon, or
+that you are fifty grams short of your protein target with
+almost no calories left to spare.
+- If you are eating
+at a chain restaurant, then search the app for the specific
+menu item, as these establishments are legally required to
+publish nutritional information.
+- If you are at a local
+restaurant, then find a comparable entry from a popular
+chain or a generic database entry that seems robust and err on the side of a higher calorie count to be safe.
+- Weigh yourself every morning after using the toilet
+and before eating or drinking, then take the average of your
+weight across the week.
+
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
