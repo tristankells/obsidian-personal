@@ -1283,7 +1283,14 @@ endurance were largely unaffected.
 - If physical
 performance on a 3.5-day fast is fine, then pushing your first
 meal back by a few hours is unlikely to impair your training.
-
+- Ultimately, the best meal frequency is simply the one that
+keeps you out of the danger zone of voracious,
+uncontrollable hunger.
+- When a meal has a high variety of flavours and
+textures, we tend to eat more. This is known as the buffet
+effect. To manage hunger, simplifying your meals can be effective.
+- If your meals are nutritious but somewhat
+repetitive and predictable, then the reward value decreases.
 - 
 
 # Supplementary Notes
