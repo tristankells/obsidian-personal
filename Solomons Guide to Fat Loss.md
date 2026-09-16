@@ -1207,7 +1207,35 @@ biscuits. However, if the biscuits are not in the house, then
 the decision is made for you. You cannot eat what is not
 there. If you curate your environment to be free of trigger
 foods, then you reduce the frequency of hedonic cravings.
-
+- The speed of your eating also influences how your brain
+processes satiety.
+- Slowing
+down is a valuable element of hunger management. This
+involves chewing food thoroughly, putting the cutlery down
+between bites, limiting the size of mouthful in each
+fork-load, eating with your non-dominant hand and sipping
+water throughout the meal.
+- McKiernan and colleagues indicated that people respond
+appropriately to their hunger and thirst cues (e.g., by drinking
+water when thirsty but not hungry) only a fraction of the
+time. The majority of the time, they responded
+inappropriately, frequently eating when they were
+experiencing thirst rather than hunger.
+- When a craving arises between meals, it is a good idea to
+drink a large glass of water and wait for ten minutes.
+- When
+you are sleep-deprived, your hormonal balance is thrown
+into chaos. Cortisol, the stress hormone, rises. Ghrelin spikes
+and leptin plummets. Prioritizing seven to nine hours of
+quality sleep restores the balance of your appetite hormones
+and gives you the executive function required to make better
+food choices the next day.
+- Cortisol
+may increase cravings for comfort foods. We often use
+food as a soothing mechanism because highly palatable
+meals stimulate the release of endogenous opioids, which
+help to dampen the body’s stress response.
+- 
 
 # Supplementary Notes
 ## Determining Maintenance Calories
