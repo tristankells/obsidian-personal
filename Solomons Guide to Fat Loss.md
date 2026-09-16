@@ -1342,8 +1342,33 @@ filling up.
 foods that have a low calorie density, you can trigger those
 stretch receptors and achieve that reassuring feeling of
 fullness on a fraction of the energy intake.
+- Do not drink your calories When you eat a solid, high-volume meal, it physically
+stretches the stomach, sending signals to your brain that you
+have eaten. Liquids, on the other hand, empty from the
+- Further, the very act of chewing (mastication) triggers satiety
+signals in the brain, a step entirely bypassed when you drink
+a beverage.
+- It is better to stick to water, black coffee, tea and artificially
+sweetened drinks, and save your calorie budget for food that
+you can chew.
+- Meanwhile, volume eating fosters an abundance mindset. When you sit down to a plate that is heaped with food—even if half of that heap is steamed broccoli or a humongous
+garden salad—your brain registers a feast.
+- In
+the context of volume eating, vegetables are the main
+infrastructure of the meal.
+- If you love pasta, then you do not have to abandon it.
+Instead, you can change the ratio. A typical pasta dish might
+be 90% noodles and 10% sauce and vegetables. A
+volume-adjusted pasta dish might be 40% noodles mixed
+with 60% zucchini noodles, spinach, mushrooms and onions.
+- Rice
+can be mixed with riced cauliflower or konjac/shirataki rice
+in a 50/50 blend to create a hearty bowl of stir-fry base.
+- Oatmeal can be volumized by grating in zucchini—often
+called zoats—or adding pumpkin purée, which absorbs water
+and expands the serving size without altering the flavour
+profile much.
 - 
-
 
 # Supplementary Notes
 ## Determining Maintenance Calories
