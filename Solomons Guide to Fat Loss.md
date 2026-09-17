@@ -1529,6 +1529,29 @@ production of melatonin.
 ● In your quest for fat loss, one bad night of sleep is not
 the end of the world.
 ## Chapter 26. Dietary supplements
+26.11. Key takeaways
+● Supplements are largely useless for fat loss without the
+foundation of a calorie deficit, sufficient protein and
+resistance training. However, once those foundations
+are in place, supplements can offer a small advantage.
+● Supplements worth considering during a fat-loss diet
+include:
+○ creatine monohydrate (3–5 grams daily);
+○ caffeine;
+○ protein powders;
+○ melatonin (0.3–1.0 milligrams daily);
+○ fish oil or algae oil (2–4 grams of combined
+EPA/DHA daily);
+○ vitamin D (3000–5000 IU daily);
+○ a multivitamin;
+○ calcium (especially if restricting dairy);
+○ prebiotics (3–5 grams daily to start, to manage
+hunger and support gut health when food
+volume is low); and
+○ psyllium husk (5–20 grams daily, taken with
+ample water, away from other
+supplements/medications).
+## Chapter 27. How to track weight loss progress
 
 # Supplementary Notes
 ## Determining Maintenance Calories
@@ -1910,4 +1933,20 @@ for a dose of 0.3 to 1.0 milligrams, taken approximately 30 to
 	- supplementing with fish oil
 or algae oil to reach 2–4 grams of combined EPA and DHA
 per day is a solid target for health and performance.
-- 
+	- To maximize absorption and minimize gastrointestinal side
+effects (such as fish burps), these supplements should be
+taken alongside whole-food meals.
+- Calcium
+	- Whether or not you supplement, you
+should meet the recommended daily intake (usually around
+1,000 mg).
+- Prebiotics
+	- Start with a conservative dose of
+	3–5 grams per day, accompanied by plenty of water, and
+	slowly titrate the dose upward over several weeks as your gut
+	microbiome adapts.
+- Psyllium husk
+	- As with prebiotics, it makes sense to start conservatively with
+5 grams—approximately one teaspoon—per day to allow
+your digestive tract to adapt. If well-tolerated, then you can
+gradually titrate the dose up to 10–20 grams daily.
