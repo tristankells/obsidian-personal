@@ -1436,8 +1436,41 @@ for human consumption within the Acceptable Daily Intake
 free-living humans, those who switch to diet beverages
 generally do not compensate by eating more food.
 - Even if a non-nutritive sweetener triggers a craving for something sweet, you can simply satisfy that craving with more non-nutritive sweeteners.
-
-
+- Water should always be the primary beverage.
+- intake. A zero-calorie soda should replace a
+high-calorie soda, not a serving of vegetables. We should
+view sweeteners simply as a supplementary tool to make
+compliance easier.
+24.10. Key takeaways
+● Non-Nutritive Sweeteners (NNS) provide a welcome,
+minimal-effort caloric saving (e.g., replacing one
+full-sugar soda daily saves nearly 55,000 calories/year).
+● NNS decouple the sensation of sweetness from the
+energy cost, preserving willpower and promoting
+long-term diet adherence.
+● The fear that the sweet taste alone causes an insulin
+spike that halts fat burning is unsupported; NNS often
+lead to weight loss due to calorie reduction.
+● Major regulatory bodies (e.g., the FDA, the EFSA) have
+deemed common NNS safe for consumption within
+their high Acceptable Daily Intake (ADI) levels.
+● The theoretical risk of minor gut flora alteration is
+entirely eclipsed by the metabolic benefits of reversing
+obesity, a process that non-nutritive sweeteners
+facilitate.
+● Studies on free-living humans show that NNS
+consumption generally does not cause compensatory
+eating; dieters can manage any minor biological urge.
+● NNS can make high-protein foods (e.g., protein
+powders and anabolic desserts) palatable, supporting
+adherence to the primary muscle-sparing
+macronutrient.
+## Chapter 25. On the importance of sleep
+- Rather than a state of mere inactivity, sleep is a
+period where the body facilitates tissue repair and modulates
+the hormonal profiles that support favourable body
+composition outcomes.
+- 
 
 # Supplementary Notes
 ## Determining Maintenance Calories
