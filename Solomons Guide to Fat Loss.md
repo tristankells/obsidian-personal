@@ -1495,6 +1495,41 @@ sleep-wake cycle.
 - Establishing a digital
 sunset, where screens are dimmed or turned off an hour
 before bed, signals to the body that the day is done.
+- For the body to
+initiate sleep, your core body temperature needs to drop
+slightly.
+- A room that is too warm can inhibit this process
+and lead to restless, fragmented sleep; and the same can
+occur with too many thick layers of bedclothes.
+- It is also
+beneficial to establish a wind-down routine. This could
+involve quieting the mind with a book or releasing physical
+tension through light stretching and controlled breathing.
+These rituals cue your nervous system that it is time to wind
+down.
+25.8. Key takeaways
+● Just two nights of restricted sleep destabilize the
+appetite hormones, causing the hunger hormone
+(ghrelin) to soar and the satiety hormone (leptin) to
+plummet.
+● Adequate sleep lowers the stress hormone cortisol,
+which, when chronically elevated, can lead to
+cravings.
+● Studies suggest that undersleeping sabotages fat loss
+by causing the body to preserve fat at the expense of
+lean body mass.
+● Sleeping more hours shrinks the waking feeding
+window, reducing the total time during the day that
+requires conscious willpower to manage hunger and
+adhere to the deficit.
+● To combat hunger-induced insomnia, it may make
+sense to bias calories (particularly carbohydrates)
+toward the evening to promote fullness and aid in the
+production of melatonin.
+● In your quest for fat loss, one bad night of sleep is not
+the end of the world.
+## Chapter 26. Dietary supplements
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
@@ -1838,3 +1873,7 @@ jar.
 6. Log that number into your tracking app while ignoring
 the negative sign (meaning a reading of -32 g is simply
 entered as 32 g of food).
+
+## Dietary supplements
+- Creatine monohydrate
+- 
