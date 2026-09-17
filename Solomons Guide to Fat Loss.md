@@ -1833,7 +1833,7 @@ A good rule of thumb is to add 1–2 sets of
 wrist curls/extensions, shrugs or neck work (flexion,
 extension and lateral flexion) at the very end of your session.
 
-## 21.7. Tracking hacks
+## Tracking hacks
 ### 21.7.1. Pasta and rice
 1. Start by placing your empty pot, pan or rice cooker
 insert on the scale before cooking and write down its
@@ -1950,3 +1950,20 @@ should meet the recommended daily intake (usually around
 5 grams—approximately one teaspoon—per day to allow
 your digestive tract to adapt. If well-tolerated, then you can
 gradually titrate the dose up to 10–20 grams daily.
+
+## How to track weight loss progress
+- 1. Weigh yourself every single morning. You want as
+many data points as possible—ideally seven days a
+week—to get an accurate picture.
+2. Weigh yourself right after you wake up and use the
+toilet, but before you eat or drink anything. This keeps
+the conditions the same every time.
+3. Get the right tool. Old-fashioned dial scales are not
+precise enough. You need a digital scale. Even better,
+get a smart scale (like a Withings or Fitbit) that
+automatically sends the number to your phone. This
+stops you from having to write it down every day,
+which makes it easier to stick to the habit. (Note:
+ignore the body fat percentage numbers these scales
+- give you; they are usually wrong. Just look at the total
+weight.)
