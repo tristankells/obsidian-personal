@@ -1470,8 +1470,31 @@ macronutrient.
 period where the body facilitates tissue repair and modulates
 the hormonal profiles that support favourable body
 composition outcomes.
-- 
-
+- Elevated cortisol, a byproduct of sleep deprivation, is unwelcome during a fat-loss phase.
+- While cortisol itself does not magically create fat out of thin
+air, it can increase cravings for highly palatable,
+calorie-dense foods.
+- Research demonstrates that just two consecutive nights of
+severely restricted sleep—4 hours a night—is enough to send ghrelin soaring and suppress leptin.
+- direction. Correcting your sleep duration helps to stabilize
+these signals.
+- If you sleep for nine hours, then you only have
+to battle your willpower for 15.
+- A common
+complaint during a fat-loss phase is hunger-induced
+insomnia. Your brain, sensing a lack of energy availability,
+increases alertness to encourage you to go out and forage for
+food.
+- If hunger keeps you awake, then saving a portion of your
+daily calorie allowance for a pre-bed meal or a substantial
+dinner can be highly effective.
+- Consuming carbohydrates in
+the evening can aid in the production of serotonin, a
+precursor to melatonin, the hormone that regulates the
+sleep-wake cycle.
+- Establishing a digital
+sunset, where screens are dimmed or turned off an hour
+before bed, signals to the body that the day is done.
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
