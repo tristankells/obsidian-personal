@@ -1421,9 +1421,21 @@ inhibits lipolysis, the breakdown of fat. Human clinical trials
 have repeatedly shown that replacing sugar-sweetened
 beverages with non-nutritive sweeteners results in weight
 loss, not gain or stagnation.
-- 
-
-
+- We are evolutionarily hardwired to
+seek out sweet flavours, a preference developed to identify
+energy-dense food sources.
+- They can consume a zero-calorie drink, a protein fluff
+made with sucralose or a bowl of yoghurt sweetened with
+stevia.
+- Regulatory bodies worldwide,
+including the FDA and the European Food Safety Authority,
+have reviewed thousands of studies and deemed them safe
+for human consumption within the Acceptable Daily Intake
+(ADI) levels.
+- In
+free-living humans, those who switch to diet beverages
+generally do not compensate by eating more food.
+- Even if a non-nutritive sweetener triggers a craving for something sweet, you can simply satisfy that craving with more non-nutritive sweeteners.
 
 
 
