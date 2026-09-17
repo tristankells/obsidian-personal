@@ -1876,4 +1876,25 @@ entered as 32 g of food).
 
 ## Dietary supplements
 - Creatine monohydrate
-- 
+	- three to five grams of simple creatine monohydrate daily are all that is required to saturate the
+muscle and help protect your gains from the catabolic
+depredations of dieting.
+- Caffeine
+	- Use it strategically, ideally pre-workout
+or during maximum hunger windows, and not too close to
+bedtime.
+- Vitamin D
+	- For fat loss and heavy training, a dosage of
+3000–5000 IU daily is a robust standard.
+	- To ensure optimal
+	absorption, you should take it alongside a meal containing
+	dietary fat. A practical strategy is to consume your vitamin D
+	concurrently with your daily fish oil supplement.
+- Protein powder
+	- To avoid the hunger satiating downside of drinking your caloires, using protein powder
+to make a fluff (see §31.2) or sludge or baking with it can
+create a more filling meal.
+- Multivitamin
+	- A comprehensive,
+single-tablet multivitamin that covers 100% of the RDA for
+major trace minerals and vitamins is sufficient.
