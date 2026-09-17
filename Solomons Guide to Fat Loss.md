@@ -1415,7 +1415,13 @@ consumed.
 the day with high-volume, low-calorie density meals
 to accommodate calorically denser social meals.
 ## Chapter 24. In praise of artificial sweeteners
-
+- A sip of diet soda does not
+flood the bloodstream with insulin in a way that meaningfully
+inhibits lipolysis, the breakdown of fat. Human clinical trials
+have repeatedly shown that replacing sugar-sweetened
+beverages with non-nutritive sweeteners results in weight
+loss, not gain or stagnation.
+- 
 
 
 
