@@ -1898,3 +1898,16 @@ create a more filling meal.
 	- A comprehensive,
 single-tablet multivitamin that covers 100% of the RDA for
 major trace minerals and vitamins is sufficient.
+	- A
+shortage of zinc can drop testosterone;
+	- a lack of B vitamins can impair neurological functioning;
+	- insufficient magnesium can impair sleep and recovery.
+- Melatonin
+	- You should aim
+for a dose of 0.3 to 1.0 milligrams, taken approximately 30 to
+60 minutes before you intend to sleep.
+- Fish oil or algae oil
+	- supplementing with fish oil
+or algae oil to reach 2–4 grams of combined EPA and DHA
+per day is a solid target for health and performance.
+- 
