@@ -1552,7 +1552,45 @@ volume is low); and
 ample water, away from other
 supplements/medications).
 ## Chapter 27. How to track weight loss progress
+- Apps like Happy Scale (for iOS) and Libra (for Android)
+integrate the concept of the rolling average. You simply log
+your weight each morning, and the software automatically
+calculates your average and plots a smoothed-out trendline.
+- If you pair one of these apps with the smart scale mentioned
+earlier (syncing through Apple Health or Google Fit), then
+the entire process—from stepping on the scale to calculating
+your weekly average—requires zero manual entry.
+- When you want to see how you are doing, look back two
+weeks. Specifically, compare week 4 against week 2.
+- Why skip week 1? Because as discussed in §8.2.2, the first
+week of any diet is a false start. You lose a lot of weight very
+quickly, but most of it is just water and glycogen. By week 2,
+the water has settled and the data become actionable.
+- To find your true rate of fat loss, simply take the difference
+between your week 4 average and your week 2 average, and
+divide that figure by two.
+- Example:
+Imagine you start your diet on week 1.
+● Week 1 average: 71.5 kg (you drop weight rapidly here,
+mostly water).
+● Week 2 average: 70.0 kg (start here. The water weight
+is mostly gone; this is your first valid data point).
+● Week 3 average: 69.6 kg (ignore for now).
+● Week 4 average: 69.2 kg (compare here).
+If you were to compare week 4 to week 1, then it would look
+as if you lost 2.3 kg. That would be misleading because of the
+initial water drop.
+Instead, we compare week 4 against week 2:
+70 kg - 69.2 kg = 0.8 kg total loss.
+- Since this loss happened over two weeks, we divide by two
+to find your weekly rate of loss:
 
+0.8 kg / 2 = 0.4 kg per week.
+- It does not matter if
+you aimed for 0.5 kg or 1.5 kg; the method for correcting the
+discrepancy is always the same: for every 0.1 kg (0.2 lbs) by
+which you are short of your target, you need a 110-calorie
+daily adjustment.
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
@@ -1967,3 +2005,10 @@ which makes it easier to stick to the habit. (Note:
 ignore the body fat percentage numbers these scales
 - give you; they are usually wrong. Just look at the total
 weight.)
+- Add up all seven of your daily weights and divide by seven.
+For example, if your weights for the week add up to 585.3 kg,
+then you divide that by 7 to get 83.6 kg.
+That number—83.6—is your true weight for the week. It
+ignores the temporary water weight spike from a salty meal
+or a big dinner and gives you a single, reliable number to
+track your progress.
