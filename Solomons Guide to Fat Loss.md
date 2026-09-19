@@ -1736,6 +1736,7 @@ is why this list prioritizes high-volume, low-calorie
 foods (like konjac noodles and fibrous greens) to
 distend the stomach and trigger satiety signals without
 adding much energy.
+- [[Solomons Guide to Fat Loss#Groceries Lists]]
 
 # Supplementary Notes
 ## Determining Maintenance Calories
@@ -2261,3 +2262,22 @@ reduced-sodium soy sauce (or tamari), all vinegars (rice,
 apple cider, white, balsamic), hot sauce (Sriracha, Tabasco,
 Frank’s RedHot), lemon/lime juice.
 #### Dry spices and rubs
+Salt (sea salt, potassium-rich Lite/LoSalt, kala namak/black
+salt), black pepper, cinnamon, onion powder, garlic powder,
+Italian herbs/oregano, turmeric, curry powder, chilli flakes,
+star anise, anise, plus any commercial dry rubs or spice
+blends that contain zero sugar.
+### Beverages and broths
+#### Items
+Water, black coffee (no cream or sugar), unsweetened teas,
+sugar-free/diet sodas, sugar-free drink mix powders (e.g.,
+Crystal Light), natural water enhancers (e.g., Stur), clear
+chicken broth, beef broth, vegetable broth, bouillon cubes,
+white miso paste.
+### Supplements
+#### Items
+Creatine monohydrate, essential fatty acids (fish oil/algae oil),
+multivitamin, electrolytes (magnesium and potassium),
+calcium, vitamin D, prebiotics, psyllium husk, caffeine,
+melatonin.
+## The PSMF kitchen: high-volume, maximum-protein recipes
