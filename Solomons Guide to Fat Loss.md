@@ -1744,6 +1744,21 @@ adding much energy.
 the weight off for good, you have to shift your mindset from
 the aggressive offence of dieting to the strategic, habit-based
 defence of maintenance.
+- One of the most robust sources of wisdom on long-term
+maintenance comes from the National Weight Control
+Registry (NWCR).
+- Contrary to the popular sentiment that one should ditch the
+scale to preserve mental peace, the data suggest that regular
+monitoring is crucial to success. In the NWCR, most
+successful maintainers weigh themselves at least once a week
+and often daily.
+- immediately. If you avoid the scale for
+six months, then you may be confronted with a reality that
+requires a monumental effort to reverse.
+- For a person maintaining at 70 kilograms, an upper limit
+might be set at 72 kilograms. This range is your green zone.
+As long as your weight fluctuates within these bounds, you
+continue with your standard maintenance habits.
 - 
 
 
