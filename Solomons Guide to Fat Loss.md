@@ -1640,7 +1640,15 @@ mechanical adjustment: increase your daily deficit by
 target (e.g., by cutting food and/or adding extra steps).
 
 ## Chapter 28. Diet breaks: why, when and how
-- 
+- A diet break is a controlled period of time, typically lasting
+between one and two weeks, where you deliberately
+increase your calorie intake. Specifically, you should raise
+your calories to a level that is approximately 5 to 10% below
+your predicted maintenance level.
+- The constant vigilance
+required to stick to a deficit can create a mental load.
+- Over time, this diet fatigue accumulates, leading to obsession with
+food and a higher likelihood of eating off plan.
 
 # Supplementary Notes
 ## Determining Maintenance Calories
