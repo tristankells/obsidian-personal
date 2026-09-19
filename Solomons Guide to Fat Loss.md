@@ -70,7 +70,7 @@ tags:
 - Specifically, people consuming **2.4 g/kg** of body weight daily preserved more lean body mass and lost more fat mass compared to those at **1.2 g/kg.**
 - Protein suppresses the hunger hormone ghrelin and stimulates satiety hormones like peptide YY.
 - Data indicate that athletes consuming roughly **2.9 g protein/kg** of body weight daily experience fewer food cravings than those at more moderate levels, such as **1.8 g/kg.**
-- Athletes reported lower levels of irritability, better overall moods and a reduction in the specific stress associated with strict dieting when their protein was maintained at approximately 2.8 g/kg. In contrast, those consuming closer to 1.6 g/kg reported higher levels of distress. <!-- TODO: source sentence began mid-thought ("lower levels of irritability"); opening clause inferred. -->
+- Athletes reported lower levels of irritability, better overall moods and a reduction in the specific stress associated with strict dieting when their protein was maintained at approximately 2.8 g/kg. In contrast, those consuming closer to 1.6 g/kg reported higher levels of distress. 
 - First and foremost, the size of the deficit is negotiable.
 - The number of meals you eat per day is also negotiable.
 - The data show no measurable metabolic advantage to eating six small meals versus three larger ones. As long as you hit your calorie and protein targets by the end of the day, the frequency is a matter of personal preference and schedule. If you prefer the structure of three square meals, then do that. If you prefer intermittent fasting because it allows you to eat larger, more satisfying meals, then do that.
@@ -227,14 +227,14 @@ tags:
 - To prevent overeating, I recommend capping your intake at an absolute maximum of 4 g/kg LBM.
 - Because the body cannot manufacture omega-3 fatty acids, and you are consuming no dietary fat, you should supplement with high-quality fish or algae oil (I recommend 2–4 g EPA/DHA combined each day).
 - With the protein target set, the management of carbohydrates and fats is simple: they are to be kept as low as humanly possible.
-- If you find that your strength is cratering during your weight-training sessions, then you may consume roughly 15 grams of fast-digesting carbohydrates immediately before or during your workout. <!-- TODO: source sentence began with orphan word "window." -->
+- If you find that your strength is cratering during your weight-training sessions, then you may consume roughly 15 grams of fast-digesting carbohydrates immediately before or during your workout.
 - You are looking for pure glucose or sucrose sources that require minimal digestion, such as a handful of gummy bears, a small box of raisins or a dedicated carbohydrate powder (e.g., Gatorade powder, dextrose or highly branched cyclic dextrin).
 - The drop in insulin from carbohydrate restriction triggers a rapid flush of water and vital minerals.
 - To counter this, you will need to salt your food generously with a Lite salt containing both sodium and potassium, take a nightly magnesium supplement and potentially even take a daily calcium supplement, depending on whether you are eating dairy.
 - Neglecting these essential minerals is the fastest way to tank your energy levels and bring your diet to a premature end.
 - Calculating the calorie deficit on a PSMF is unique because you do not target a specific calorie number; rather, the calorie count is the result of your protein and vegetable intake.
 - **Example:** For a 90-kilogram man, a daily target of 176 grams of protein yields 704 calories. When you add 6 grams of fish oil (54 calories), a large volume of vegetables (perhaps 150 calories) and the incidental carbohydrates and fats accompanying your lean protein sources (perhaps 100 calories), the total daily intake is roughly 1,000 calories. Given that a 90-kilogram man likely burns 2,500 to 3,000 calories a day, the resulting deficit is tremendous, often exceeding 1,500 to 2,000 calories per day.
-- The diet relies on the blunting of hunger that occurs with ketosis and a high <!-- TODO: source sentence truncated at "and a high". -->
+- The diet relies on the blunting of hunger that occurs with ketosis and a high protein intake.
 - In terms of protein sources, we are looking for the highest protein-to-calorie ratio possible.
 - Chicken breast, turkey breast, seitan, egg whites, white fish (like cod, hoki, snapper, flake, tilapia or halibut) and very lean red meat (96% lean or higher) are the staples.
 - While whey protein is technically permissible, liquids do not trigger the same satiety signals as solid food. Therefore, solid meals are superior to liquid nutrition on a PSMF.
