@@ -1690,7 +1690,42 @@ primarily from carbohydrates.
 prioritize carbohydrates—fruits, pasta, rice, potatoes,
 breads—then you maximize the hormonal boost of the
 break.
+- If the increase to your energy intake
+comes predominantly from hyper-palatable, calorie-dense
+foods, then you risk exacerbating your hunger.
+- If you catch a cold while dieting, then take a diet break. A
+calorie deficit while sick will likely prolong your recovery
+and run you into the ground.
+- When you are sick, abort the deficit. Bring your calories back
+to maintenance—or even slightly above—to give your
+immune system the energy that it requires.
+- The diet break is a
+reminder that you are not sentenced to a life of perpetual
+restriction, which paradoxically makes the restriction easier
+to endure.
+28.7. Key takeaways
+● A diet break is a controlled, 1–2 week period where
+you intentionally raise calories to approximately
+5–10% below your predicted maintenance level to
+provide relief.
+● The break reduces overall diet fatigue, restoring
+willpower and likely improving long-term adherence.
+● The frequency and duration of breaks should be
+determined by your leanness and the aggressiveness of
+your diet; the leaner you are or the larger your deficit,
+the more often you should implement a break.
+● For implementation, you should recalculate your
+now-lower maintenance calories, then prioritize
+increasing your calorie budget primarily from carbohydrates to restore hormonal balance, while
+keeping protein intake high.
+● Be prepared for the scale weight to spike by 1–2
+kilograms (roughly 2–4 pounds) in the first few days of
+the break; this gain is water weight from replenishing
+glycogen stores, not fat, and should be ignored.
+● If you catch a cold, then take an unplanned diet break.
 - 
+## Chapter 29. Achieving extreme leanness and peaking for a bodybuilding show or photoshoot
+
 
 # Supplementary Notes
 ## Determining Maintenance Calories
