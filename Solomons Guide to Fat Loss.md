@@ -1736,7 +1736,7 @@ is why this list prioritizes high-volume, low-calorie
 foods (like konjac noodles and fibrous greens) to
 distend the stomach and trigger satiety signals without
 adding much energy.
-- 30.1. Produce aisle
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
@@ -2158,3 +2158,62 @@ That number—83.6—is your true weight for the week. It
 ignores the temporary water weight spike from a salty meal
 or a big dinner and gives you a single, reliable number to
 track your progress.
+
+## Groceries Lists
+### Produce aisle (fresh)
+The bulk of your meal volume comes from here. You may eat
+from these categories in large quantities to stretch the
+stomach, provided that you avoid starchy or more
+calorie-dense vegetables (e.g., potatoes, corn, peas and
+carrots).
+#### Leafy greens
+Rocket (arugula), cabbage, endive, kale, lettuces (iceberg,
+romaine, butter), mustard greens, radicchio, spinach, Swiss
+chard, watercress.
+#### Cruciferous
+Broccoli, broccolini, Brussels sprouts, bok choy (or choy
+sum), cauliflower.
+#### Fleshy and water-dense
+Asparagus, capsicum (bell peppers), celery, cucumber,
+eggplant (aubergine), mushrooms (white, Swiss brown,
+portobello), okra, radishes, rhubarb, zucchini.
+#### Aromatics and heat
+Chives, fennel, fresh ginger root, fresh horseradish, leeks,
+onions (brown and red), scallions (spring onions), shallots,
+garlic bulbs, fresh hot peppers (jalapeño, serrano, fresno),
+fresh wasabi.
+#### Fresh herbs and fruit
+Basil, bay laurel, borage, caraway, catnip, chervil, coriander
+(cilantro), dill, epazote, lavender, lemon grass, lemon balm,
+lemon verbena, lovage, marjoram, mints, nasturtium,
+oregano, parsley, rosemary, sage, salad burnet, savoury,
+scented geranium, sorrel, tarragon, thyme; fresh lemons and
+limes (for juice).
+### Meat and seafood
+Look for the leanest cuts available (skinless, visible fat
+trimmed).
+#### Poultry
+Chicken breast (skinless), turkey breast, extra-lean chicken
+mince (ground breast), extra-lean turkey mince.
+#### Beef and pork
+The leanest cuts of red meat including sirloin, fillet
+(tenderloin), top round and 96% lean (or higher) beef mince.
+For pork, use trimmed pork tenderloin.
+#### Game meats
+Kangaroo, venison, ostrich, wild boar. (Game meats are
+naturally very lean.)
+#### Lean deli meats
+Cubed or sliced chicken breast, turkey breast, extra-lean
+ham or extra-lean roast beef.
+#### Seafood
+White fish fillets (cod, snapper, hoki, barramundi, tilapia,
+halibut), shrimp and prawns (raw or cooked, peeled),
+scallops, lobster.
+### Dairy and eggs (refrigerated)
+Strictly low-fat/fat-free options.
+#### Items
+Liquid egg whites (cartons) or fat-free egg substitutes (like
+Egg Beaters), fat-free plain Greek yoghurt (e.g., YoPro,
+Chobani Fit)/skyr/kefir, cottage cheese (fat-free or 1%
+low-fat), non-fat or ultra-low-fat grated cheese (mozzarella,
+cheddar, etc.).
