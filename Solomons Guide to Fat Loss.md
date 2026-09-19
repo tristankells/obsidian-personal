@@ -1739,6 +1739,14 @@ adding much energy.
 - [[Solomons Guide to Fat Loss#Groceries Lists]]
 ## Chapter 31. The PSMF kitchen: high-volume, maximum-protein recipes
 - [[Solomons Guide to Fat Loss#The PSMF kitchen recipes]]
+## Chapter 32. Keeping it off for good
+- To keep
+the weight off for good, you have to shift your mindset from
+the aggressive offence of dieting to the strategic, habit-based
+defence of maintenance.
+- 
+
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
@@ -2783,3 +2791,112 @@ Protein: 66 g
 Carb: 26 g
 Fat: 2 g
 #### 24. Tofu egg scramble
+Use firm tofu for this. While tofu contains some fat, it is
+acceptable if it fits your daily macros. This recipe mimics the
+sulfurous taste of eggs using black salt (kala namak).
+Ingredients
+250 g firm tofu (pressed to remove water)
+4 g nutritional yeast
+1/2 tsp turmeric (for colour)
+1/2 tsp kala namak (black salt; provides an egg flavour)
+200 g spinach or kale
+Method
+1. Crumble the block of tofu with your hands into a bowl.
+Mix in the turmeric, nutritional yeast and black salt.
+2. Heat a non-stick pan. Add the crumbled tofu mixture.
+3. Cook for 5–7 minutes, stirring frequently, until the water
+evaporates and the texture becomes firmer.
+4. Toss in the spinach and wilt it. Serve the meal with hot
+sauce.
+Calories: 428
+Protein: 49 g
+Carb: 11 g
+Fat: 20 g
+#### 25. Silken tofu chocolate mousse
+Do not let the tofu scare you. When blended, silken tofu
+creates a custard-like texture that carries chocolate flavours
+perfectly. Use light or low-fat silken tofu if available.
+Ingredients
+300 g silken tofu (drained)
+30 g vegan protein powder (chocolate or vanilla soy protein
+isolate works best for texture)
+20 g cocoa powder (unsweetened)
+Liquid stevia or erythritol to taste
+Method
+1. Place all of the ingredients in a blender or food processor.
+2. Blend them on high until the mixture is completely
+smooth and the grainy protein texture disappears.
+3. Chill the mixture in the fridge for at least 1 hour to let it
+set.
+Calories: 322
+Protein: 42 g
+Carb: 6 g
+Fat: 12 g
+#### 26. Vegan sludge bowl
+Pea-and-rice protein blends often absorb more liquid than
+whey protein powder. We use this to our advantage to create
+a cookie-dough consistency.
+Ingredients
+40 g vegan protein powder (a pea-and-rice blend is usually
+thickest)
+10 g peanut butter powder (PB2 or similar defatted peanut
+flour)
+100 ml unsweetened almond milk (add slowly)
+Cinnamon
+Method
+1. Mix the dry powders in a bowl.
+2. Add the almond milk a splash at a time, stirring constantly.
+Stop when the mixture reaches a thick, dough-like
+consistency.
+3. Optional: mix in 5 g of cacao nibs for crunch (minimal
+calories).
+Calories: 222
+Protein: 35 g
+Carb: 6 g
+Fat: 6 g
+#### 27. Strawberry soy fluff
+A vegan version of the casein fluff. Soy isolate mimics the
+thickening properties of dairy better than pea protein.
+Ingredients
+40 g soy protein isolate
+250 g frozen strawberries
+100 ml water or unsweetened almond milk
+2 g xanthan gum (essential)
+Method
+1. Place the ingredients in a large mixing bowl.
+2. Mix with a stand mixer or a hand mixer for 5–10 minutes.
+The mixture will expand massively.
+3. Eat it immediately with a spoon.
+Calories: 227
+Protein: 38 g
+Carb: 15 g
+Fat: 0 g
+Note: the provided calories and macros use water instead of
+unsweetened almond milk.
+### 31.4. Zero-calorie enhancers
+Do not eat bland food. Use these freely:
+Acids: lemon juice, lime juice, apple cider vinegar,
+white vinegar, rice vinegar, balsamic vinegar.
+● Heat: tabasco, sriracha (check sugar content), chilli
+flakes, cayenne pepper, fresh hot peppers (jalapeño,
+serrano, fresno), fresh wasabi, fresh horseradish, fresh
+ginger root, Frank’s RedHot, black pepper.
+● Umami and salty: reduced-sodium soy sauce, tamari,
+fish sauce, MSG, sea salt, potassium-rich salt
+(Lite/LoSalt), kala namak (black salt), bouillon cubes,
+clear broths (chicken, beef, vegetable).
+● Sweet: erythritol, stevia drops, sucralose (Splenda),
+sugar-free maple syrup.
+● Sauces and condiments: mustard (Dijon, yellow,
+wholegrain), salsa, sugar-free ketchup, sugar-free BBQ
+sauce (e.g., G Hughes), sugar-free teriyaki sauce,
+sugar-free sweet chilli sauce, zero-calorie marinades,
+zero-calorie salad dressings (e.g., Walden Farms).
+● Aromatics and fresh herbs: garlic, onions (brown and
+red), scallions (spring onions), shallots, chives, leeks,
+basil, coriander (cilantro), mint, parsley, rosemary,
+thyme, oregano, dill, lemon grass, other leafy herbs.
+● Dry spices and rubs: garlic powder, onion powder,
+cinnamon, turmeric, curry powder, Italian herbs, star
+anise, unsweetened cocoa powder, commercial dry
+rubs/spice blends (must contain zero sugar).
