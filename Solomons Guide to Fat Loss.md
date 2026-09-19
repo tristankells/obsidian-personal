@@ -2761,3 +2761,25 @@ Protein: 37 g
 Carb: 40 g
 Fat: 2 g
 #### 23. Seitan chicken stir-fry
+Vital wheat gluten (seitan) is almost pure protein. If you buy
+store-bought seitan, then check the label strictly for added
+oils.
+Ingredients
+150 g seitan (sliced into strips)
+300 g broccoli florets
+100 g mushrooms
+Sauce: 30 ml reduced-sodium soy sauce, 15 ml rice vinegar, 5
+g ginger (minced), 5 g garlic, 4 g erythritol/stevia, 2 g chilli
+flakes.
+Method
+1. Steam or dry-fry the broccoli and mushrooms until tender.
+2. In a separate non-stick pan, brown the seitan strips (use a
+quick spray of oil if needed).
+3. Add the vegetables and the sauce mixture to the seitan
+pan.
+4. Toss on high heat for 1 minute to glaze the protein.
+Calories: 379
+Protein: 66 g
+Carb: 26 g
+Fat: 2 g
+#### 24. Tofu egg scramble
