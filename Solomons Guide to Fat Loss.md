@@ -1649,6 +1649,15 @@ your predicted maintenance level.
 required to stick to a deficit can create a mental load.
 - Over time, this diet fatigue accumulates, leading to obsession with
 food and a higher likelihood of eating off plan.
+- The other
+group alternated between two weeks of dieting and two
+weeks of eating at maintenance, continuing this cycle until
+they had accumulated sixteen weeks of time in the deficit.
+- The intermittent group lost considerably more weight and body fat than the continuous group: specifically,
+the intermittent group lost 14.1 kg compared to just 9.1 kg in
+the continuous group, representing a 50% greater total
+weight loss.
+- 
 
 # Supplementary Notes
 ## Determining Maintenance Calories
