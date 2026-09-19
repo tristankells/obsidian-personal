@@ -1657,6 +1657,39 @@ they had accumulated sixteen weeks of time in the deficit.
 the intermittent group lost 14.1 kg compared to just 9.1 kg in
 the continuous group, representing a 50% greater total
 weight loss.
+- The general rule of thumb relies on an inverse relationship
+between body fat and diet break frequency. A person with
+higher levels of body fat has a protective buffer against the
+hormonal impact of dieting.
+ - Take breaks more frequently (e.g., every 2 to 6 weeks)
+if you are already quite lean (under 15% body fat for
+men, 24% for women) or if you are using a large calorie
+deficit (≥1% body weight loss per week).
+- Take breaks less frequently (e.g., every 6 to 12+ weeks)
+if you carry a higher amount of body fat or if you are
+using a moderate to conservative calorie deficit (≤1%
+body weight loss per week).
+- Take breaks less frequently (e.g., every 6 to 12+ weeks)
+if you carry a higher amount of body fat or if you are
+using a moderate to conservative calorie deficit (≤1%
+body weight loss per week).
+- If you reach the theoretical due
+date for a diet break but you are feeling highly motivated and
+your training is going well, then you can keep going.
+- You can
+extend the deficit phase until you feel the need for a
+reprieve.
+- First, recalculate your maintenance calories using the
+methods outlined in chapter 8. Your metabolism has likely
+slowed slightly and you are lighter than when you began, so
+your maintenance now will be lower than it was on day one.
+- Set your calories 5 to 10% below this new number.
+- Second, the increase in calories should ideally come
+primarily from carbohydrates.
+- If you
+prioritize carbohydrates—fruits, pasta, rice, potatoes,
+breads—then you maximize the hormonal boost of the
+break.
 - 
 
 # Supplementary Notes
