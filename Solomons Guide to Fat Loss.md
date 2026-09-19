@@ -2297,3 +2297,283 @@ volume.
 ### Savoury meals
 Lean proteins paired with fibrous vegetables. Eating these
 meals should take 15–20 minutes.
+#### Lemon pepper white fish and cauli-volume
+White fish is one of the most efficient protein sources for a
+PSMF due to its low calorie-to-protein ratio.
+Ingredients
+400 g hoki, cod or tilapia (white flesh fish)
+500 g cauliflower rice (fresh or frozen)
+Lemon juice (fresh)
+Salt, black pepper, parsley
+Method
+2. Dry pan-fry the cauliflower rice on a high heat to remove
+moisture (makes it fluffier), seasoning with Lite salt.
+3. Steam, microwave or pan-fry the fish (use a non-stick pan
+with a quick spray of oil).
+4. Flake the fish into the rice.
+5. Douse with fresh lemon juice and black pepper.
+Calories: 402
+Protein: 79 g
+Carb: 8 g
+Fat: 4 g
+#### Kangaroo burgers with vegetables
+Kangaroo is incredibly lean and high in iron. If unavailable,
+then use 96% lean beef mince.
+Ingredients
+Four 110 g kangaroo burgers (ensure no added
+fillers/breadcrumbs) OR 500 g extra lean mince shaped into
+patties
+250 g broccoli and cauliflower mix
+Sugar-free BBQ sauce or mustard
+Method
+7. Grill the burgers.
+8. Steam the vegetables until soft.
+9. Chop the vegetables and mix them with the meat for a
+bowl-style meal or eat separately to extend the meal time.
+Calories: 483
+Protein: 87 g
+Carb: 12 g
+Fat: 9 g
+#### 3. High-protein alfredo
+Blended cottage cheese replaces heavy cream.
+Ingredients
+250 g low-fat cottage cheese
+1 packet edamame noodles (or Konjac noodles for lower
+calories)
+1 clove garlic (minced)
+Onion powder, salt, dried chives
+Method
+1. Make the sauce by blitzing the cottage cheese, garlic,
+spices and a splash of water in a blender until completely
+smooth and silky.
+2. Cook the noodles according to the packet instructions.
+3. Toss the noodles with the sauce in a pan on a very low
+heat just to warm it through (do not boil the sauce or it may
+split).
+Calories: 392
+Protein: 50 g
+Carb: 23 g
+Fat: 8 g
+#### 4. Solomon’s savoury egg white scramble
+Nutritional yeast adds a cheesy, nutty flavour without the fat
+of cheese.
+Ingredients
+500 g liquid egg whites
+200 g spinach (wilted)
+200 g mushrooms (sliced)
+5 g nutritional yeast
+Hot sauce (sriracha or tabasco)
+Method
+1. Sauté the mushrooms in a non-stick pan with water until
+they are soft.
+2. Add spinach until wilted.
+3. Pour in the egg whites. Cook on a low-medium heat,
+stirring frequently for large, fluffy curds.
+4. Stir in the nutritional yeast right at the end. Top with hot
+sauce.
+(Lazy alternative: you can combine all of the ingredients in a
+large microwave-safe bowl and microwave them until the
+egg whites are fully cooked, pausing to stir once halfway
+through.)
+Calories: 347
+Protein: 71 g
+Carb: 4 g
+Fat: 1 g
+#### 5. Anti-hunger white fish soup
+Liquid volume combined with protein is highly satiating.
+Ingredients
+400 g cod, snapper or flathead
+500 ml chicken bone broth (check the label for low fat)
+200 g bok choy or choy sum
+Fresh ginger (sliced) and garlic
+1 star anise (optional, for pho flavour)
+Method
+1. Simmer the broth with ginger, garlic and star anise for 10
+minutes to infuse flavour.
+2. Add the fish (cut into chunks) and poach for 4–5 minutes.
+3. Add the greens at the last minute so that they stay crunchy.
+4. Serve in a big bowl.
+Calories: 541
+Protein: 101 g
+Carb: 5 g
+Fat: 8 g
+#### 6. Zucchini noodle bolognese
+Ingredients
+2 large zucchinis (roughly 600–650 g), spiralized into
+noodles
+300 g chicken breast mince or kangaroo mince
+200 g passata (tomato purée)
+Italian herbs, garlic powder, sweetener (a pinch)
+Method
+1. Brown the mince in a non-stick pan. Break it up very
+finely.
+2. Add the passata and herbs. Simmer until thick.
+3. Add the zucchini noodles and toss for 2 minutes only (do
+not overcook them, or the water will seep out and make the
+sauce soupy).
+Calories: 469
+Protein: 78 g
+Carb: 31 g
+Fat: 6 g
+#### 7. Tuna pancakes
+A savoury meal that replaces canned tuna boredom.
+Ingredients
+1 large can (185 g) of tuna in brine (drained well)
+100 g liquid egg whites
+1/2 onion (roughly 70–80 g), finely diced
+Dill and lemon zest
+Method
+1. Mix all of the ingredients in a bowl.
+2. Heat a non-stick pan. Spoon the mixture into small patties.
+3. Cook for 3 minutes per side until golden brown. Serve
+with mustard.
+Calories: 249
+Protein: 50 g
+Carb: 9 g
+Fat: 1 g
+
+#### 8. Spicy shrimp and konjac stir-fry
+Ingredients
+300 g shrimp/prawns (cooked, peeled)
+1 packet (200 g) of konjac noodles, rinsed thoroughly
+150 g capsicum (sliced)
+100 g green beans (trimmed)
+Sauce: 30 ml reduced-sodium soy sauce, 15 ml rice vinegar, 5
+g freshly grated ginger, 2 g chilli flakes.
+Method
+1. Dry fry the rinsed konjac noodles to remove the fishy smell
+and improve the texture.
+2. Add the vegetables and a splash of water to steam them.
+3. Add the shrimp and sauce mixture. Toss until heated
+through.
+Calories: 319
+Protein: 54 g
+Carb: 17 g
+Fat: 4 g
+
+#### 9. Chicken breast pizza bowl
+Ingredients
+300 g chicken breast (diced)
+100 g mushrooms
+100 g passata
+Oregano, basil, chilli flakes
+Optional: 20 g non-fat grated cheese (if macros allow) or
+nutritional yeast
+Method
+1. Cook the chicken and mushrooms in a pan.
+2. Pour over the pizza sauce and reduce the heat.
+3. Sprinkle herbs and cheese on top. Cover the pan with a lid
+for 2 minutes to melt/steam.
+Calories: 367
+Protein: 73 g
+Carb: 5 g
+Fat: 5 g
+Note: the provided calories and macros exclude the optional
+cheese or nutritional yeast.
+#### 10. Shirataki chicken lo mein
+Shirataki (or konjac) noodles are 97% water and 3% soluble
+fibre. They contain virtually zero calories. The trick is
+preparing them correctly to remove the ocean smell and
+rubbery texture.
+Ingredients
+300 g chicken breast (sliced thinly)
+1 packet (200 g) of shirataki/konjac noodles
+200 g bok choy or broccoli
+1/2 (75–100 g) red capsicum
+Sauce: 45 ml reduced-sodium soy sauce, 15 ml rice vinegar, 5
+g crushed garlic, 5 g grated ginger, 4 g erythritol/stevia, 2 g
+chilli flakes.
+Method
+1. Rinse the noodles thoroughly under cold water for 1
+minute.
+2. Place the noodles in a dry non-stick pan (with no oil) on a
+high heat. Cook them for 5–7 minutes until they squeak and
+all of the moisture has evaporated. This improves the texture.
+Remove and set aside.
+3. In the same pan, cook the chicken breast slices until they
+are browned.
+4. Add the vegetables and a splash of water to steam them
+slightly.
+5. Toss the noodles back in, pour the sauce over everything
+and stir-fry for 2 minutes until the noodles absorb the sauce
+colour.
+Calories: 443
+Protein: 79 g
+Carb: 19 g
+Fat: 7 g
+#### 11. Sashimi
+Raw fish is a fantastic, zero-prep way to hit your protein
+targets while feeling as if you are eating at a high-end
+restaurant.
+Ingredients
+300 g sashimi-grade kingfish, tuna or snapper
+200 g cucumber (sliced into thin rounds or ribbons for
+volume)
+30 ml reduced-sodium soy sauce or tamari
+Wasabi and pickled ginger
+Method
+1. Slice the fish thinly (if not bought pre-sliced) using a very
+sharp knife.
+2. Arrange the fish and cucumber ribbons on a plate.
+3. Mix the wasabi into your soy sauce and use it as a dip.
+Calories: 360
+Protein: 66 g
+Carb: 10 g
+Fat: 4 g
+#### 12. Miso broth
+This is not a standalone meal, but rather a low-calorie
+volume strategy. You can sip this bowl of savoury liquid
+alongside any solid meal to fill the stomach and enhance
+satiety.
+Ingredients
+1,000 ml boiling water
+1 standard low-calorie bouillon cube (chicken or vegetable)
+15 g white miso paste
+15 ml reduced-sodium soy sauce
+10 g grated fresh ginger
+10 g garlic (minced)
+Method
+1. Dissolve the bouillon cube in the boiling water in a
+saucepan over medium heat.
+2. Remove from the heat. Whisk in the miso paste, soy sauce,
+ginger and garlic until they are fully integrated.
+Calories: 90
+Protein: 5 g
+Carb: 12 g
+Fat: 2 g
+#### 13. Perfect 60°C sous vide chicken breast
+A sous vide setup eliminates the issue of dry, rubbery
+chicken, keeping ultra-lean poultry juicy and tender. Because
+you can drop multiple chicken breasts into the water bath at
+once, it is also an excellent meal prep strategy.
+Ingredients
+300 g chicken breast
+Salt, black pepper and garlic powder
+Fresh thyme or rosemary (optional)
+Method
+1. Set a sous vide water bath to 60°C.
+2. Season the chicken generously and seal it in a vacuum bag
+(or a ziplock bag using the water displacement method to
+remove the air).
+3. Cook it in the water bath for 1.5 to 4 hours.
+4. Remove the chicken from the bag, pat it dry with a paper
+towel and sear it in a blazing hot non-stick pan for 30
+seconds per side just for colour.
+Calories: 318
+Protein: 68 g
+Carb: 1 g
+Fat: 4 g
+#### 14. The Lyle McDonald Special #1 (ham and shake)
+A nod to my bodybuilding coach. When you cannot be
+bothered to cook, this combination gets the job done.
+Ingredients
+200 g premium, ultra-lean deli ham
+1 scoop (30 g) whey protein isolate
+Method
+1. Roll up the ham slices and eat them.
+2. Mix the whey protein isolate with water in a shaker bottle
+and drink it.
+Calories: 327
+Protein: 54 g
+Carb: 9 g
+Fat: 0 g
