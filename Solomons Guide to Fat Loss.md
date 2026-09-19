@@ -1829,7 +1829,150 @@ reactively lower your calories for the next day or two to balance out the weekly
 approach the event with a starved, compensatory mindset,
 the actual surplus may be smaller. Consequently, the ensuing
 correction may be minor and easier to manage.
-- 
+- Ultimately, maintenance is a skill. We all require personal
+strategies to navigate the abundance of food in the modern
+world. My own strategy, for instance, is to continue weighing every meal with a food scale and tracking my calories and
+macronutrients. While I acknowledge that my method is not
+suitable for everyone, it provides the accountability that I
+personally need. You should experiment to find the structure
+that works for you. One that permits flexibility without
+compromising long-term weight control.
+- Finally, no chapter on maintenance would be complete
+without addressing the inevitable: you will mess up. You will
+have days, perhaps weeks, where you revert to old habits,
+which may manifest as overeating or skipping your
+scheduled workouts. The difference between those who
+maintain their weight and those who regain it lies in how
+they interpret these slip-ups.
+- Failed maintainers view a slip-up as a total collapse. They eat
+a bad meal, decide they have ruined their diet and proceed
+to turn a bad meal into a bad week. This is the flat tyre
+phenomenon: imagine getting a flat tyre on the highway and
+responding by slashing the other three tyres. It sounds
+absurd, yet we do this with our nutrition constantly.
+- Successful maintainers practice resilience and immediate
+forgiveness. They understand that perfection is not the goal;
+consistency is. When a slip-up occurs, they acknowledge it
+without judgement and immediately return to their
+established behaviours at the very next meal. They
+acknowledge that one salad does not make them skinny just
+as one pizza does not make them fat. It is the accumulation
+of choices over time that determines your weight. Refusing
+to let a stumble become a fall ensures that maintenance is a
+lifelong journey of self-correction, growth and sustainable
+health.
+- However, what happens if a stumble does become a fall? You
+might face a prolonged period of stress or personal upheaval
+and experience a major regression. You might, to put it
+bluntly, screw up bigly.
+- If you find yourself having regained a significant amount of
+weight and well past your established red line, then it is vital
+to remember one immutable fact: you have done this before.
+You are no longer the inexperienced beginner wondering if
+fat loss is even biologically possible for you. You have already
+proven that you possess the grit and the knowledge required
+to transform your body. The physiological mechanisms of fat
+loss have not changed, and the same tools that worked for
+you the first time are still available to you. Forgive yourself
+for the regression and simply restart the process. You got
+lean once before, so you can assuredly do it again.
+- 32.10. Key takeaways
+● View maintenance as a generous diet. It requires just
+as much discipline as fat loss, but it affords you more
+carbs and fats and is less rigid about perfect protein
+intake. Remember: you only have to get lean once if
+you maintain this discipline.
+● Practice vigilant monitoring. Regular scale use
+(preferably daily) provides a necessary feedback loop
+to detect and correct slow, creeping weight regain
+immediately.
+● Establish a non-negotiable upper limit or red line
+(1–3% above your goal weight); hitting this threshold
+should trigger a pre-determined, immediate action
+(e.g., dieting for three days) to prevent a slip from
+becoming a slide.
+● Maintain the practice of tracking. You do not need to
+be extreme, but tracking calories and macronutrients
+provides a boundary against portion distortion and
+provides objective data to help you course-correct
+when your weight fluctuates.
+● Combat persistent hunger by using volume eating
+principles (prioritizing low-calorie-density foods) and
+centring every meal around a solid source of protein
+for satiety.
+● Employ environmental design to conserve willpower
+by making healthy choices the path of least resistance
+- (e.g., by having healthy food visible) and making trigger
+foods difficult to access (e.g., by keeping them out of
+the home).
+● You might benefit from pro-active or reactive calorie
+cycling—integrating lower-calorie days—to create a
+flexible weekly budget that buys the freedom to enjoy
+social events and higher-calorie days without guilt or
+losing control.
+● Practice resilience when slip-ups occur. Successful
+maintainers forgive the mistake and immediately
+return to their established plan at the very next meal,
+refusing to let a single bad moment become a total
+collapse.
+● If you experience a major relapse and regain weight,
+then remember that your past success is proof of your
+capability. You have gotten lean once before, and you
+can assuredly do it again.
+## Chapter 33. Conclusion
+As befits a book on fat loss, I wanted this text to be lean and
+free of indulgence. A part of this economy is recognizing that
+enough has been said for what needs to be done.
+At the beginning of this book, I asked what the best way to
+lose fat is. Now, you have the answer. We have unpacked the
+causes of fat loss, moving from the abstract laws of
+thermodynamics to the granular details of macronutrient
+partitioning, the application of resistance training to preserve
+and build lean tissue and other behavioural strategies that
+help to sustain a deficit. You now hold the blueprint; and if
+ever you were seduced by clever marketing in the past, you
+would now be disabused that there is no magic pill, no secret
+metabolic state, no superfood and no optimal nutrient timing
+window that will bypass the energy balance equation.
+Against those illusions, you now have the methods to
+manipulate your body composition at will, without the need
+for expensive consultants or endless subscriptions to fad diet
+programs.
+However, in concluding, I want to leave you with one final,
+perhaps counterintuitive, thought: the ultimate goal of fat
+loss is to stop thinking about fat loss.
+For many of us, dieting occupies an unwelcome amount of
+headspace. We become preoccupied with dieting in ways
+that are sometimes intrusive and unrewarding. Economically
+speaking, the fitness industry profits from your perpetual
+dissatisfaction; it relies on you remaining an unrequited
+dieter, forever chasing a slightly better version of yourself
+that could be achieved if you could only shed another two
+kilograms. And possibly that is correct: you may well look
+and feel a whole lot better once you have reached your goal
+weight and see your abs. Nothing else in your life may
+change, but you unconsciously hope that with this one
+objective clinched, other anxieties will recede and your
+confidence will flourish.
+I make these reflections because fat loss sits among other
+hopes and wishes that we create for ourselves. I dare say that
+for achieving any one of them it helps to make our peace
+with all of them. It is beyond the scope of this book to
+explain how a dieting regime could possibly intersect with
+relationship problems, job fulfilment or balancing a bank
+account; but it helps to believe that success at any one of
+these propitiates the others, and when it comes to achieving
+a lower body fat percentage, you have what it takes right
+here in your hands.
+You have the metrics, the understanding and the tools. Fat
+loss is something within your control, unlike so many other
+areas in life with chaotic and unfair variables. My hope is
+that this book has served its purpose: to make me, and
+people like me, obsolete in your fat loss journey. From now
+on, you are your own coach. A leaner physique lies within
+reach and with it, I trust, a verifiable and empowering
+conviction that you can, to a substantial degree, change
+yourself in any direction that is worthy.
 
 # Supplementary Notes
 ## Determining Maintenance Calories
