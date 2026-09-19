@@ -1591,6 +1591,56 @@ you aimed for 0.5 kg or 1.5 kg; the method for correcting the
 discrepancy is always the same: for every 0.1 kg (0.2 lbs) by
 which you are short of your target, you need a 110-calorie
 daily adjustment.
+- then the most important rule is to try to protect your protein
+intake (meat, fish, eggs, tofu). As we have often noted, protein
+keeps you full and preserves your muscle. Instead, look at
+the extras: the carbohydrates and fats. Can you skip an
+apple? Use a little less oil? Cut a handful of almonds?
+- If you are executing a Protein-Sparing Modified Fast Because
+the nutritional floor has already been reached, any additional
+deficit must be generated entirely through increased physical
+activity. This is best achieved via Low-Intensity Steady State
+ exercise, such as walking, to create a larger deficit
+without compromising protein intake.
+- Here is how the entire operation works in practice. It starts
+with a simple daily ritual: step on the scale every morning.
+Treat this number like a piece of data to collect and
+immediately forget.
+- Once the week is over, take those seven numbers and find
+the average. This single number is your true weight for the
+week.
+- However, you do not react to this number immediately. You
+wait. Every two weeks, compare your current average to where you were two weeks ago (for example, comparing
+week 4 to week 2). Be sure to filter out any bad-data weeks,
+such as the very first week of the diet (which is mostly water
+loss) or weeks affected by the menstrual cycle.
+- If—and only if—this comparison shows that you are missing
+your target, then you apply the fix. For every 0.1 kg by which
+you are off your target, increase your deficit by 110 calories,
+either by trimming a little food or adding a short walk.
+27.5. Key takeaways
+● Stop viewing the scale as a daily judge of effort, as
+body weight fluctuates wildly due to water retention,
+digestion, hormonal changes and changes in glycogen
+storage.
+● Weigh yourself every single morning to collect data,
+then calculate the weekly average of those daily
+weigh-ins. This rolling average is a more reliable
+number to track the long-term trend of your progress.
+● Judge your true rate of fat loss every two weeks (a
+fortnightly review) by comparing your current weekly
+average to the average from two weeks prior (e.g.,
+week 4 vs. week 2), while filtering out the initial water
+loss from week 1 and any weeks affected by the
+menstrual cycle.
+- If the fortnightly review shows that you are genuinely
+missing your target rate of loss, then make a
+mechanical adjustment: increase your daily deficit by
+110 calories for every 0.1 kg by which you are off your
+target (e.g., by cutting food and/or adding extra steps).
+
+## Chapter 28. Diet breaks: why, when and how
+- 
 
 # Supplementary Notes
 ## Determining Maintenance Calories
