@@ -1725,8 +1725,18 @@ glycogen stores, not fat, and should be ignored.
 ● If you catch a cold, then take an unplanned diet break.
 - 
 ## Chapter 29. Achieving extreme leanness and peaking for a bodybuilding show or photoshoot
-
-
+- [READ THE BOOK AGAIN IF THIS EVER BECOMES RELEVANT!]
+## Chapter 30. Groceries
+- on a PSMF, you have almost zero caloric overhead,
+meaning that every gram of fat or sugar matters, which
+is why you will see an emphasis on low-carb, low-fat
+foods; and
+- when calories are low, hunger is the enemy, which
+is why this list prioritizes high-volume, low-calorie
+foods (like konjac noodles and fibrous greens) to
+distend the stomach and trigger satiety signals without
+adding much energy.
+- 30.1. Produce aisle
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
