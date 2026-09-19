@@ -1759,8 +1759,77 @@ requires a monumental effort to reverse.
 might be set at 72 kilograms. This range is your green zone.
 As long as your weight fluctuates within these bounds, you
 continue with your standard maintenance habits.
+- However,
+the moment the scale touches that upper limit, a
+pre-determined protocol is activated. This is the key to the
+upper limit strategy: the decision is made in advance. You do
+not negotiate with yourself when you hit the number; you
+simply execute the plan that you created when you were
+calm and rational.
+- When the limit is breached, you might immediately
+switch to a higher protein intake, cut out liquid calories,
+resume tracking and/or return to a PSMF for a few days.
+- The
+specific tactic you use to re-enter a deficit matters less than
+the immediacy of the response. This prevents a slip from
+becoming a slide. It turns a potential relapse into a minor
+correction, reinforcing the belief that you are in control, even
+when things do not go to plan.
+- Continued
+tracking—even in a relaxed, estimative format—provides a
+reliable boundary that prevents your daily intake from
+expanding unchecked.
+- Continuing to track your
+calories and macronutrients removes the guesswork from
+maintenance. If your weight begins to approach the red line
+established in the previous section, then your food log
+provides the diagnostic data required to see where the extra
+energy is sneaking in.
+- In the maintenance phase, hunger remains a primary
+adversary. To combat this, your nutrition should still rely on
+the principles of volume eating and protein prioritization.
+- Willpower is a finite resource, one that depletes as the day
+wears on. Relying on willpower to resist temptation in your
+own home is a strategy destined for failure. Successful maintainers understand the power of choice architecture;
+the practice of designing your environment to make the
+desired behaviour the easiest option and the undesired
+behaviour the most difficult.
+- If a food is in your house, then you will likely,
+eventually, eat it. Therefore, hyper-palatable trigger foods
+should be kept out of the home environment.
+- Washed fruit should be visible in a bowl on the counter,
+while chopped vegetables should be at eye level in the
+refrigerator. Curating your surroundings lets you reduce the
+cognitive load required to make healthy choices.
+- Stand away from the food table to avoid mindless
+grazing. Hold a drink (sparkling water with lime is a great
+decoy) in your dominant hand so that it is harder to reach for
+hors d'œuvres.
+- If you decide to indulge, then do so
+consciously. Select the one item that you truly desire, eat it
+slowly, savour it and move on. Maintenance is largely about
+keeping those indulgences as purposeful choices.
+- A rigid adherence to a single calorie number every day can
+be brittle and prone to breaking. As noted in chapter 12, calorie intake should be viewed as a
+weekly average.
+- If you know that you have a dinner out on
+Saturday and a family brunch on Sunday, then you can
+pro-actively lower your intake on Monday, Tuesday and
+Wednesday to offset the anticipated surplus of those events.
+This might look like skipping a snack, slightly reducing
+portion sizes at dinner, leaning more heavily into volume
+eating on those days or even integrating a PSMF day or two.
+This is a deposit into your caloric bank account. Undereating
+on days where food is less central may give you the freedom
+to enjoy higher calorie events without anxiety.
+- Instead of restricting in advance, you aim to eat mindfully
+and perhaps slightly less on the day of the event itself. Then,
+if you still end up slightly over your maintenance target, you
+reactively lower your calories for the next day or two to balance out the weekly average. Because you did not
+approach the event with a starved, compensatory mindset,
+the actual surplus may be smaller. Consequently, the ensuing
+correction may be minor and easier to manage.
 - 
-
 
 # Supplementary Notes
 ## Determining Maintenance Calories
