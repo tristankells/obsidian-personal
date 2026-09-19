@@ -1737,7 +1737,8 @@ foods (like konjac noodles and fibrous greens) to
 distend the stomach and trigger satiety signals without
 adding much energy.
 - [[Solomons Guide to Fat Loss#Groceries Lists]]
-
+## Chapter 31. The PSMF kitchen: high-volume, maximum-protein recipes
+- [[Solomons Guide to Fat Loss#The PSMF kitchen recipes]]
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
@@ -2280,4 +2281,19 @@ Creatine monohydrate, essential fatty acids (fish oil/algae oil),
 multivitamin, electrolytes (magnesium and potassium),
 calcium, vitamin D, prebiotics, psyllium husk, caffeine,
 melatonin.
-## The PSMF kitchen: high-volume, maximum-protein recipes
+## The PSMF kitchen recipes
+- If you are following a more flexible diet with higher
+macronutrient targets, then you can use these meals as a
+foundation. Simply add your allocated carbohydrate and fat
+sources to these dishes, whether that means stirring in rice,
+potatoes, a nut butter or avocado, topping a sweet treat with
+fruit and dark chocolate or cooking your proteins in olive oil.
+In doing so, however, ensure the following two things:
+- (1) those additions are accurately tracked; and
+(2) you are adding, not replacing; swapping out the
+main ingredients defeats the purpose of volume eating;
+instead, use your extra macros to build upon that
+volume.
+### Savoury meals
+Lean proteins paired with fibrous vegetables. Eating these
+meals should take 15–20 minutes.
