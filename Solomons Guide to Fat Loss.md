@@ -2217,3 +2217,47 @@ Egg Beaters), fat-free plain Greek yoghurt (e.g., YoPro,
 Chobani Fit)/skyr/kefir, cottage cheese (fat-free or 1%
 low-fat), non-fat or ultra-low-fat grated cheese (mozzarella,
 cheddar, etc.).
+### Vegan and plant-based (refrigerated and dry)
+Essential if following the vegan recipes from chapter 31,
+optional for variety otherwise.
+#### Items
+Silken tofu (low fat), firm tofu (high-protein/pressed), seitan
+(vital wheat gluten; check for no added oil), tempeh (check
+macros), almond milk (unsweetened).
+### Frozen aisle
+Usually cheaper and just as nutritious.
+#### Items
+Frozen strawberries (essential for fluff recipes), cauliflower
+rice (if not making fresh), broccoli and cauliflower mix,
+frozen white fish fillets or shrimp (budget option).
+### Pantry and dry goods
+#### Protein powders
+Casein protein (vanilla or chocolate; essential for
+fluff/pudding texture), whey protein isolate (vanilla or salted
+caramel), vegan protein isolate (soy or pea/rice blend).
+#### Thickeners and baking
+Xanthan gum, guar gum, psyllium husk, PB2/powdered
+peanut butter (defatted), cocoa powder (unsweetened),
+sugar-free jelly/jello crystals, nutritional yeast (savoury
+cheesy flavour), non-nutritive sweetener (erythritol,
+sucralose, stevia drops), cacao nibs.
+#### Canned and jarred
+Tuna or canned chicken breast (must be in
+springwater/brine, never oil), passata/tomato purée (check
+for no added sugar), bamboo shoots, water chestnuts, bean
+sprouts, pickled cucumber, sauerkraut, kimchi.
+#### Noodles
+Konjac/shirataki noodles (in water packs), edamame noodles
+or black bean spaghetti (check macros carefully).
+### Condiments, spices and sauces
+Flavour without calories. Ensure that you check labels to
+avoid hidden sugars or oils.
+#### Sauces and condiments
+Salsa, sugar-free ketchup, sugar-free BBQ sauce (e.g., G
+Hughes), sugar-free teriyaki sauce, sugar-free sweet chilli
+sauce, zero-calorie marinades and salad dressings (e.g.,
+Walden Farms), mustard (Dijon, yellow, wholegrain),
+reduced-sodium soy sauce (or tamari), all vinegars (rice,
+apple cider, white, balsamic), hot sauce (Sriracha, Tabasco,
+Frank’s RedHot), lemon/lime juice.
+#### Dry spices and rubs
