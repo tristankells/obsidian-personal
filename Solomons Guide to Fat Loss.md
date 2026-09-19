@@ -2577,3 +2577,187 @@ Calories: 327
 Protein: 54 g
 Carb: 9 g
 Fat: 0 g
+#### 15. The Lyle McDonald Special #2 (canned chicken and ranch)
+Canned chicken breast is convenient and portable.
+Ingredients
+2 cans (approx. 150 g drained weight each) canned chicken
+breast in water
+20 g fat-free ranch dressing
+200 g broccoli and cauliflower mix
+Black pepper
+Method
+1. Drain the canned chicken and flake it into a bowl.
+2. Stir in the fat-free ranch dressing and a heavy pinch of
+black pepper until it resembles a chicken salad.
+3. Steam or microwave the broccoli and cauliflower mix until
+tender and serve alongside the chicken.
+Calories: 323
+Protein: 54 g
+Carb: 16 g
+Fat: 5 g
+### 31.2. Sweet treats
+These recipes aim to mimic the texture of ‘cheat’ foods.
+#### 16. Protein fluff
+While the inclusion of fruit disqualifies this recipe from being
+PSMF-compliant in the strictest sense, it earns its place here
+for two reasons: (1) it is still relatively low in carbohydrates;
+and (2) the volume it yields makes it an unparalleled tool for
+managing hunger.
+Ingredients
+80 g casein protein powder (vanilla or berry flavour works
+best)
+250 g frozen strawberries (must be frozen)
+20 g erythritol (or sweetener to taste)
+100 ml cold water
+2 g xanthan gum (do not skip this)
+Method
+1. Place the ingredients in a large mixing bowl.
+2. Mix with a stand mixer or a hand mixer for 5–10 minutes.
+The mixture will expand massively.
+3. Eat it immediately with a spoon.
+Calories: 368
+Protein: 63 g
+Carb: 19 g
+Fat: 2 g
+Note 1: the amount of protein powder can be varied to fit
+your specific calorie budget. Counterintuitively, reducing the
+powder (e.g., halving or quartering it) often yields a larger
+bowl of fluff. A high concentration of casein creates a denser,
+heavier batter that resists expansion.
+Note 2: raspberries are an effective alternative to
+strawberries. A 250 g substitution will add roughly 50
+calories and 11 g of carbohydrates to the bowl.
+#### 17. High-fibre gut-fill shake
+Even though I normally suggest avoiding liquid calories while
+dieting, this shake is a great choice if you are in a pinch,
+thanks to the added psyllium husk.
+Ingredients
+80 g casein protein powder
+20 g psyllium husk*
+5 g creatine monohydrate
+600 ml water (minimum; psyllium requires fluid)
+Ice cubes
+Method
+1. Add water and ice to a large shaker bottle first (prevents
+clumping).
+2. Add casein, psyllium and creatine.
+3. Shake vigorously and drink immediately. Psyllium gels
+quickly; if you wait too long, then it will become spoonable
+rather than drinkable.
+Calories: 326
+Protein: 62 g
+Carb: 7 g
+Fat: 2 g
+*A warning regarding psyllium husk: if your digestive system
+is unaccustomed to this volume of dietary fibre, then do not
+begin with a full 20-gram dose. Rapidly introducing this
+much fibre will almost certainly cause gastrointestinal
+distress. Instead, start with a conservative dose of 3–5 grams
+and gradually titrate the amount upward over several weeks
+as your digestive tract adapts.*
+#### 18. Protein jelly mousse
+Ingredients
+1 packet of sugar-free jelly crystals (raspberry or lime)
+30 g whey protein isolate (vanilla)
+350 g YoPro (or similar high-protein, 0% fat Greek yoghurt)
+100 ml boiling water
+Method
+1. Dissolve the jelly crystals in the boiling water. Let it cool
+slightly.
+2. Whisk the yoghurt and whey protein isolate together in a
+bowl until smooth.
+3. Slowly pour the Jello liquid into the yoghurt mixture while
+whisking constantly.
+4. Refrigerate for 2–3 hours. The result is a cheesecake-like
+mousse texture.
+Note: if your goal is to maximize volume, then you can
+prepare these ingredients separately rather than mixing them
+together. Simply prepare the jelly normally according to the
+packet instructions—which requires more water—top it with
+the yoghurt once set and have the whey protein isolate mixed
+with water as a shake to the side.
+Calories: 349
+Protein: 66 g
+Carb: 16 g
+Fat: 2 g
+#### 19. Spiced protein yoghurt bowl
+Ingredients
+30 g whey protein isolate (salted caramel or vanilla)
+350 g YoPro (or similar high-protein, 0% fat Greek yoghurt)
+Cinnamon and a pinch of salt
+Method
+1. Mix the whey into the yoghurt slowly to avoid powder
+explosions.
+2. Add a small splash of water or almond milk if the texture
+becomes too cement-like.
+3. Top it with cinnamon and sea salt.
+4. Place it in the freezer for 20 minutes before eating for a
+frozen-yoghurt texture.
+Calories: 342
+Protein: 65 g
+Carb: 16 g
+Fat: 2 g
+#### 20. Chocolate casein cookie dough
+Ingredients
+40 g chocolate casein protein powder
+10 g cocoa powder (unsweetened)
+15 g PB2 (powdered peanut butter)
+A small splash of water or unsweetened almond milk
+Erythritol/stevia drops
+Method
+1. Mix the dry ingredients in a small bowl.
+2. Add the liquid literally 1 teaspoon at a time, mixing
+constantly. You want a thick sludge.
+3. Once it forms a dough ball, eat it with a spoon.
+Calories: 237
+Protein: 39 g
+Carb: 8 g
+Fat: 4 g
+#### 21. Sweet baked egg whites
+Egg whites are incredibly versatile. Baking them with a
+zero-calorie sweetener creates a dense, cake-like dish that
+can satisfy dessert cravings without breaking the diet.
+Ingredients
+300 g liquid egg whites
+1 tbsp zero-calorie sweetener (erythritol or stevia)
+1 tsp vanilla extract
+Cinnamon and nutmeg (to taste)
+Method
+1. Preheat your oven to 180°C.
+2. In a bowl, whisk the egg whites, sweetener, vanilla, and
+spices until slightly frothy.
+3. Pour the mixture into a small non-stick baking dish.
+4. Bake the mixture for 20–25 minutes until it is puffed and
+golden brown on top.
+Calories: 148
+Protein: 34 g
+Carb: 1 g
+Fat: 0 g
+### 31.3. The vegan PSMF kitchen
+A plant-based PSMF is most efficiently executed by relying
+almost entirely on protein powders (see §14.10). However, for
+vegans who must incorporate solid food, the recipes here are
+designed to minimize tag-along carbs and fats while
+maximizing protein bioavailability.
+#### 22. TVP bolognese
+Textured Vegetable Protein (TVP) expands when rehydrated.
+Ingredients
+60 g dry TVP (Textured Vegetable Protein) granules
+240 ml vegetable broth (hot)
+200 g passata/tomato purée
+200 g zucchini (grated or spiralized)
+15 ml reduced-sodium soy sauce (for umami depth)
+Italian herbs, garlic powder, onion powder
+Method
+1. Soak the dry TVP in the hot broth for 5–10 minutes until
+fully expanded.
+2. In a non-stick pan, add the rehydrated TVP, passata, spices
+and soy sauce.
+3. Simmer until the sauce thickens.
+4. Stir in the zucchini right at the end to keep it crunchy or
+serve the sauce over zucchini noodles.
+Calories: 310
+Protein: 37 g
+Carb: 40 g
+Fat: 2 g
+#### 23. Seitan chicken stir-fry
