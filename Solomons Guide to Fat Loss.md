@@ -1591,6 +1591,7 @@ you aimed for 0.5 kg or 1.5 kg; the method for correcting the
 discrepancy is always the same: for every 0.1 kg (0.2 lbs) by
 which you are short of your target, you need a 110-calorie
 daily adjustment.
+
 # Supplementary Notes
 ## Determining Maintenance Calories
 ### Method A: the two-week maintenance test
