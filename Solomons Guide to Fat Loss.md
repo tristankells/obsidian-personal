@@ -772,7 +772,7 @@ You have the metrics, the understanding and the tools. Fat loss is something wit
   - Current weight: 90.0 kg
   - Calculated maintenance: 2,890 calories
   - The calculation: 2,890 / 90 = 32.1 kcal/kg
-- Next time you decide to diet, simply take your new body weight and multiply it by your personal maintenance multiplier to find out your updated maintenance calories instantly. <!-- TODO: source text was garbled ("next time you decide to diet—whether simply take..."). -->
+- Next time you decide to diet, simply take your new body weight and multiply it by your personal maintenance multiplier to find out your updated maintenance calories instantly.
 - This is less accurate if your lifestyle changes drastically (e.g., transitioning from an active job to a desk job) or if you substantially alter your ratio of muscle to body fat.
   - It is a better and more individualized starting point than any generic formula you will find on the internet.
 
