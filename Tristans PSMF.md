@@ -5,7 +5,7 @@
 - For men, research points toward a Body Mass Index **(BMI) of roughly 23 to 27** as the most visually appealing.
   - **18.5-24.9 is a normal BMI** range ([Heart Foundation BMI calculator](https://www.heartfoundation.org.nz/wellbeing/body-size-and-heart-health/bmi-calculator)).
 - ...favourable body **fat percentage ranges for health have been shown to be between 12% and 20%** for men.
-# Protein Goal - 209g
+# Protein Goal - 184g
 - 83.7 x 2.2 = 184.14g
 - If you have a significant amount of body fat to lose (e.g., >25% for men or >35% for women)... use your goal body weight instead.
 - For example, a 130 kg person aiming for 90 kg would use 90 kg as the basis for the equation (90 kg × 2.2 g/kg), dropping their requirement from a bloated 286 grams to a more manageable 198 grams per day.
