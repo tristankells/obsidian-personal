@@ -136,4 +136,59 @@ Drain the tuna and chicken and mix them with chopped tomato, cucumber, lime or l
 - **Option 5:** sweet or mini peppers, gherkins, mustard
 - **Option 6:** limes, smoked paprika, cumin, and a 5th tuna tin as a backup
 
-Want me to combine some of these into a rotating 7-day plan that reuses ingredients to keep waste and cost down?
+Here's a 7-day rotation. Every day lands at roughly 182-187g protein (weekly average about 185g), and fridge stock is bought in two short shops so you only ever store a few days of fresh food.
+
+## The week
+
+|Day|Meal|Protein|Fridge?|
+|---|---|---|---|
+|1|Chicken and tuna lettuce wraps (Option 1)|~182g|Yes|
+|2|Turkey roll-ups and cottage cheese (Option 3)|~185g|Yes|
+|3|Tuna and cottage cheese stuffed peppers with turkey roll-ups (Option 5, turkey instead of ham)|~187g|Yes|
+|4|Mexican-style tuna bowl (Option 6)|~185g|No|
+|5|Chicken and tuna lettuce wraps (Option 1)|~182g|Yes|
+|6|Prawn cocktail cups with chicken (Option 4)|~187g|Yes|
+|7|Tuna and biltong bowl (Option 2, 1 scoop whey)|~186g|No|
+
+The fridge empties on day 4, and day 7 needs no fridge at all, so a lost or unreliable fridge never derails the week. Swap days freely as long as you keep the two shopping windows below in mind.
+
+## Shop 1 (before day 1)
+
+**Fresh, for days 1-3:**
+
+- Pre-cooked chicken breast, 300g (buy 2 x 150g packs so each is finished in one sitting)
+- Sliced lean turkey breast, 700g total (400g for day 2, 300g for day 3)
+- Fat-free quark or skyr, 300g
+- Low-fat cottage cheese, 900g total
+- Sweet or mini peppers, about 6
+- Iceberg or cos lettuce, 1 head
+- Spinach, 1 bag
+- Cucumbers, 3
+- Gherkins, 1 jar
+
+**Shelf-stable, for the whole week:**
+
+- Tuna in spring water, 16 tins (multipacks are cheapest)
+- Tinned chicken breast, 1 tin (or a 17th tuna tin if you can't find it)
+- Lean biltong, 100g
+- Whey protein, 7 scoops total (one 1kg tub lasts a month)
+- Cherry tomatoes, 2 punnets (these keep a few days, so buy a second punnet at Shop 2 if needed)
+- Lemons (4), limes (2), mustard, hot sauce, smoked paprika, cumin, black pepper
+- Lite salt, magnesium, fish or algae oil (one-off staples)
+
+## Shop 2 (before day 5, e.g. Thursday evening)
+
+- Pre-cooked chicken breast, 550g (300g for day 5, 250g for day 6)
+- Fat-free quark or skyr, 600g (300g each for days 5 and 6)
+- Cooked peeled prawns, 400g, chilled and bought fresh (frozen also works if you have freezer space; thaw overnight in the fridge)
+- Iceberg or cos lettuce, 1-2 heads
+- Cucumbers, 2
+- Celery, 1 bunch
+
+## Cost
+
+Roughly £50-65 per week, including whey but not the one-off staples. Day 6 (prawns) is the priciest, so swap it for a repeat of Option 1 if you want to cut about £3-4.
+
+Buying pre-cooked meats in smaller packs means less waste, since each pack gets finished in one sitting. Check use-by dates when you shop, because chilled cooked meat usually needs eating within 1-2 days of opening.
+
+I can also turn this into a printable checklist with tick boxes for each shop if that would help.
