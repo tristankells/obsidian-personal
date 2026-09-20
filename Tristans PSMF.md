@@ -99,3 +99,41 @@ Spread mustard over overlapping turkey slices, add spinach and cucumber sticks, 
 Everything else (veg, lemons, mustard, hot sauce, Lite salt, magnesium, fish or algae oil) is unchanged. You now need only 1 scoop of whey per day, so a 1kg tub lasts about a month.
 
 If you'd like to fine-tune the numbers, adding or dropping a scoop of whey (~24g) or about 100g of cooked chicken (~23g) moves the total in small steps.
+
+Here are three more ideas at about 184g protein. Estimates are approximate, so check your labels.
+
+### Option 4: Prawn cocktail lettuce cups (needs a fridge, ~£10–12/day)
+
+- 400g cooked peeled prawns ≈ 72g
+- 250g pre-cooked chicken breast ≈ 58g
+- 300g fat-free quark or skyr ≈ 33g
+- 1 scoop whey ≈ 24g
+- **Total ≈ 187g**
+
+Stir the quark with lemon juice, hot sauce and black pepper to make a light cocktail sauce. Fold in the prawns and spoon the mixture into cos or iceberg leaves, then eat the chicken alongside with cucumber and celery sticks. Shake the whey with water. If you buy frozen prawns, thaw them overnight in the fridge and finish them within 24 hours. This is the priciest option, so use it as a treat day.
+
+### Option 5: Tuna and cottage cheese stuffed peppers (needs a fridge, ~£7–9/day)
+
+- 3 tins tuna in spring water ≈ 84g
+- 400g low-fat cottage cheese ≈ 46g
+- 300g lean sliced ham or turkey ≈ 57g
+- **Total ≈ 187g**
+
+Drain the tuna and mix it with the cottage cheese, pepper, chopped gherkins and mustard. Halve a few sweet peppers or mini peppers, scoop out the seeds, and fill them with the mix. Roll the ham or turkey slices and eat them on the side.
+
+### Option 6: Shelf-stable Mexican-style tuna bowl (no fridge, ~£6–8/day)
+
+- 4 tins tuna in spring water ≈ 112g
+- 1 tin chicken breast in brine ≈ 25g (availability varies, so use a 5th tuna tin if you can't find it)
+- 2 scoops whey ≈ 48g
+- **Total ≈ 185g**
+
+Drain the tuna and chicken and mix them with chopped tomato, cucumber, lime or lemon juice, hot sauce, smoked paprika and cumin. Eat it from a tub, or scoop it into lettuce leaves for a taco feel. Shake the whey with water. This is the cheapest option and doesn't need a fridge.
+
+### Shopping list additions
+
+- **Option 4:** cooked peeled prawns, plus lemons and hot sauce
+- **Option 5:** sweet or mini peppers, gherkins, mustard
+- **Option 6:** limes, smoked paprika, cumin, and a 5th tuna tin as a backup
+
+Want me to combine some of these into a rotating 7-day plan that reuses ingredients to keep waste and cost down?
