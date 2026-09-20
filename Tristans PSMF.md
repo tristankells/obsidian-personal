@@ -62,10 +62,40 @@ Liquid egg whites (cartons) or fat-free egg substitutes (like Egg Beaters), fat-
 
 
 
-I want to build a budget meal plan around OMAD + protien modified fast, included notes on what this is below:
-This will be while I live in London.  
-I need to hit around 209g protein.  
-I prefer to keep it simple and budget friendly.  
-I would like you to give me a shopping list and cooking instructions.  
-I would like it to be no cook because I might not have access to a kitchen. like wraps with precooked meats or something along those lines
-I would like 3 options that presume I have limited access to a kitchen and limited food storage space.
+# Recipes Ideas
+Here are the three options rescaled to about 184g protein. The assembly steps are the same as before, and the shopping list only changes in quantities. Roughly 900 kcal a day including veg and fish oil.
+
+### Option 1: Chicken and tuna lettuce wraps (needs a fridge, ~£7–9/day)
+
+- 300g pre-cooked chicken breast ≈ 69g
+- 2 tins tuna in spring water ≈ 56g
+- 300g fat-free quark or skyr ≈ 33g
+- 1 scoop whey ≈ 24g
+- **Total ≈ 182g**
+
+Mix the drained tuna with a few spoonfuls of the quark, lemon juice and mustard. Pile it and the chicken into doubled-up iceberg or cos leaves with cucumber and spinach. Eat the rest of the quark on the side and shake the whey with water.
+
+### Option 2: Shelf-stable, no fridge (~£8–10/day)
+
+- 4 tins tuna in spring water ≈ 112g
+- 100g lean biltong ≈ 50g
+- 1 scoop whey ≈ 24g
+- **Total ≈ 186g**
+
+Drain the tuna and dress it with lemon juice or vinegar, mustard and pepper, plus chopped cucumber and tomatoes. Eat it in lettuce leaves or straight from a tub, with the biltong on the side and the whey shaken with water.
+
+### Option 3: Turkey roll-ups and cottage cheese (needs a fridge, ~£6–8/day)
+
+- 400g sliced lean turkey or chicken breast ≈ 76g
+- 500g low-fat cottage cheese ≈ 57g
+- 1 tin tuna ≈ 28g
+- 1 scoop whey ≈ 24g
+- **Total ≈ 185g**
+
+Spread mustard over overlapping turkey slices, add spinach and cucumber sticks, and roll them up. Season the cottage cheese with pepper, herbs and Lite salt, stir in the tuna, and eat it on the side with the whey shaken with water.
+
+### Shopping list changes
+
+Everything else (veg, lemons, mustard, hot sauce, Lite salt, magnesium, fish or algae oil) is unchanged. You now need only 1 scoop of whey per day, so a 1kg tub lasts about a month.
+
+If you'd like to fine-tune the numbers, adding or dropping a scoop of whey (~24g) or about 100g of cooked chicken (~23g) moves the total in small steps.
