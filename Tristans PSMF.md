@@ -14,7 +14,13 @@
 # Habits
 - Weight / track everything you eat.
 - Weigh yourself every morning.
+- 7,000 steps to be the evidence-based minimum.
 
+# Supplements
+- creatine monohydrate (3–5 grams daily);
+- melatonin (0.3–1.0 milligrams daily);
+- 
 #  Setting up a protein-sparing modified fast
+- Consume your protein target, keep fat and carbs as low as possible.
 - Essential Fatty Acids (EFAs) and electrolytes should be supplemented daily.
 - Integrate strategic maintenance days or full diet breaks periodically to prevent burnout.
