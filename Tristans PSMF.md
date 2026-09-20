@@ -10,7 +10,10 @@
 - If you have a significant amount of body fat to lose (e.g., >25% for men or >35% for women)... use your goal body weight instead.
 - For example, a 130 kg person aiming for 90 kg would use 90 kg as the basis for the equation (90 kg × 2.2 g/kg), dropping their requirement from a bloated 286 grams to a more manageable 198 grams per day.
 - When personally executing a PSMF as a lean, resistance-training dieter, I set a minimum of 2.5 grams of protein per kilogram of lean body mass and permit flexibility above that threshold.
-# Maintenance Calories
+# Maintenance Calories ~ 3385
+![[Pasted image 20260920121249.png]]
+![[Pasted image 20260920121302.png]]
+- After 4 weeks of dieting and tracking, revisit for more accurate numbers.
 # Habits
 - Weight / track everything you eat.
 - Weigh yourself every morning.
@@ -19,7 +22,11 @@
 # Supplements
 - creatine monohydrate (3–5 grams daily);
 - melatonin (0.3–1.0 milligrams daily);
-- 
+- fish oil or algae oil (2–4 grams of combined EPA/DHA daily);
+- vitamin D (3000–5000 IU daily);
+- a multivitamin;
+- prebiotics (3–5 grams daily to start, to manage hunger and support gut health when food volume is low); and
+- psyllium husk (5–20 grams daily, taken with ample water, away from other supplements/medications).
 #  Setting up a protein-sparing modified fast
 - Consume your protein target, keep fat and carbs as low as possible.
 - Essential Fatty Acids (EFAs) and electrolytes should be supplemented daily.
