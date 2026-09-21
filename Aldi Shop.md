@@ -1,0 +1,5 @@
+- Vitamin D - https://www.aldi.co.uk/product/activ-max-high-strength-vitamin-d-000000000520617002
+	- 25 µg = **1,000 IU**
+	- 3,000-5,000 IU is **75-125 µg**
+- https://www.aldi.co.uk/product/activ-max-high-strength-multivitamins-000000000520617003
+- 
