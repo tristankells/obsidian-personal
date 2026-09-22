@@ -1,13 +1,14 @@
 # Once Tristan has left...
-- Mobile - Spotify
+- Mobile - Spotify (04-Oct-2026)
 - Mobile - Spark Prepay
-- Classpass 
+
 
 # Once Marliese has left...
 - Internet
 - Electricity
 - Contents Insurance
 - Pet Insurance
+- Classpass 
 - Cat
 	- Feliway
 	- Baby Food
