@@ -6,5 +6,8 @@ Classpass
 # Once Marliese has left...
 Internet
 Electricity
+Contents Insurance
+# Bills to add...
+
 
 
