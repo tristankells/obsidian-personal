@@ -1,8 +1,7 @@
 # Once Tristan has left...
 - Mobile - Spotify (04-Oct-2026)
 - Mobile - Spark Prepay
-
-
+- Cancel Car Insurance
 # Once Marliese has left...
 - Internet
 - Electricity
