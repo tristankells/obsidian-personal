@@ -1,0 +1,6 @@
+- Sort in new categories groupings, Bills, Needs, Wants, New Zealand Needs.
+- Check if you have a list of categories that get asked for during applications.
+- Remove Fire, Extra Notes, Distinction, Emergency Savings Calculation.\
+	- Make that works on new Envelopes app.
+- Add country of billing...
+- Remove food, and eating out categoryes.

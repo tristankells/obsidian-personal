@@ -7,6 +7,7 @@
 - [ ] Where he lives now?
 - [ ] How is the commute?
 - [ ] How often does he come into the office?
-- [ ] 
+- [ ] Any holiday recommendations.
+- [ ] Places to eat in London?
 - [ ] Is it safe to have a backpack? :) 
 - [ ] 
