@@ -1,5 +1,5 @@
 - Most Important
-- How are you handling your taxes, you under IR35
+- How are you handling your taxes, you under `IR35`
 - [ ] **National Insurance number (NINo)** (apply as soon as possible)
 - [ ] **Unique Taxpayer Reference (UTR)**, once you have permanent residence.
 	- [ ] If you start trading on 19 October 2026, that falls in the 2026-27 tax year (6 April 2026 to 5 April 2027). You must register for Self Assessment by **5 October 2027**, which is 5 October after the end of that tax year.
