@@ -175,7 +175,7 @@ User (This is a small app to share with friends, I just want to support a user n
 3. **Enable the Google Drive API**I** — APIs & Services → Library → search "Google Drive API" → Enable.
 4. **Configure OAuth consent screen** — APIs & Services → OAuth consent screen -> Get Started -> Choose External (unless you have Workspace), fill app name/support email. 
 5. While in Testing mode, add your own Google account under Test users (required, or login will be blocked). Audience -> Test Users
-6. **Create credentials** — Credentials → Create Credentials → OAuth client ID → Application type "Desktop app" → any name. Copy the generated Client ID and Client Secret.
+6. **Create credentials** — Clients → Create Client → OAuth client ID → Application type "Desktop app" → any name. Copy the generated Client ID and Client Secret.
 7. **Add scope (if prompted on consent screen config)**:  https://www.googleapis.com/auth/drive.file  (the app only requests this narrow scope — files it creates itself, not your whole Drive).
 
 On your machine: run the app once and click "Connect Google Drive" — it'll throw an error naming the config file path:  %LocalAppData%\Broccoli\google-drive-oauth.json . Create it with:
