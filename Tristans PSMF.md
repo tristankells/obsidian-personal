@@ -45,11 +45,17 @@
 ### One Off Shopping
 - High Strength Vitamin D
 - High Strength Multivitamins
+- Lemon Juice
+- Ioside Salt Shaker
+- Pepper Shaker
+- Italian Herbs 15g
+- Moroccan Seasoning 70g
 ### Meal Ideas
 - **Creamy tuna salad:** Mash a drained tin of tuna with about cottage cheese, a squeeze of lemon, black pepper and chopped cucumber or spring onion. 
 - **Tuna dip:** Blend the cottage cheese first (fork, stick blender or a jar and shake) with garlic powder, lemon, dried dill or parsley and a little salt. Then fold in the tuna and dip veg or crispbread.
 - **Spicy bowl:** Mix tuna, cottage cheese, hot sauce or sriracha, a splash of soy sauce, and cucumber or sweetcorn.
-- 
+- **Mediterranean:** Combine tuna, cottage cheese, chopped tomato, olives, capers, oregano and lemon.
+- **Stuffed veg:** Pile the creamy tuna salad into halved tomatoes or peppers, or an avocado half if you want more fat.
 # Supplements
 - creatine monohydrate (3–5 grams daily);
 - melatonin (0.3–1.0 milligrams daily);
