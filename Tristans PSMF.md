@@ -18,7 +18,7 @@
 - Weight / track everything you eat.
 - Weigh yourself every morning.
 - 7,000 steps to be the evidence-based minimum.
-# UK Protein Sources
+# Cheapest UK Protein Sources
 | Source                       | £ per g protein | £ per 100g protein |
 | ---------------------------- | --------------- | ------------------ |
 | Tuna chunks in brine         | 0.0163          | 1.63               |
@@ -31,6 +31,11 @@
 | TWP Whey, 30 servings        | 0.040           | 3.97               |
 | Turkey breast slices         | 0.0494          | 4.94               |
 | Cooked chicken slices        | 0.0503          | 5.03               |
+|                              |                 |                    |
+## Daily Shopping
+1 tub fat free cottage cheese + 4 tins tuna + 1 slice ham	~185g	£3.32
++ Sweet Leaf Salad  £0.75 = £4.07
++ 
 # Supplements
 - creatine monohydrate (3–5 grams daily);
 - melatonin (0.3–1.0 milligrams daily);
