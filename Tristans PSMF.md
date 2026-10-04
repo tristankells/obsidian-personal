@@ -50,6 +50,15 @@
 - Pepper Shaker
 - Italian Herbs 15g
 - Moroccan Seasoning 70g
+- Soy Sauce
+- Diet Sprite
+- Mustard
+- Olives 
+- Gherkins
+- Chicken Stock
+- Miso Paste
+- Ginger
+- Garlic Minced
 ### Meal Ideas
 - **Creamy tuna salad:** Mash a drained tin of tuna with about cottage cheese, a squeeze of lemon, black pepper and chopped cucumber or spring onion. 
 - **Tuna dip:** Blend the cottage cheese first (fork, stick blender or a jar and shake) with garlic powder, lemon, dried dill or parsley and a little salt. Then fold in the tuna and dip veg or crispbread.
