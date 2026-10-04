@@ -33,9 +33,19 @@
 | Cooked chicken slices        | 0.0503          | 5.03               |
 |                              |                 |                    |
 ## Daily Shopping
-1 tub fat free cottage cheese + 4 tins tuna + 1 slice ham	~185g	£3.32
+- 1 tub fat free cottage cheese + 4 tins tuna + 1 slice ham	~185g	£3.32
 + Sweet Leaf Salad  £0.75 = £4.07
-+ 
+
+| Period                    | GBP      | NZD (at 2.29) |
+| ------------------------- | -------- | ------------- |
+| Per day                   | £4.07    | ~$9.32        |
+| 30-day month              | £122.10  | ~$279.60      |
+| 31-day month              | £126.17  | ~$288.90      |
+| Average month (30.4 days) | ~£123.70 | ~$283.30      |
+### One Off Shopping
+- High Strength Vitamin D
+- High Strength Multivitamins
+- 
 # Supplements
 - creatine monohydrate (3–5 grams daily);
 - melatonin (0.3–1.0 milligrams daily);
