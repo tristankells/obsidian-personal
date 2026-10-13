@@ -43,29 +43,7 @@
 | 30-day month              | £122.10  | ~$279.60      |
 | 31-day month              | £126.17  | ~$288.90      |
 | Average month (30.4 days) | ~£123.70 | ~$283.30      |
-### One Off Shopping
-#### Aldi
-- High Strength Vitamin D
-- High Strength Multivitamins
-- Lemon Juice
-- Ioside Salt Shaker
-- Pepper Shaker
-- Italian Herbs 15g
-- Moroccan Seasoning 70g
-- Soy Sauce
-- Diet Sprite
-- Mustard
-- Olives 
-- Gherkins
-- Chicken Stock
-- Ginger
-- Garlic Minced
-- Instant Coffee
-#### Elsewhere
-- Miso Paste
-- Magnesium
-- Psyllium Husk Supplement
-- Fish Oil
+
 ### Meal Ideas
 - **Creamy tuna salad:** Mash a drained tin of tuna with about cottage cheese, a squeeze of lemon, black pepper and chopped cucumber or spring onion. 
 - **Tuna dip:** Blend the cottage cheese first (fork, stick blender or a jar and shake) with garlic powder, lemon, dried dill or parsley and a little salt. Then fold in the tuna and dip veg or crispbread.
