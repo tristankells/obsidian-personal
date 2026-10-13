@@ -33,6 +33,7 @@
 | Cooked chicken slices        | 0.0503          | 5.03               |
 |                              |                 |                    |
 ## Daily Shopping
+- 300g Fat Free Cottage Cheese: 36.81
 - 1 tub fat free cottage cheese + 4 tins tuna + 1 slice ham	~185g	£3.32
 + Sweet Leaf Salad  £0.75 = £4.07
 
