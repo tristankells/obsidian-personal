@@ -45,3 +45,21 @@
 - [ ] Parkrun - Lloyd Park — 4.20 km
 - [ ] Coombe Wood — 4.78 km
 - [ ] Shirley Windmill — 5.27 km
+
+
+
+- [ ] Wandle Park
+- [ ] St Michael's Church
+- [ ] Croydon Minster
+- [ ] Whitgift Shopping Centre
+- [ ] Surrey Street Market
+- [ ] Museum Of Croydon
+- [ ] The Ludoquist
+- [ ] BOXPARK Croydon
+- [ ] Fairfield Halls (incl. David Lean Cinema)
+- [ ] The Oval Tavern
+- [ ] Park Hill Park
+- [ ] Croydon Airport Visitor Centre
+- [ ] Parkrun - Lloyd Park
+- [ ] Coombe Wood
+- [ ] Shirley Windmill
