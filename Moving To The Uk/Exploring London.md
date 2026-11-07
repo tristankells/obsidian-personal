@@ -61,8 +61,9 @@
 
 ![[Pasted image 20261107205320.png]]
 ### Architecture
-![[Pasted image 20261107205504.png]]
 ![[Pasted image 20261107205356.png]]
+![[Pasted image 20261107205644.png]]
+![[Pasted image 20261107205504.png]]
 ![[Pasted image 20261107205752.png]]
 
 ## Waddon / Purley Way
@@ -71,26 +72,7 @@
 ![[Pasted image 20261107205924.png]]
 ![[Pasted image 20261107205904.png]]
 ![[Pasted image 20261107205846.png]]
-![[Pasted image 20261107205829.png]]
 ![[Pasted image 20261107205823.png]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![[Pasted image 20261107205644.png]]
-
+![[Pasted image 20261107205829.png]]
 # Sutton
 ![[Pasted image 20261107204757.png]]![[Pasted image 20261107204834.png]]![[Pasted image 20261107204923.png]]![[Pasted image 20261107204918.png]]![[Pasted image 20261107205003.png]]![[Pasted image 20261107205033.png]]![[Pasted image 20261107205047.png]]![[Pasted image 20261107205052.png]]![[Pasted image 20261107205110.png]]![[Pasted image 20261107205133.png]]![[Pasted image 20261107205159.png]]![[Pasted image 20261107205219.png]]![[Pasted image 20261107205233.png]]
