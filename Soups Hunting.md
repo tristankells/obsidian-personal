@@ -1,10 +1,10 @@
 | **Soup Name**                                               | **Store** | **Pack Size** | **Total Price** | **Cost per 100g** | **Protein per 100g** | **Again? (Y/N)** |
 | ----------------------------------------------------------- | --------- | ------------- | --------------- | ----------------- | -------------------- | ---------------- |
 | **Bramwells Cream of Mushroom Soup**                        | Aldi      | 400g          | £0.59           | £0.15             | 1.3g                 |                  |
-| **Newgate Pea & Ham Soup**                                  | Lidl      | 400g          | £0.69           | £0.17             | 3.7g                 |                  |
+| **Newgate Pea & Ham Soup**                                  | Lidl      | 400g          | £0.69           | £0.17             | 3.7g                 | N                |
 | **Newgate Lentil Soup**                                     | Lidl      | 400g          | £0.69           | £0.17             | 2.6g                 |                  |
-| **Soupreme Creamy Chicken Soup**                            | Aldi      | 600g          | £1.49           | £0.25             | 1.4g                 |                  |
-| **Health! Nutrition Chicken & Mixed Bean Soup**             | Aldi      | 600g          | £1.69           | £0.28             | 4.5g                 |                  |
+| **Soupreme Creamy Chicken Soup**                            | Aldi      | 600g          | £1.49           | £0.25             | 1.4g                 | N                |
+| **Health! Nutrition Chicken & Mixed Bean Soup**             | Aldi      | 600g          | £1.69           | £0.28             | 4.5g                 | Y                |
 | **Health! Immune Support Tomato & Red Pepper Soup**         | Aldi      | 600g          | £1.69           | £0.28             | 1.5g                 | Y                |
 | **Health! Immune Support Broccoli, Pea & Kale Soup**        | Aldi      | 600g          | £1.69           | £0.28             | 3.2g                 | N                |
 | **Specially Selected Chicken, Parsnip & Rosemary Soup**     | Aldi      | 400g          | £1.29           | £0.32             | 3.7g                 | Y                |
