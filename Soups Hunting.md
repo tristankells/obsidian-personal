@@ -1,5 +1,5 @@
-| **Soup Name**                                               | **Store** | **Pack Size** | **Total Price** | **Cost per 100g** | **Protein per 100g** | **Again? (Y/N)** |
-| ----------------------------------------------------------- | --------- | ------------- | --------------- | ----------------- | -------------------- | ---------------- |
+| **Soup Name** | **Store** | **Pack Size** | **Total Price** | **Cost per 100g** | **Protein per 100g** | **Again? (Y/N)** |
+| ------------- | --------- | ------------- | --------------- | ----------------- | -------------------- | ---------------- |
 | **Bramwells Cream of Mushroom Soup**                        | Aldi      | 400g          | £0.59           | £0.15             | 1.3g                 | N                |
 | **Newgate Pea & Ham Soup**                                  | Lidl      | 400g          | £0.69           | £0.17             | 3.7g                 | Fuck No          |
 | **Newgate Lentil Soup**                                     | Lidl      | 400g          | £0.69           | £0.17             | 2.6g                 | N                |
